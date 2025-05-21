@@ -2,10 +2,44 @@
 title: Ingridients (hidden)
 description: 
 published: false
-date: 2025-05-21T12:00:03.170Z
+date: 2025-05-21T12:01:04.604Z
 tags: alchemy, ingridients
 editor: code
 dateCreated: 2025-05-10T03:08:24.310Z
 -->
 
-<p>a</p>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Skyrim Ingredient Effects</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.13.4/css/jquery.dataTables.min.css">
+  <script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+ 
+</head>
+<body>
+  <h1>Skyrim Ingredient Effects</h1>
+  <div class="filters">
+    <label><input type="checkbox" class="source-filter" value="Vanilla" checked> Vanilla</label>
+    <label><input type="checkbox" class="source-filter" value="DLC" checked> DLC</label>
+    <label><input type="checkbox" class="source-filter" value="Mods" checked> Mods</label>
+    <input type="text" id="effectFilter" placeholder="Szukaj efektu...">
+  </div>
+  <table id="ingredients" class="display">
+    <thead>
+      <tr>
+        <th>Source</th>
+        <th>Ingredient</th>
+        <th>Effect I</th>
+        <th>Effect II</th>
+        <th>Effect III</th>
+        <th>Effect IV</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Data rows will be inserted here -->
+    </tbody>
+  </table>
+
+</body>
+</html>
