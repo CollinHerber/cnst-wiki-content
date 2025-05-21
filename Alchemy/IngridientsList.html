@@ -2,7 +2,7 @@
 title: Ingridients List
 description: 
 published: true
-date: 2025-05-21T12:20:30.203Z
+date: 2025-05-21T12:24:04.782Z
 tags: alchemy, ingridients
 editor: code
 dateCreated: 2025-05-10T02:40:11.123Z
@@ -19,10 +19,12 @@ dateCreated: 2025-05-10T02:40:11.123Z
 <body>
   <h1>Ingridients list</h1>
   <div class="filters">
-    <label><input type="checkbox" class="source-filter" value="Vanilla" checked> Vanilla</label>
+ <label><input type="checkbox" class="source-filter" value="Vanilla" checked> Vanilla</label>
     <label><input type="checkbox" class="source-filter" value="DLC" checked> DLC</label>
     <label><input type="checkbox" class="source-filter" value="Mods" checked> Mods</label>
-    <input type="text" id="effectFilter" placeholder="Type Effect">
+    <select id="effectFilter">
+      <option value="">-- Choose Effect --</option>
+    </select>
   </div>
   <table id="ingredients" class="display">
     <thead>
