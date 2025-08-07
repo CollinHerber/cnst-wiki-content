@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-07T06:09:56.603Z
+date: 2025-08-07T06:10:58.608Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -79,11 +79,11 @@ Learn all skills `10%` faster.
 # Tabs Test {.tabset}
 ## First Tab
 
-Follower
+Akatosh Follower
 
 ## Second Tab
 
-Devotee
+Akatosh Devotee
 
 
 # [**_Arkay_**](https://en.uesp.net/wiki/Lore:Arkay)
