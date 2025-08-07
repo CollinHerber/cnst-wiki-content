@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-07T05:09:19.295Z
+date: 2025-08-07T05:09:33.085Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
