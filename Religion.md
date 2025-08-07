@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-07T05:58:47.690Z
+date: 2025-08-07T06:05:23.598Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -36,9 +36,16 @@ Rare lost artifacts of holy or unholy power exist that will improve your relatio
 
 Most of the lore in this guide is pulled directly from the [Unofficial Elder Scrolls Pages (UESP)](https://en.uesp.net/wiki/Main_Page). Click on the blue links in this guide to learn more about the deities, races, and religions of The Elder Scrolls.
 
-## The Divines
+## [The Divines](https://en.uesp.net/wiki/Lore:Divines)
 
-Learn more about the The Divines deities available in the collection.
+*The Divines are the Aedric deities which make up the official pantheon of the Cyrodilic Empire, and thus have been worshiped all across Tamriel. Their membership was defined by Saint Alessia at the founding of the First Empire in the aftermath of the rebellion she led, blending the Aldmeri religion her people had adopted from their Ayleid captors with the Nordic Pantheon of the people of Skyrim.*
+
+*This new pantheon would stand for thousands of years, until Tiber Septim's reunification of Tamriel and declaration of the Third Era. Upon his death, so great were his deeds that he achieved apotheosis and joined the ranks of the Divines as Talos.*
+
+<details>
+  <summary>Divine Worship</summary>
+  The Divines welcome any who would worship them into the fold, no matter their race or previous deities. Divine favor is slow to build, but the Divines are merciful and their faithful are unlikely to fall out of favor, unless they overtly commit crimes or ignore their religious duties for a long period of time.
+  </details>
 
 ### [**_Akatosh_**](https://en.uesp.net/wiki/Lore:Akatosh)
 
