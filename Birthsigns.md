@@ -2,7 +2,7 @@
 title: Birthsigns
 description: Learn more about the Birthsigns available in the Constellations Collections
 published: true
-date: 2025-08-07T10:08:33.622Z
+date: 2025-08-07T10:12:17.352Z
 tags: birthsign
 editor: markdown
 dateCreated: 2025-04-29T22:22:34.196Z
@@ -12,13 +12,13 @@ Birthsigns are powerful blessings granted by the Constellations that spread acro
 
 Birthsigns are selected when you create a character and can be exchanged for another Birthsign with the same Guardian by activating Standing Stones.
 
-### Mage
+## Mage
 
 The Mage birthsign and its three charges. Once you select one of these Birthsigns, you may not select any birthsign of the other two Guardians or The Serpent.
 
 <img src="https://static.wikia.nocookie.net/elderscrolls/images/1/1f/The_mage.png/revision/latest?format=webp" alt="MageSign" style="float: right; height: 300px; margin-left: 1em; margin-right: 20em; margin-top: 10em">
 
-**Apprentice**
+### **Apprentice**
 
 Magicka Regeneration: `+175%`
 
@@ -28,7 +28,7 @@ Increased manacost `+10%` 
 
 `+15%` magnitude for spells
 
-**Atronach**
+### **Atronach**
 
 Magicka: `+175` 
 
@@ -36,7 +36,7 @@ Spell Absorption: `+20%` 
 
 Disables Magicka Regeneration in Combat
 
-**Mage**
+### **Mage**
 
 Spell Cost: `-7%` 
 
@@ -44,7 +44,7 @@ Enchantment Charge Cost: `-20%`
 
 Scroll Magnitude/Duration: `+15%` 
 
-**Ritual**
+### **Ritual**
 
 Maximum Number of Raised Dead: `+1` 
 
@@ -53,7 +53,7 @@ Disables Usage of Summoning Spells
 Once you select one of these Birthsigns, you may swap it out for any Birthsign within this group by activating a Standing Stone.  
  
 
-### Thief
+## Thief
 
 The Thief birthsign and its three charges. Once you select one of these Birthsigns, you may not select any birthsign of the other two Guardians or The Serpent.
 
@@ -91,7 +91,7 @@ Create Wax Key of any effortless lock
 
 Once you select one of these Birthsigns, you may swap it out for any Birthsign within this group by activating a Standing Stone.
 
-### **_Warrior Birthsigns_**
+## **_Warrior Birthsigns_**
 
 The Warrior birthsign and its three charges. Once you select one of these Birthsigns, you may not select any birthsign of the other two Guardians or The Serpent.
 
