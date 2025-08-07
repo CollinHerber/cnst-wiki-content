@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-07T06:17:05.889Z
+date: 2025-08-07T06:27:23.893Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -142,7 +142,8 @@ Prices are `10%` better.
 
 **Accepts**
 
-Everyone Starting Deity for: Imperial
+Everyone 
+Starting Deity for: Imperial
 
 **Tenets**
 
@@ -152,9 +153,17 @@ Master the skills of the Mage. Strive to raise your Magicka. Never openly break 
 
 Increases your Magicka by `25` points.
 
-**Follower**
+**Boons**
 
-Spells cost `X%` less to cast (based on favor with Julianos).
+<details>
+  <summary>Follower</summary>
+  Spells cost <code>X%</code> less to cast (based on favor with Julianos).
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  Spells and scrolls are <code>X%</code> more effective (based on favor with Julianos).
+</details>
 
 ### [***Kynareth***](https://en.uesp.net/wiki/Lore:Kynareth)
 
@@ -170,8 +179,17 @@ Explore new locations. Strive to raise your Stamina. Receive the Voice of the Sk
 **Shrine Blessing**  
 Increases your Stamina by `25` points.
 
-**Follower**  
-The fierce spirit of Kyne increases movement speed by `10%` in combat.
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  The fierce spirit of Kyne increases movement speed by <code>10%</code> in combat.
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  Pray to Kynareth to summon a sacred Sabre Cat mount.
+</details>
 
 ### [***Mara***](https://en.uesp.net/wiki/Lore:Mara)
 
@@ -187,8 +205,17 @@ Be married. Own one or more houses. Be generous to beggars and children. Receive
 **Shrine Blessing**  
 Restoration spells cost `10%` less to cast.
 
-**Follower**  
-Pray to Mara to cure all diseases affecting you or allies within `40` feet.
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Pray to Mara to cure all diseases affecting you or allies within <code>40</code> feet.
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  Living allies within 40 feet are healed <code>X</code> points per second (based on favor with Mara).
+</details>
 
 ### [***Stendarr***](https://en.uesp.net/wiki/Lore:Stendarr)
 
@@ -204,8 +231,17 @@ Clear dungeons of evil. Slay daedra and the undead. Complete side quests for the
 **Shrine Blessing**  
 Block `10%` more damage.
 
-**Follower**  
-Take `X%` less attack damage from daedra and undead (based on favor with Stendarr).
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Take <code>X%</code> less attack damage from daedra and undead (based on favor with Stendarr).
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  During prayer, you may spend <code>10%</code> favor to gain <code>X%</code> improved attack, defense and healing (based on favor with Stendarr) for 5 minutes or 3 battles.
+</details>
 
 ### [***Talos***](https://en.uesp.net/wiki/Lore:Talos)
 
