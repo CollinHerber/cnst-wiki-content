@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-07T05:09:33.085Z
+date: 2025-08-07T05:23:34.939Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -56,9 +56,18 @@ Fulfill your destiny by saving Tamriel. Raise your character level. Absorb drago
 
 Learn all skills `10%` faster.
 
-**Follower**
+**Boons**
 
-Attacks, spells, scrolls, shouts and enchantments are `X%` better against dragons (based on favor with Akatosh).
+<details>
+  <summary>Follower</summary>
+  Attacks, spells, scrolls, shouts and enchantments are `X%` better against dragons (based on favor with Akatosh).
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  Praying to Akatosh resets the cooldown of your most recently used shout and power.
+</details>
+
 
 ### [**_Arkay_**](https://en.uesp.net/wiki/Lore:Arkay)
 
