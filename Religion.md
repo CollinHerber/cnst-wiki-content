@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-07T06:48:28.772Z
+date: 2025-08-07T07:40:09.450Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -334,6 +334,10 @@ Should you decline the Temptation, the Daedric Prince will not ask again, so cho
 
 Dark Elf / Khajiit / Those who have completed 'The Black Star'
 Starting Deity for: Dark Elf / Khajiit
+<details>
+  <summary>Temptation</summary>
+  Read "Invocation of Azura" or "Azura and the Box"
+  </details>
 
 **Tenets**  
 
@@ -353,4 +357,521 @@ Resist `10%` of magic.
 <details>
   <summary>Devotee</summary>
   Activate a person in combat below <code>X%</code> Health (based on favor with Azura) to paralyze them with 1 Health. Costs <code>5%</code> favor.
+</details>
+
+### [***Boethia***](https://en.uesp.net/wiki/Lore:Boethia)
+
+>*The Prince of Plots. Boethiah is the Prince of deceit and conspiracy, secret plots of murder, assassination, treason, and unlawful overthrow of authority, as well as an important deity to the Dark Elves.*
+
+**Accepts**  
+
+Dark Elf / Those who have completed "Boethiah’s Calling"
+Starting Deity for: Dark Elf
+<details>
+  <summary>Temptation</summary>
+  Read "Boethia’s Proving" or "Boethia’s Glory"
+  </details>
+
+**Tenets**  
+
+Murder the innocent. Strike unseen with sneak attacks. Poison your weapons. Dark Elves are most deserving of my favor.
+
+**Shrine Blessing**  
+
+You are `10%` more effective with one-handed weapons.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Your attacks deal <code>X%</code> more damage when fighting only one opponent (based on favor with Boethiah).
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  During prayer, you may invoke superior Daedric Invisibility for 90 seconds. If broken by a sneak attack, it deals <code>25%</code> more damage. Costs <code>10%</code> favor.
+</details>
+
+### [***Clavicus Vile***](https://en.uesp.net/wiki/Lore:Clavicus_Vile)
+
+>*The Prince of Trickery and Bargains. Clavicus Vile is the Prince whose sphere is power through ritual invocations and Pacts.*
+
+**Accepts**  
+
+Dark Elf / Those who have completed 'A Daedra’s Best Friend'
+Starting Deity for: None
+<details>
+  <summary>Temptation</summary>
+  Read "Feyfolken III"
+  </details>
+
+**Tenets**  
+
+Pray to accept a Pact and complete it as written within the allotted time. Never break or ignore my Pacts.
+
+**Shrine Blessing**  
+
+Conjuration spells cost `10%` less to cast.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Conjuration spells and effects last <code>10%</code> longer. Pray to make a Pact to gain favor with Clavicus Vile.
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  Pray to make a Wish, permanently gaining an additional perk point. Costs <code>30%</code> favor.
+</details>
+
+### [***Hermaeus Mora***](https://en.uesp.net/wiki/Lore:Hermaeus_Mora)
+
+>*The Demon of Knowledge. Hermaeus Mora is the Prince of forbidden knowledge and the scrying of the tides of Fate, of the past and future as read in the stars and heavens, and in whose dominion are the treasures of knowledge and memory.*
+
+**Accepts**  
+
+Wood Elf / Those who have completed 'Discerning the Transmundane'
+Starting Deity for: None
+
+<details>
+  <summary>Temptation</summary>
+  Read "The Doors of Oblivion"
+  </details>
+
+**Tenets**  
+
+Read Eldritch Pages and bind them into Eldritch Tomes. Read books that teach new skills. Become my Champion at the Summit of Apocrypha.
+
+**Shrine Blessing**  
+
+Spells and effects you cast on yourself last `15%` longer.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Find Eldritch Pages on corpses. Similar pages can be bound at a tanning rack to create Eldritch Tomes that improve your magic and shouts.
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  Pray to permanently raise a skill of your choice by one level. Costs <code>5%</code> favor.
+</details>
+
+### [***Hircine***](https://en.uesp.net/wiki/Lore:Hircine)
+
+>*Lord of the Hunt. Hircine is the Huntsman and Father of Manbeasts. As the progenitor of Lycanthropy, he is recognized as the guardian of werecreatures.*
+
+**Accepts**  
+
+Breton / Wood Elf / Werewolf / Those who have completed 'Ill Met by Moonlight'
+Starting Deity for: Wood Elf
+
+<details>
+  <summary>Temptation</summary>
+  Read "The Totems of Hircine"
+  </details>
+
+**Tenets**  
+
+Slay the living in open combat, especially those stronger than you. Live as a werewolf. Pray in the wild. Those skilled in Light Armor are most deserving of my favor.
+
+**Shrine Blessing**  
+
+Regenerate `2%` of your maximum Stamina per second.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Hircine's gift doubles attack damage to living targets with <code>X%</code> or less Health (based on favor with Hircine).
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  During prayer, invoke a Hunt against the living within 500 feet, revealing them and exposing them to Bitter Mercy. Costs <code>10%</code> favor.
+</details>
+
+### [***Jyggalag***](https://en.uesp.net/wiki/Lore:Jyggalag)
+
+>*Jyggalag is the Prince of Order and Logic, locked in an eternal struggle with Sheogorath. His sphere represents logical order and deduction; his great library once contained a logical prediction of every detail of the world and of every action that would ever take place on Mundus or Oblivion.*
+
+**Accepts**  
+
+Everyone
+Starting Deity for: None
+
+**Tenets**  
+
+Activate my Obelisks of Order. Clear dungeons of evil. Slay daedra. Never serve Sheogorath. Those skilled in Heavy Armor are most deserving of my favor.
+
+**Shrine Blessing**  
+
+Deal `15%` more attack damage and critical damage against daedra.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Generates 8 Obelisks of Order in Skyrim. Activating one grants <code>15</code> points of Health, Magicka and Stamina.
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  Activate an opponent in combat to trap them in an inert but invulnerable state for 15 seconds. Costs <code>5%</code> favor.
+</details>
+
+### [***Malacath***](https://en.uesp.net/wiki/Lore:Malacath)
+
+>*Lord of Ash and Bone. Malacath is the Prince of Curses, Keeper of the Bloody Oath and the chief deity of the Orcs. His sphere is 'the patronage of the spurned and ostracized, the keeper of the Sworn Oath, and the Bloody Curse', as well as conflict, battle, broken promises, and anguish.*
+
+**Accepts**  
+
+Dark Elf / Orc / Those who have completed 'The Cursed Tribe'
+Starting Deity for: Dark Elf / Orc
+
+<details>
+  <summary>Temptation</summary>
+  Read "The Code of Malacath"
+  </details>
+
+**Tenets**  
+
+Defeat epic foes. Improve weapons and armor. Never commit a crime against the strongholds. Orcs and those skilled in Smithing are most deserving of my favor.
+
+**Shrine Blessing**  
+
+Your power attacks cost `15%` less Stamina.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Your power attacks deal <code>X%</code> more damage (based on favor with Malacath).
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  When an enemy dies within 40 feet, their killer is healed by <code>X%</code> of the amount of overkill damage dealt (based on favor with Malacath).
+</details>
+
+### [***Mehrunes Dagon***](https://en.uesp.net/wiki/Lore:Mehrunes_Dagon)
+
+>*Sovereign of Destruction. Mehrunes Dagon is the Prince of Destruction, Change and Ambition, and tester of Dark Elves.*
+
+**Accepts**  
+
+Dark Elf / Khajiit / Those who have completed 'Pieces of the Past'
+Starting Deity for: Dark Elf / Khajiit
+
+<details>
+  <summary>Temptation</summary>
+  Read "The Oblivion Crisis"
+  </details>
+
+**Tenets**  
+
+Slay people who stand in your way. Defile the shrines of my enemies. Those skilled in Destruction are most deserving of my favor.
+
+**Shrine Blessing**  
+
+Destruction spells are `10%` more effective.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Daedric fire burns your spirit as you pray, draining Magicka. Stop praying at <code>20%</code> or less to gain more favor and Burning Path activations.
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  Nearby foes burn for <code>X</code> damage and explode on death for <code>X</code> damage (based on favor with Mehrunes Dagon). Pray to recharge.
+</details>
+
+### [***Mephala***](https://en.uesp.net/wiki/Lore:Mephala)
+
+>*The Lady of Whispers. Mephala the Webspinner is the mistress of lies, sex, and murder, and is always weaving a web of intrigue and terror. She is revered mainly by Dark Elves.*
+
+**Accepts**  
+
+Dark Elf / Khajiit / Those who have completed 'The Whispering Door'
+Starting Deity for: Dark Elf / Khajiit
+
+**Tenets**  
+
+Poison your weapons. Strike unseen with sneak attacks. Intimidate the weak. Dark Elves are most deserving of my favor.
+
+**Shrine Blessing**  
+
+Poisons you mix are `15%` more effective.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Sneak attacks deal <code>X%</code> more damage from behind (based on favor with Mephala).
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  During prayer, seize control of the nearest person within 75 feet to fight for you. Costs <code>5%</code> favor.
+</details>
+
+### [***Meridia***](https://en.uesp.net/wiki/Lore:Meridia)
+
+>*The Lady of Infinite Energies is a fallen Magna-Ge, representing the essence of Light. She has a great and everlasting hatred for the undead and will greatly reward any who eliminate them from the world.*
+
+**Accepts**  
+
+High Elf / Those who have completed 'The Break of Dawn'
+Starting Deity for: None
+
+**Tenets**  
+
+Slay the undead. Never summon the undead or become one of them. High Elves and those skilled in Restoration are most deserving of my favor.
+
+**Shrine Blessing**  
+
+Restoration spells are `10%` more effective.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Attacks, spells, scrolls, shouts and enchantments are <code>X%</code> better against Undead (based on favor with Meridia).
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  Activate an Undead opponent in combat to call down a solar strike to deal <code>X</code> damage (based on favor with Meridia) and half to nearby Undead. Costs <code>10%</code> favor.
+</details>
+
+### [***Molag Bal***](https://en.uesp.net/wiki/Lore:Molag_Bal)
+
+>*Lord of Brutality. Molag Bal is the Prince of Rape, Domination and Enslavement, and the father of vampires. His ultimate desire is to harvest the souls of all mortals, bringing them within his sway by spreading seeds of strife and discord in the mortal realms.*
+
+**Accepts**  
+
+Dark Elf / Vampire / Those who have completed 'The House of Horrors'
+Starting Deity for: Dark Elf
+
+<details>
+  <summary>Temptation</summary>
+  Read "Opusculus Lamae Bal"
+  </details>
+
+**Tenets**  
+
+Slay people who stand in your way. Trap souls in my name. Live as a vampire and never seek a cure. Those skilled in Destruction are most deserving of my favor.
+
+**Shrine Blessing**  
+
+Destruction spells cost `10%` less to cast.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Absorbs <code>X</code> Magicka and Stamina per second (based on favor with Molag Bal) from nearby enemies in combat.
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  Activate a person in combat to banish them to Coldharbour. Pray to request the items. Costs <code>15%</code> favor.
+</details>
+
+### [***Namira***](https://en.uesp.net/wiki/Lore:Namira)
+
+>*The Lady of Decay. Namira is The Goddess of the Dark, ruler of shadows and patron of revolting creatures and people, whose sphere is the ancient Darkness. She is the Daedric Prince of spirits and shadows, as well as the patron of vermin and squalor.*
+
+**Accepts**  
+
+Dark Elf / Those who have completed 'The Taste of Death'
+Starting Deity for: None
+
+<details>
+  <summary>Temptation</summary>
+  Read "Beggar Prince"
+  </details>
+
+**Tenets**  
+
+Murder the innocent. Poison your weapons. Eat the corpses of the dead with my Ring. Be generous to beggars.
+
+**Shrine Blessing**  
+
+Increases Disease Resistance by `25%`.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Reduces Poison Resist of all within 40 feet by <code>X%</code> (based on favor with Namira).
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  Poisoning a person or putting a Human Heart or Flesh into their inventory attracts insects, reducing armor by <code>X%</code> and dealing <code>X</code> disease damage (based on favor with Namira).
+</details>
+
+### [***Nocturnal***](https://en.uesp.net/wiki/Lore:Nocturnal)
+
+>*The Empress of Murk. She is the oldest Daedra, known as the Mistress of Mysteries, the Unfathomable, and Lady Luck, whose sphere is the night and darkness.*
+
+**Accepts**  
+
+Dark Elf / Those who have completed 'Darkness Returns'
+Starting Deity for: None
+
+<details>
+  <summary>Temptation</summary>
+  Read "The Nightingales Vol. 1 or 2" or "Nightingales: Fact or Fiction?"
+  </details>
+
+**Tenets**  
+
+Pickpocket Mysterious Coinpurses. Pick locks successfully. Pray only at night, preferably in darkness. Those skilled in Sneak are most deserving of my favor.
+
+**Shrine Blessing**  
+
+You are `10%` harder to detect.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Praying clears non-violent crime bounties up to <code>X</code> gold (based on favor with Nocturnal).
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  During prayer, you may astrally observe the nearest person within 300 feet.
+</details>
+
+### [***Peryite***](https://en.uesp.net/wiki/Lore:Peryite)
+
+>*The Blighted Lord. Peryite is the Prince of natural order and disease. He is one of the weakest Princes, whose sphere of influence includes tasks, natural order, contamination and pestilence.*
+
+**Accepts**  
+
+Diseased / Those who have completed 'The Only Cure'
+Starting Deity for: None
+
+**Tenets**  
+
+Catch as many diseases as you can. Accept my Gifts of pestilence. Pray only while diseased. Never accept a cure for your afflictions.
+
+**Shrine Blessing**  
+
+Increases Poison Resistance by `50%`. (The shrine does not cure diseases if you are a Follower of Peryite.)
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Learn all skills <code>X%</code> faster (based on favor with Peryite). Pray for Peryite's Gifts to gain favor.
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  Activate a living opponent in combat to inflict all of Peryite's Gifts you have on the target, plus <code>5</code> disease damage per second for each gift. Pray to recharge.
+</details>
+
+### [***Sanguine***](https://en.uesp.net/wiki/Lore:Sanguine)
+
+>*Lord of Revelry. Sanguine's sphere includes debauchery and passionate revelry. He is the patron of brothels.*
+
+**Accepts**  
+
+Dark Elf / Those who have completed 'A Night to Remember'
+Starting Deity for: None
+
+<details>
+  <summary>Temptation</summary>
+  Drink a copious amount of wine and mead
+  </details>
+
+**Tenets**  
+
+Make mischief and commit misdemeanors and crimes worthy of a bounty. Indulge in mead, wine and ale. Find your own way out of jail.
+
+**Shrine Blessing**  
+
+Using beneficial potions and alchemical ingredients is `15%` better.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Magicka and Stamina regenerate <code>60%</code> faster while a potion, food item or ingredient is active.
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  Can pray in combat, forcing the <code>5</code> nearest hostile people to dance for 20 seconds. Costs <code>10%</code> favor.
+</details>
+
+### [***Sheogorath***](https://en.uesp.net/wiki/Lore:Sheogorath)
+
+>*The Mad God. Sheogorath is the Prince of Madness, whose motives are fickle and unknown.*
+
+**Accepts**  
+
+Dark Elf / Khajiit / Those who have completed 'The Mind of Madness'
+Starting Deity for: Dark Elf / Khajiit
+
+<details>
+  <summary>Temptation</summary>
+  Read "Myths of Sheogorath" or "16 Accords of Madness, v. IX, v. VI, or v. XII"
+  </details>
+
+**Tenets**  
+
+Pray often and receive Sheogorath's Touch of Madness. Never disrespect cheese.
+
+**Shrine Blessing**  
+
+Grants a random blessing!
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Praying grants a random Touch of Madness. High favor with Sheogorath yields more beneficial effects.
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  Receive a Touch of Madness whenever you enter combat.
+</details>
+
+### [***Vaermina***](https://en.uesp.net/wiki/Lore:Vaermina)
+
+>*The Lady of Dreams and Nightmares. Vaermina is the Weaver of the Panoply and the terrifying Prince of Nightmares and Evil Omens. All mortals come under her sway as they sleep.*
+
+**Accepts**  
+
+Dark Elf / Those who have completed 'Waking Nightmare'
+Starting Deity for: None
+
+**Tenets**  
+
+Witness the death of those under your mind affecting spells. Kill people in their sleep. Sleep to pray. Those skilled in Illusion are most deserving of my favor.
+
+**Shrine Blessing**  
+
+Illusion spells cost `10%` less to cast.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Mind affecting illusion spells work on targets <code>X</code> levels higher (based on favor with Vaermina).
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  Activate a sleeping person to summon an illusion to accompany you for an hour. Costs <code>10%</code> favor.
 </details>
