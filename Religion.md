@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-07T05:40:36.955Z
+date: 2025-08-07T05:42:40.505Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -44,6 +44,7 @@ Learn more about the The Divines deities available in the collection.
 
 >*The Dragon God of Time. Chief among the gods, with mastery over the flow of time. Associated with dragons and the qualities of endurance and virtuous service.*
 
+
 **Accepts**
 
 Everyone Starting Deity for: Breton / Imperial / Khajiit / Nord
@@ -71,7 +72,7 @@ Learn all skills `10%` faster.
 
 ### [**_Arkay_**](https://en.uesp.net/wiki/Lore:Arkay)
 
-*The Mortals' God. God of cycles, particularly that of birth and death. Presides over funerals and burial rites, as well as ushering in the changes of the seasons.*
+>*The Mortals' God. God of cycles, particularly that of birth and death. Presides over funerals and burial rites, as well as ushering in the changes of the seasons.*
 
 **Accepts**
 
@@ -91,7 +92,7 @@ Regenerate up to `5%` of your maximum Health per second based on missing Health.
 
 ### [**_Dibella_**](https://en.uesp.net/wiki/Lore:Dibella)
 
-*Goddess of beauty and art, and one of the most popular of the Divines. Widespread cults are dedicated to both healing and sexual instruction.*
+>*Goddess of beauty and art, and one of the most popular of the Divines. Widespread cults are dedicated to both healing and sexual instruction.*
 
 **Accepts**
 
@@ -111,7 +112,7 @@ Lover's Comfort (gained by sleeping with one's spouse) also improves all skills 
 
 ### [**_Julianos_**](https://en.uesp.net/wiki/Lore:Julianos)
 
-*God of logic, wisdom, and the arts of magic. His temples act as educational institutions in literature, history, and law.*
+>*God of logic, wisdom, and the arts of magic. His temples act as educational institutions in literature, history, and law.*
 
 **Accepts**
 
@@ -131,7 +132,7 @@ Spells cost `X%` less to cast (based on favor with Julianos).
 
 ### [***Kynareth***](https://en.uesp.net/wiki/Lore:Kynareth)
 
-*Goddess of the heavens, winds, and rain. Patron of sailors and travelers, and often propitiated for good fortune in life.*
+>*Goddess of the heavens, winds, and rain. Patron of sailors and travelers, and often propitiated for good fortune in life.*
 
 **Accepts**  
 Everyone  
