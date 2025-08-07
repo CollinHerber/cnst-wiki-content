@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-07T13:08:19.365Z
+date: 2025-08-07T13:20:17.294Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -232,7 +232,7 @@ Restoration spells cost `10%` less to cast.
 
 <details>
   <summary>Follower</summary>
-  Pray to Mara to cure all diseases affecting you or allies within <code>40</code> feet.
+  Increases your health regeneration by <2> while out of combat. Pray to Mara to cure all diseases affecting you or allies within <code>40</code> feet.
   </details>
 
 <details>
@@ -268,7 +268,7 @@ Block `10%` more damage.
 
 <details>
   <summary>Devotee</summary>
-  During prayer, you may spend <code>10%</code> favor to gain <code>X%</code> improved attack, defense and healing (based on favor with Stendarr) for 5 minutes or 3 battles.
+  During prayer, you may spend <code>10%</code> favor to gain <code>X%</code> improved physical damage reduction, healing spells and effects and restores Health (based on favor with Stendarr) for 5 minutes or 3 battles.
 </details>
 
 ### [***Talos***](https://en.uesp.net/wiki/Lore:Talos)
@@ -707,7 +707,7 @@ Destruction spells cost `10%` less to cast.
 
 <details>
   <summary>Devotee</summary>
-  Activate a person in combat to banish them to Coldharbour. Pray to request the items. Costs <code>15%</code> favor.
+  Activate a person in combat to banish them to Coldharbour. Pray to request the items. Costs <code>50%</code> favor.
 </details>
 
 ### [***Namira***](https://en.uesp.net/wiki/Lore:Namira)
@@ -939,7 +939,7 @@ You are `10%` more effective with missile weapons.
 
 <details>
   <summary>Follower</summary>
-  Learn all skills <code>X%</code> faster (based on favor with Auriel).
+  During the day you learn all skills <code>X%</code> faster (based on favor with Auriel).
   </details>
 
 <details>
@@ -1282,7 +1282,7 @@ Items are enchanted `5%` stronger.
 
 <details>
   <summary>Devotee</summary>
-  On death, enter an ethereal ascended state. If combat ends within <code>X</code> seconds, brings you back to life (based on favor with Tall Papa) for <code>10%</code> favor. Pray to reset.
+  On death, enter an ethereal ascended state. If combat ends within <code>X</code> seconds, brings you back to life (based on favor with Tall Papa) for <code>20%</code> favor. Pray to reset.
 </details>
 
 ### [***The HoonDing***](https://en.uesp.net/wiki/Lore:HoonDing)
@@ -1437,7 +1437,7 @@ Pickpocketing is `10%` easier.
 
 <details>
   <summary>Follower</summary>
-  Buying items from other races is <code>X%</code> more expensive, but pickpocketing is <code>X%</code> easier (based on favor with Baan Dar).
+  Selling to fences is <code>X%</code> more lucrative. Pickpocketing is <code>X%</code> easier (based on favor with Baan Dar).
   </details>
 
 <details>
