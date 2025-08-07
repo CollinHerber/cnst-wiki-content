@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-07T07:40:09.450Z
+date: 2025-08-07T08:07:22.887Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -874,4 +874,258 @@ Illusion spells cost `10%` less to cast.
 <details>
   <summary>Devotee</summary>
   Activate a sleeping person to summon an illusion to accompany you for an hour. Costs <code>10%</code> favor.
+</details>
+
+## [The Elven Ancestors](https://en.uesp.net/wiki/Lore:Altmer)
+>The body of the divine wills us into being. Venerate the gods as one. For we are one with the gods.
+
+The [Altmer](https://en.uesp.net/wiki/Lore:Varieties_of_Faith:_The_High_Elves) and [Bosmer](https://en.uesp.net/wiki/Lore:Varieties_of_Faith:_The_Wood_Elves) believe themselves to be descended from the divine Aedra who populated Mundus after Lorkhan deceived them into creating the mortal plane. Many of the deities they worship are the most powerful or well-known of these ancestors.
+
+The priests of Auri-El teach that the Hand of Auri-El, the Eye of Magnus, the Arm of Trinimac, the Bones of Y'ffre, the Mouth of Xarxes, and the Heart of Mara form a single 'divine body' which must be venerated as one, and with which the Altmer themselves are one.
+
+<details>
+  <summary>Elven Ancestor Worship</summary>
+  Like the Divines, the sacred ancestors of the elven races reward long term relationships. Elven doctrine demands perfection in all things, but helping others is not usually a priority for the ancestors. As a result, they do not penalize you for committing crimes.
+  </details>
+
+### [***Auriel***](https://en.uesp.net/wiki/Lore:Auri-El)
+
+>*Abandoning the mortal world as a mistake, the King of the Gods challenges his Elven children to attain perfection and regain their lost divinity. Most Altmeri and Bosmeri claim direct descent from Auri-El.*
+
+>*The Hand of Auri-El is always on our shoulder. Guiding us through life and protecting us from harm.*
+
+**Accepts**  
+
+Breton / High Elf / Wood Elf
+Starting Deity for: High Elf / Wood Elf
+
+**Tenets**  
+
+Fulfill your destiny by saving Tamriel. Master all skills. Become my Champion at my sacred Chantry. High Elves are most deserving of my favor.
+
+**Shrine Blessing**  
+
+You are `10%` more effective with missile weapons.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Learn all skills <code>X%</code> faster (based on favor with Auriel).
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  Attaining level <code>100</code> in a skill improves that skill by <code>X%</code> (based on favor with Auriel).
+</details>
+
+### [***Jephre***](https://en.uesp.net/wiki/Lore:Y'ffre)
+
+>*Jephre the Storyteller and Spirit of the Now is the most important Bosmeri god and patron of Valenwood. He is said to have given up his form to establish the rules and principles of nature and life on Nirn, the first of his kind to do so.*
+
+>*The Bones of Y'ffre surround us, giving us food, shelter, warmth, and companionship.*
+
+**Accepts**  
+
+Everyone
+Starting Deity for: High Elf / Wood Elf
+
+**Tenets**  
+
+Explore new locations. Read the stories of others. Hunt animals. Wood Elves are most deserving of my favor.
+
+**Shrine Blessing**  
+
+Carrying capacity increased by `25` points.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  The unbounded spirit of Jephre increases movement speed by <code>10%</code> when out of combat.
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  Stamina regenerates very quickly out of combat. Praying to Jephre brings clear weather.
+</details>
+
+### [***Magnus***](https://en.uesp.net/wiki/Lore:Magnus)
+
+>*The architect of creation, Magnus left the sun in his wake, through which magic enters the world.*
+
+>*The Eye of Magnus is always upon us, in the spells and enchantments that devout Mages conjure.*
+
+**Accepts**  
+
+Everyone
+Starting Deity for: Breton / High Elf / Wood Elf
+
+**Tenets**  
+
+Practice magic successfully while praying. Safeguard the Eye of Magnus. Create enchanted items.
+
+**Shrine Blessing**  
+
+`10%` chance to absorb a hostile spell and recharge your Magicka.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Magicka does not regenerate, but praying rapidly replenishes Magicka. Spells cost <code>60%</code> less to cast.
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  Praying, automatically casts the (beneficial self targeted) spells in your hands for no Magicka and they last <code>X%</code> longer (based on favor with Magnus).
+</details>
+
+### [***Phynaster***](https://en.uesp.net/wiki/Lore:Phynaster)
+
+>*Ancestor god of Summerset, Phynaster taught his people to live longer by using a shorter stride. He is associated with the Ring of Phynaster.*
+
+**Accepts**  
+
+Breton / High Elf / Wood Elf
+Starting Deity for: Breton / High Elf / Wood Elf
+
+**Tenets**  
+
+Explore new locations. Find the standing stones of Skyrim. Harvest the fruits of nature. Bretons are most deserving of my favor.
+
+**Shrine Blessing**  
+
+Potions and poisons you mix are `10%` stronger.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Magicka and Stamina regenerate <code>100%</code> faster when standing still but <code>50%</code> slower when moving.
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  During prayer, you may teleport back to the last location where you prayed. Costs <code>2%</code> favor.
+</details>
+
+### [***Syrabane***](https://en.uesp.net/wiki/Lore:Syrabane)
+
+>*An Aldmeri ancestor-god, Syrabane the Apprentices' God was once a mortal archmage.*
+
+**Accepts**  
+
+Breton / High Elf / Wood Elf
+Starting Deity for: High Elf
+
+**Tenets**  
+
+Acquire knowledge by reading books. Study a wide variety of spells. High Elves are most deserving of my favor.
+
+**Shrine Blessing**  
+
+Regenerate `2%` of your maximum Magicka per second.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  You are more likely to find spell tomes and scrolls on enemies you kill.
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  Learn all Mage skills <code>X%</code> faster (based on favor with Syrabane).
+</details>
+
+### [***Trinimac***](https://en.uesp.net/wiki/Lore:Trinimac)
+
+>*An Aldmeri ancestor-god, Trinimac the Warrior led the armies of the original Elven tribes against mankind.*
+
+>*The Arm of Trinimac bears arms against our enemies, shielding us in our darkest hour.*
+
+**Accepts**  
+
+High Elf / Orc / Wood Elf
+Starting Deity for: High Elf / Orc
+
+**Tenets**  
+
+Slay humans. Defeat epic foes. Never accept Boethiah's blessing or serve her. Those skilled in Two-Handed are most deserving of my favor.
+
+**Shrine Blessing**  
+
+You are `10%` more effective with two-handed weapons.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Attacks deal <code>X%</code> more damage and critical damage to humans (based on favor with Trinimac).
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  When praying, you may become ethereal and invulnerable until your next attack. Costs <code>5%</code> favor.
+</details>
+
+### [***Xarxes***](https://en.uesp.net/wiki/Lore:Xarxes)
+
+>*Once a mortal scribe to Auri-El, the historian-god keeps track of all Elven accomplishments.*
+
+>*The Mouth of Xarxes whispers in our ear, encouraging us to always learn, always seek, and always discover.*
+
+**Accepts**  
+
+Breton / High Elf / Wood Elf
+Starting Deity for: Breton / High Elf / Wood Elf
+
+**Tenets**  
+
+Explore new locations. Read the stories of others. Study a wide variety of spells. Bretons are most deserving of my favor.
+
+**Shrine Blessing**  
+
+Scrolls are `25%` more effective.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Learning spells doesn't cause exhaustion.
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  During prayer, you may ascend in a trance, revealing all characters in a very large radius.
+</details>
+
+### [***Z'en***](https://en.uesp.net/wiki/Lore:Z'en)
+
+>*The Wood Elven God of Agriculture and Toil is similar to, but distinct from, the Imperial Zenithar.*
+
+**Accepts**  
+
+Wood Elf
+Starting Deity for: Wood Elf
+
+**Tenets**  
+
+Bribe people as needed. Harvest the fruits of nature. Eat as much food as you want. Those skilled in Speech are most deserving of my favor.
+
+**Shrine Blessing**  
+
+Alteration spells cost `10%` less to cast.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Beneficial potions, food and ingredients last twice as long and are <code>X%</code> better (based on favor with Z'en) if consumed while praying.
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  Pray to open an unlimited extradimensional storage space.
 </details>
