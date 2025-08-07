@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-07T06:11:48.795Z
+date: 2025-08-07T06:17:05.889Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -54,7 +54,8 @@ Most of the lore in this guide is pulled directly from the [Unofficial Elder Scr
 
 **Accepts**
 
-Everyone Starting Deity for: Breton / Imperial / Khajiit / Nord
+Everyone 
+Starting Deity for: Breton / Imperial / Khajiit / Nord
 
 **Tenets**
 
@@ -76,23 +77,15 @@ Learn all skills `10%` faster.
   Praying to Akatosh resets the cooldown of your most recently used shout and power.
 </details>
 
-# Tabs Test {.tabset}
-## Follower
 
-Akatosh Follower
-
-## Devotee
-
-Akatosh Devotee
-
-
-# [**_Arkay_**](https://en.uesp.net/wiki/Lore:Arkay)
+### [**_Arkay_**](https://en.uesp.net/wiki/Lore:Arkay)
 
 >*The Mortals' God. God of cycles, particularly that of birth and death. Presides over funerals and burial rites, as well as ushering in the changes of the seasons.*
 
 **Accepts**
 
-Everyone Starting Deity for: Breton / Imperial / Nord / Wood Elf
+Everyone 
+Starting Deity for: Breton / Imperial / Nord / Wood Elf
 
 **Tenets**
 
@@ -102,9 +95,17 @@ Slay the undead and their summoners. Perform Arkay's Rites. Never openly break t
 
 Increases your Health by `25` points.
 
-**Follower**
+**Boons**
 
-Regenerate up to `5%` of your maximum Health per second based on missing Health. Can perform Arkay's Rites.
+<details>
+  <summary>Follower</summary>
+  Regenerate up to <code>5%</code> of your maximum Health per second based on missing Health. Can perform Arkay's Rites.
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  Revive with full Health upon taking fatal damage. Must pray to use this ability again. Costs <code>15%</code> favor.
+</details>
 
 ### [**_Dibella_**](https://en.uesp.net/wiki/Lore:Dibella)
 
@@ -112,7 +113,8 @@ Regenerate up to `5%` of your maximum Health per second based on missing Health.
 
 **Accepts**
 
-Everyone Starting Deity for: Breton / Imperial / Nord
+Everyone 
+Starting Deity for: Breton / Imperial / Nord
 
 **Tenets**
 
@@ -122,9 +124,17 @@ Persuade others. Receive the blessing of Lover's Comfort. Find a new Sybil for m
 
 Prices are `10%` better.
 
-**Follower**
+**Boons**
 
-Lover's Comfort (gained by sleeping with one's spouse) also improves all skills by `5%`.
+<details>
+  <summary>Follower</summary>
+  Lover's Comfort (gained by sleeping with one's spouse) also improves all skills by <code>5%</code>.
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  Activate a person in combat to make them unequip their items and follow you for 90 seconds. Costs <code>5%</code> favor.
+</details>
 
 ### [**_Julianos_**](https://en.uesp.net/wiki/Lore:Julianos)
 
