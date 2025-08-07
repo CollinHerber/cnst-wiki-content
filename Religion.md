@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-07T09:34:30.347Z
+date: 2025-08-07T09:50:39.228Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -349,6 +349,10 @@ Able to improve items `10%` better.
 
 Should you decline the Temptation, the Daedric Prince will not ask again, so choose wisely. (If you decline, you can still become a follower of the Daedric Prince by visiting their shrine.)
 </details>
+
+<div style="text-align: center;">
+  <img src="https://i.pinimg.com/originals/52/8e/b3/528eb326e79ca1fc8292910792d6f074.png?format=webp&quality=lossless" alt="OblivionSymbol" style="max-width: 30%; height: auto;">
+</div>
 
 ### [***Azura***](https://en.uesp.net/wiki/Lore:Azura)
 
