@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-07T08:55:12.847Z
+date: 2025-08-07T09:04:46.506Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -37,6 +37,8 @@ Rare lost artifacts of holy or unholy power exist that will improve your relatio
 Most of the lore in this guide is pulled directly from the [Unofficial Elder Scrolls Pages (UESP)](https://en.uesp.net/wiki/Main_Page). Click on the blue links in this guide to learn more about the deities, races, and religions of The Elder Scrolls.
 
 ## [The Divines](https://en.uesp.net/wiki/Lore:Divines)
+
+
 
 *The Divines are the Aedric deities which make up the official pantheon of the Cyrodilic Empire, and thus have been worshiped all across Tamriel. Their membership was defined by Saint Alessia at the founding of the First Empire in the aftermath of the rebellion she led, blending the Aldmeri religion her people had adopted from their Ayleid captors with the Nordic Pantheon of the people of Skyrim.*
 
