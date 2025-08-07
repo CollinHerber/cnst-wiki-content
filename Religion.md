@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-07T13:20:17.294Z
+date: 2025-08-07T13:26:39.258Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -1617,6 +1617,35 @@ Deal `15%` more attack damage and critical damage against animals.
 <details>
   <summary>Devotee</summary>
   After using an All-Maker Stone power, pray to the All-Maker to have it restored to you.
+</details>
+  
+### [***The Hist***](https://en.uesp.net/wiki/Lore:Hist)
+
+>*The Hist is a race of divine sentient trees that Argonians claim to be the original forms of life on Tamriel. Most Argonians are dedicated to the Hist as hatchlings. The Hist are said to have foreseen the Oblivion Crisis of the 3rd Era, and called Argonians home to Black Marsh to assault the invading Daedra.*
+
+**Accepts**  
+
+Argonian
+Starting Deity for: Argonian
+
+**Tenets**  
+
+Explore new locations. Slay daedra. Pray only outdoors. Never summon a daedra.
+
+**Shrine Blessing**  
+
+Tough scales increase armor by `50` points.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Pray to gain a <code>X</code> point bonus to all attributes for <code>X</code> seconds (based on favor with the Hist).
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  Absorb <code>X%</code> of the Magicka and Stamina of dead creatures and people within 60 feet (based on favor with the Hist).
 </details>
 
 ### [***The Magna-Ge***](https://en.uesp.net/wiki/Lore:Magna_Ge)
