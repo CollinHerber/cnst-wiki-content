@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-07T09:50:39.228Z
+date: 2025-08-07T09:51:50.011Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -50,7 +50,7 @@ Most of the lore in this guide is pulled directly from the [Unofficial Elder Scr
   </details>
   
 <div style="text-align: center;">
-  <img src="https://static.wikia.nocookie.net/elderscrolls/images/9/9d/Nine_Divines_Stained_Glass.png/revision/latest?format=webp&width=1872&height=468" alt="NineDivinesStainedGlass" style="max-width: 100%; height: auto;">
+  <img src="https://static.wikia.nocookie.net/elderscrolls/images/9/9d/Nine_Divines_Stained_Glass.png/revision/latest?format=webp&width=1872&height=468" alt="NineDivinesStainedGlass" style="max-width: 90%; height: auto;">
 </div>
 
 
@@ -351,7 +351,7 @@ Should you decline the Temptation, the Daedric Prince will not ask again, so cho
 </details>
 
 <div style="text-align: center;">
-  <img src="https://i.pinimg.com/originals/52/8e/b3/528eb326e79ca1fc8292910792d6f074.png?format=webp&quality=lossless" alt="OblivionSymbol" style="max-width: 30%; height: auto;">
+  <img src="https://i.pinimg.com/originals/52/8e/b3/528eb326e79ca1fc8292910792d6f074.png?format=webp&quality=lossless" alt="OblivionSymbol" style="max-width: 20%; height: auto;">
 </div>
 
 ### [***Azura***](https://en.uesp.net/wiki/Lore:Azura)
