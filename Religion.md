@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-07T13:26:39.258Z
+date: 2025-08-07T13:50:20.623Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -295,7 +295,7 @@ Time between shouts is reduced `10%`.
 
 <details>
   <summary>Follower</summary>
-  Attacks, critical strikes and shouts are <code>X%</code> more effective against elves (based on favor with Talos).
+  Attacks and shouts against elves are increased by <code>X%</code>, while attacks against all other enemies are increased by half as much (based on favor with Talos).
   </details>
 
 <details>
@@ -326,7 +326,7 @@ Able to improve items `10%` better.
 
 <details>
   <summary>Follower</summary>
-  Learn Smithing, Alchemy and Enchanting <code>X%</code> faster and they are <code>X%</code> better (based on favor with Zenithar).
+  Learn Smithing, Alchemy and Enchanting <code>X%</code> faster and they are up to <code>10%</code> better (based on favor with Zenithar).
   </details>
 
 <details>
@@ -445,12 +445,12 @@ Conjuration spells cost `10%` less to cast.
 
 <details>
   <summary>Follower</summary>
-  Conjuration spells and effects last <code>10%</code> longer. Pray to make a Pact to gain favor with Clavicus Vile.
+  Pray to make a Pact to gain favor with Clavicus Vile.
   </details>
 
 <details>
   <summary>Devotee</summary>
-  Pray to make a Wish, permanently gaining an additional perk point. Costs <code>30%</code> favor.
+  Pray to make a Wish, permanently gaining an additional perk point. Costs <code>40%</code> favor.
 </details>
 
 ### [***Hermaeus Mora***](https://en.uesp.net/wiki/Lore:Hermaeus_Mora)
@@ -469,7 +469,7 @@ Starting Deity for: None
 
 **Tenets**  
 
-Read Eldritch Pages and bind them into Eldritch Tomes. Read books that teach new skills. Become my Champion at the Summit of Apocrypha.
+Read Eldritch Pages and bind them into Eldritch Tomes. Acquire knowledge by reading books. Study a wide variety of spells. Become my Champion at the Summit of Apocrypha.
 
 **Shrine Blessing**  
 
@@ -484,7 +484,7 @@ Spells and effects you cast on yourself last `15%` longer.
 
 <details>
   <summary>Devotee</summary>
-  Pray to permanently raise a skill of your choice by one level. Costs <code>5%</code> favor.
+  Pray to permanently raise a skill of your choice by one level. Costs <code>15%</code> favor.
 </details>
 
 ### [***Hircine***](https://en.uesp.net/wiki/Lore:Hircine)
@@ -673,7 +673,7 @@ Restoration spells are `10%` more effective.
 
 <details>
   <summary>Devotee</summary>
-  Activate an Undead opponent in combat to call down a solar strike to deal <code>X</code> damage (based on favor with Meridia) and half to nearby Undead. Costs <code>10%</code> favor.
+  Activate an Undead opponent in combat to call down a solar strike to deal <code>X</code> damage (based on favor with Meridia) and half to nearby Undead. Costs <code>15%</code> favor.
 </details>
 
 ### [***Molag Bal***](https://en.uesp.net/wiki/Lore:Molag_Bal)
@@ -741,7 +741,7 @@ Increases Disease Resistance by `25%`.
 
 <details>
   <summary>Devotee</summary>
-  Poisoning a person or putting a Human Heart or Flesh into their inventory attracts insects, reducing armor by <code>X%</code> and dealing <code>X</code> disease damage (based on favor with Namira).
+  Poisoning a person attracts insects, reducing armor by <code>X%</code> and dealing <code>X</code> disease damage (based on favor with Namira).
 </details>
 
 ### [***Nocturnal***](https://en.uesp.net/wiki/Lore:Nocturnal)
@@ -775,7 +775,7 @@ You are `10%` harder to detect.
 
 <details>
   <summary>Devotee</summary>
-  During prayer, you may astrally observe the nearest person within 300 feet.
+  During the night, you are less likely to be detected and are more proficient with picking pockets. During prayer, you may astrally observe the nearest person within 300 feet.
 </details>
 
 ### [***Peryite***](https://en.uesp.net/wiki/Lore:Peryite)
@@ -896,12 +896,12 @@ Illusion spells cost `10%` less to cast.
 
 <details>
   <summary>Follower</summary>
-  Mind affecting illusion spells work on targets <code>X</code> levels higher (based on favor with Vaermina).
+  Mind affecting illusion spells work on targets <code>X</code> levels higher and cost <code>50%</code> less magicka while out of combat (based on favor with Vaermina).
   </details>
 
 <details>
   <summary>Devotee</summary>
-  Activate a sleeping person to summon an illusion to accompany you for an hour. Costs <code>10%</code> favor.
+  Activate a sleeping person to summon an illusion to accompany you for an hour. Costs <code>5%</code> favor.
 </details>
 
 ## [The Elven Ancestors](https://en.uesp.net/wiki/Lore:Altmer)
@@ -975,7 +975,7 @@ Carrying capacity increased by `25` points.
 
 <details>
   <summary>Devotee</summary>
-  Stamina regenerates very quickly out of combat. Praying to Jephre brings clear weather.
+  Stamina regenerates <code>25%</code> faster in combat and <code>50%</code> faster out of combat. Praying to Jephre brings clear weather.
 </details>
 
 ### [***Magnus***](https://en.uesp.net/wiki/Lore:Magnus)
@@ -1001,7 +1001,7 @@ Practice magic successfully while praying. Safeguard the Eye of Magnus. Create e
 
 <details>
   <summary>Follower</summary>
-  Magicka does not regenerate, but praying rapidly replenishes Magicka. Spells cost <code>60%</code> less to cast.
+  Magicka does not regenerate, but praying rapidly replenishes Magicka. Spells cost <code>30%</code> less to cast. Additionally, cost is further reduced by <code>X%</code> based on favor with Magnus.
   </details>
 
 <details>
@@ -1030,7 +1030,7 @@ Potions and poisons you mix are `10%` stronger.
 
 <details>
   <summary>Follower</summary>
-  Magicka and Stamina regenerate <code>100%</code> faster when standing still but <code>50%</code> slower when moving.
+  Magicka and Stamina regenerate <code>100%</code> faster when standing still but <code>40%</code> slower when moving.
   </details>
 
 <details>
@@ -1150,7 +1150,7 @@ Alteration spells cost `10%` less to cast.
 
 <details>
   <summary>Follower</summary>
-  Beneficial potions, food and ingredients last twice as long and are <code>X%</code> better (based on favor with Z'en) if consumed while praying.
+  Beneficial potions, food and ingredients last <code>50%</code> longer and are <code>X%</code> better (based on favor with Z'en) if consumed while praying.
   </details>
 
 <details>
@@ -1306,12 +1306,12 @@ Stagger from attacks and bashes is `50%` more effective.
 
 <details>
   <summary>Follower</summary>
-  Staggering an opponent reduces armor by <code>X</code> points for 5 seconds (based on favor with the HoonDing).
+  Staggering an opponent reduces armor by <code>X</code> points for 30 seconds (based on favor with the HoonDing).
   </details>
 
 <details>
   <summary>Devotee</summary>
-  <code>X%</code> chance to resist stagger from attacks and bashes (based on favor with the HoonDing).
+  Grants immunity to stagger and knockback from attacks and bashes.
 </details>
 
 ## [The Khajiiti Pantheon](https://en.uesp.net/wiki/Lore:Khajiit)
@@ -1582,7 +1582,7 @@ Increases your magicka by `25` points.
 
 <details>
   <summary>Follower</summary>
-  Items are enchanted <code>X%</code> stronger (based on favor with Sotha Sil).
+  Items enchanted are up to <code>20%</code> stronger (based on favor with Sotha Sil).
   </details>
 
 <details>
@@ -1640,7 +1640,7 @@ Tough scales increase armor by `50` points.
 
 <details>
   <summary>Follower</summary>
-  Pray to gain a <code>X</code> point bonus to all attributes for <code>X</code> seconds (based on favor with the Hist).
+  Pray to gain a <code>X</code> point bonus to Stamina and Magicka for <code>X</code> seconds (based on favor with the Hist).
   </details>
 
 <details>
@@ -1732,5 +1732,5 @@ You are `10%` harder to detect.
 
 <details>
   <summary>Devotee</summary>
-  Your power attacks deal <code>X%</code> more damage (based on favor with Vivec).
+  Your power attacks and alteration spells are <code>X%</code> more powerful (based on favor with Vivec).
 </details>
