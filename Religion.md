@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-07T09:51:50.011Z
+date: 2025-08-07T13:08:19.365Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -289,7 +289,7 @@ Bring the Civil War to a conclusion. Learn the dragon tongue. Absorb dragon soul
 
 **Shrine Blessing**  
 
-Time between shouts is reduced `20%`.
+Time between shouts is reduced `10%`.
 
 **Boons**  
 
@@ -373,7 +373,7 @@ Trap souls in my name. Explore new locations. Pray only at twilight, preferably 
 
 **Shrine Blessing**  
 
-Resist `10%` of magic.
+Resist `5%` of magic.
 
 **Boons**  
 
@@ -995,7 +995,7 @@ Practice magic successfully while praying. Safeguard the Eye of Magnus. Create e
 
 **Shrine Blessing**  
 
-`10%` chance to absorb a hostile spell and recharge your Magicka.
+`5%` chance to absorb a hostile spell and recharge your Magicka.
 
 **Boons**  
 
@@ -1242,7 +1242,7 @@ Fulfill your destiny by saving Tamriel. Strive to raise your Health. Absorb drag
 
 **Shrine Blessing**  
 
-Regenerate `2%` of your maximum Health per second.
+Health regenerates `25%` faster.
 
 **Boons**  
 
@@ -1271,7 +1271,7 @@ Touch the Fractures scattered around Skyrim. Create enchanted items. Those skill
 
 **Shrine Blessing**  
 
-Items are enchanted `10%` stronger.
+Items are enchanted `5%` stronger.
 
 **Boons**  
 
