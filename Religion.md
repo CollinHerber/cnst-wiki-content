@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-07T05:42:40.505Z
+date: 2025-08-07T05:58:47.690Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -61,7 +61,7 @@ Learn all skills `10%` faster.
 
 <details>
   <summary>Follower</summary>
-  Attacks, spells, scrolls, shouts and enchantments are `X%` better against dragons (based on favor with Akatosh).
+  Attacks, spells, scrolls, shouts and enchantments are <code>X%</code> better against dragons (based on favor with Akatosh).
   </details>
 
 <details>
@@ -147,9 +147,9 @@ Increases your Stamina by `25` points.
 **Follower**  
 The fierce spirit of Kyne increases movement speed by `10%` in combat.
 
-### ***Mara***
+### [***Mara***](https://en.uesp.net/wiki/Lore:Mara)
 
-*The Mother-Goddess. Goddess of love, compassion, and the bounty of nature. Presides over marriage ceremonies, befitting her ancient origins as a fertility goddess.*
+>*The Mother-Goddess. Goddess of love, compassion, and the bounty of nature. Presides over marriage ceremonies, befitting her ancient origins as a fertility goddess.*
 
 **Accepts**  
 Everyone  
@@ -164,9 +164,9 @@ Restoration spells cost `10%` less to cast.
 **Follower**  
 Pray to Mara to cure all diseases affecting you or allies within `40` feet.
 
-### ***Stendarr***
+### [***Stendarr***](https://en.uesp.net/wiki/Lore:Stendarr)
 
-*The Steadfast. God of mercy, justice, and righteousness. Patron of all those who wield righteous might to protect the weak, from emperors to holy warriors.*
+>*The Steadfast. God of mercy, justice, and righteousness. Patron of all those who wield righteous might to protect the weak, from emperors to holy warriors.*
 
 **Accepts**  
 Everyone  
@@ -181,9 +181,9 @@ Block `10%` more damage.
 **Follower**  
 Take `X%` less attack damage from daedra and undead (based on favor with Stendarr).
 
-### ***Talos***
+### [***Talos***](https://en.uesp.net/wiki/Lore:Talos)
 
-*Hero-god of Mankind. A mortal and emperor who upon death became a Divine. Patron of questing adventurers, warriors, generals, the Empire and all its ideals of civilization, as well as those who go to war to defend it.*
+>*Hero-god of Mankind. A mortal and emperor who upon death became a Divine. Patron of questing adventurers, warriors, generals, the Empire and all its ideals of civilization, as well as those who go to war to defend it.*
 
 **Accepts**  
 Everyone  
@@ -198,9 +198,9 @@ Time between shouts is reduced `20%`.
 **Follower**  
 Attacks, critical strikes and shouts are `X%` more effective against elves (based on favor with Talos).
 
-### ***Zenithar***
+### [***Zenithar***](https://en.uesp.net/wiki/Lore:Zenithar)
 
-*The Trader God. God of work, commerce, and wealth, invoked for success in business ventures. Teaches prosperity through honest industry, rather than violence or deceit.*
+>*The Trader God. God of work, commerce, and wealth, invoked for success in business ventures. Teaches prosperity through honest industry, rather than violence or deceit.*
 
 **Accepts**  
 Everyone  
