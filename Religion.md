@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-07T08:07:22.887Z
+date: 2025-08-07T08:22:45.251Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -1128,4 +1128,160 @@ Alteration spells cost `10%` less to cast.
 <details>
   <summary>Devotee</summary>
   Pray to open an unlimited extradimensional storage space.
+</details>
+
+## [The Yokudan Pantheon](https://en.uesp.net/wiki/Lore:Yokuda)
+
+*The Yokudan faith was built around the concept of Satakal consuming the world to begin another. They believed Satakal has done this many times over, a cycle which prompted the birth of spirits that could survive the transition, notably Ruptga, the first who learned how to do so. Ruptga set the stars in the sky to show lesser spirits how to do this, and these spirits ultimately became the Yokudan pantheon. The Redguards brought many of these deities with them from their ancestral home of Yokuda.*
+
+*This new pantheon would stand for thousands of years, until Tiber Septim's reunification of Tamriel and declaration of the Third Era. Upon his death, so great were his deeds that he achieved apotheosis and joined the ranks of the Divines as Talos.*
+
+<details>
+  <summary>Yokudan Worship</summary>
+  The gods of the Redguards aid their followers in straightforward and effective ways. Many Redguard deities, particularly those of the [Forebears](https://en.uesp.net/wiki/Lore:Varieties_of_Faith,_The_Forebears), mirror the Imperial pantheon. However Redguards, especially the [Crowns](https://en.uesp.net/wiki/Lore:Varieties_of_Faith,_Crown_Redguards), also have their own unique deities that are not worshiped anywhere else on Nirn. The Yokudan pantheon does not penalize worshippers for committing crimes.
+  </details>
+
+### [***Leki***](https://en.uesp.net/wiki/Lore:Leki)
+
+>*Saint of the Spirit Sword. Daughter of Tall Papa and goddess of swordsmanship, she is one of the most commonly worshiped Yokudan gods.*
+
+**Accepts**  
+
+Redguard
+Starting Deity for: Redguard
+
+**Tenets**  
+
+Bring the Civil War to a conclusion. Make and improve weapons. Master the skills of the Warrior.
+
+**Shrine Blessing**  
+
+Armor rating of light armor pieces is increased by `10%`.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Power attacks ignore <code>X%</code> of an opponent's armor (based on favor with Leki).
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  During prayer, you may spend <code>5%</code> favor to gain <code>X%</code> melee damage (based on favor with Leki) for 10 minutes or 5 battles. Costs <code>5%</code> favor.
+</details>
+
+### [***Morwha***](https://en.uesp.net/wiki/Lore:Morwha)
+
+>*Morwha is the four-armed Yokudan goddess of food and fertility, and Tall Papa's favorite wife.*
+
+**Accepts**  
+
+Redguard
+Starting Deity for: Redguard
+
+**Tenets**  
+
+Be married. Receive the blessing of Lover's Comfort. Harvest the fruits of nature. Eat as much food as you want.
+
+**Shrine Blessing**  
+
+Healing spells restore `15%` more Health.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Praying restores <code>X</code> Health per second for you and nearby allies (based on favor with Morwha).
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  Praying to Morwha blesses you with enchanted fruit that restores or fortifies an attribute.
+</details>
+
+### [***Satakal***](https://en.uesp.net/wiki/Lore:Satakal)
+
+>*The Serpent God. Satakal the Worldskin is the god of everything, who creates and eats new worlds over and over.*
+
+**Accepts**  
+
+Redguard
+Starting Deity for: Redguard
+
+**Tenets**  
+
+Fulfill your destiny by saving Tamriel. Strive to raise your Health. Absorb dragon souls.
+
+**Shrine Blessing**  
+
+Regenerate `2%` of your maximum Health per second.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Shrine blessings from other gods are <code>X%</code> more effective and last <code>X%</code> longer (based on favor with Satakal).
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  Pray to become reborn as a different person, moving points between your attributes. Costs <code>15%</code> favor.
+</details>
+
+### [***Tall Papa***](https://en.uesp.net/wiki/Lore:Ruptga)
+
+>*Tall Papa, also known as Ruptga, is the chief deity of the Yokudan pantheon. He guides the most powerful spirits to the next lifetime.*
+
+**Accepts**  
+
+Redguard
+Starting Deity for: Redguard
+
+**Tenets**  
+
+Touch the Fractures scattered around Skyrim. Create enchanted items. Those skilled in Enchanting are most deserving of my favor.
+
+**Shrine Blessing**  
+
+Items are enchanted `10%` stronger.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Staves and Scrolls are <code>X%</code> more powerful (based on favor with Tall Papa).
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  On death, enter an ethereal ascended state. If combat ends within <code>X</code> seconds, brings you back to life (based on favor with Tall Papa) for <code>10%</code> favor. Pray to reset.
+</details>
+
+### [***The HoonDing***](https://en.uesp.net/wiki/Lore:HoonDing)
+
+>*The spirit of perseverance over infidels helps the Redguards 'make way' for their people.*
+
+**Accepts**  
+
+Redguard
+Starting Deity for: Redguard
+
+**Tenets**  
+
+Slay your foes in open combat, especially those stronger than you. Those skilled in One-Handed are most deserving of my favor.
+
+**Shrine Blessing**  
+
+Stagger from attacks and bashes is `50%` more effective.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Staggering an opponent reduces armor by <code>X</code> points for 5 seconds (based on favor with the HoonDing).
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  <code>X%</code> chance to resist stagger from attacks and bashes (based on favor with the HoonDing).
 </details>
