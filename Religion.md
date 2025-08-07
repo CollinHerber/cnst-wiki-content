@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-07T09:05:44.269Z
+date: 2025-08-07T09:06:34.677Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -36,7 +36,7 @@ Rare lost artifacts of holy or unholy power exist that will improve your relatio
 
 Most of the lore in this guide is pulled directly from the [Unofficial Elder Scrolls Pages (UESP)](https://en.uesp.net/wiki/Main_Page). Click on the blue links in this guide to learn more about the deities, races, and religions of The Elder Scrolls.
 
-## [THE DIVINES](https://en.uesp.net/wiki/Lore:Divines)
+## [The Divines](https://en.uesp.net/wiki/Lore:Divines)
 
 
 
@@ -312,7 +312,7 @@ Able to improve items `10%` better.
   Pray to Zenithar to buy and sell items directly.
 </details>
 
-## [THE DAEDRIC PRINCES](https://en.uesp.net/wiki/Lore:Daedric_Princes)
+## [The Daedric Princes](https://en.uesp.net/wiki/Lore:Daedric_Princes)
 
 *Daedric Princes are the most powerful of the Daedra, and thus most commonly worshiped as gods. Each has a particular sphere, which it is said to govern. The Daedric Princes seem to view Men and Mer as little more than minor amusements, occasionally applauding the actions of mortals when they exceed their expectations. They do not know the mortal sense of 'good' and 'evil', and usually have extremist tendencies, which is why Men and Mer fear them greatly.*
 
