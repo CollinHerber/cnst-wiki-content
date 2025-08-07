@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-07T06:05:23.598Z
+date: 2025-08-07T06:09:56.603Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -76,8 +76,17 @@ Learn all skills `10%` faster.
   Praying to Akatosh resets the cooldown of your most recently used shout and power.
 </details>
 
+# Tabs Test {.tabset}
+## First Tab
 
-### [**_Arkay_**](https://en.uesp.net/wiki/Lore:Arkay)
+Follower
+
+## Second Tab
+
+Devotee
+
+
+# [**_Arkay_**](https://en.uesp.net/wiki/Lore:Arkay)
 
 >*The Mortals' God. God of cycles, particularly that of birth and death. Presides over funerals and burial rites, as well as ushering in the changes of the seasons.*
 
