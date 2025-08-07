@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-07T09:20:05.102Z
+date: 2025-08-07T09:29:02.152Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -52,7 +52,7 @@ Most of the lore in this guide is pulled directly from the [Unofficial Elder Scr
 ### [**_Akatosh_**](https://en.uesp.net/wiki/Lore:Akatosh)
 >*The Dragon God of Time. Chief among the gods, with mastery over the flow of time. Associated with dragons and the qualities of endurance and virtuous service.*
 
-<img src="https://images.uesp.net/c/c2/ON-icon-Divine-Akatosh-emblem.png" alt="Akatosh" style="float: right; height: 200px; margin-left: 1em;">
+<img src="https://images.uesp.net/c/c2/ON-icon-Divine-Akatosh-emblem.png" alt="AkatoshSymbol" style="float: right; height: 200px; margin-left: 1em;">
 
 **Accepts**
 
@@ -84,6 +84,8 @@ Learn all skills `10%` faster.
 
 >*The Mortals' God. God of cycles, particularly that of birth and death. Presides over funerals and burial rites, as well as ushering in the changes of the seasons.*
 
+<img src="https://images.uesp.net/3/3b/ON-icon-Divine-Arkay-emblem.png" alt="ArkaySymbol" style="float: right; height: 200px; margin-left: 1em;">
+
 **Accepts**
 
 Everyone 
@@ -112,6 +114,8 @@ Increases your Health by `25` points.
 ### [**_Dibella_**](https://en.uesp.net/wiki/Lore:Dibella)
 
 >*Goddess of beauty and art, and one of the most popular of the Divines. Widespread cults are dedicated to both healing and sexual instruction.*
+
+<img src="https://images.uesp.net/c/c0/ON-icon-Divine-Dibella-emblem.png" alt="DibellaSymbol" style="float: right; height: 200px; margin-left: 1em;">
 
 **Accepts**
 
@@ -142,6 +146,8 @@ Prices are `10%` better.
 
 >*God of logic, wisdom, and the arts of magic. His temples act as educational institutions in literature, history, and law.*
 
+<img src="https://images.uesp.net/9/99/ON-icon-Divine-Julianos-emblem.png" alt="JulianosSymbol" style="float: right; height: 200px; margin-left: 1em;">
+
 **Accepts**
 
 Everyone 
@@ -170,6 +176,8 @@ Increases your Magicka by `25` points.
 ### [***Kynareth***](https://en.uesp.net/wiki/Lore:Kynareth)
 
 >*Goddess of the heavens, winds, and rain. Patron of sailors and travelers, and often propitiated for good fortune in life.*
+
+<img src="https://images.uesp.net/8/85/ON-icon-Divine-Kynareth-emblem.png" alt="KynarethSymbol" style="float: right; height: 200px; margin-left: 1em;">
 
 **Accepts**  
 
@@ -200,6 +208,8 @@ Increases your Stamina by `25` points.
 
 >*The Mother-Goddess. Goddess of love, compassion, and the bounty of nature. Presides over marriage ceremonies, befitting her ancient origins as a fertility goddess.*
 
+<img src="https://images.uesp.net/8/87/ON-icon-Divine-Mara-emblem.png" alt="MaraSymbol" style="float: right; height: 200px; margin-left: 1em;">
+
 **Accepts**  
 
 Everyone  
@@ -228,6 +238,8 @@ Restoration spells cost `10%` less to cast.
 ### [***Stendarr***](https://en.uesp.net/wiki/Lore:Stendarr)
 
 >*The Steadfast. God of mercy, justice, and righteousness. Patron of all those who wield righteous might to protect the weak, from emperors to holy warriors.*
+
+<img src="https://images.uesp.net/0/0a/ON-icon-Divine-Stendarr-emblem.png" alt="StendarrSymbol" style="float: right; height: 200px; margin-left: 1em;">
 
 **Accepts**  
 
@@ -258,6 +270,9 @@ Block `10%` more damage.
 
 >*Hero-god of Mankind. A mortal and emperor who upon death became a Divine. Patron of questing adventurers, warriors, generals, the Empire and all its ideals of civilization, as well as those who go to war to defend it.*
 
+<img src="https://static.wikia.nocookie.net/elderscrolls/images/4/40/Talos_Stained_Glass_Circle.png/revision/latest?format=webp" alt="TalosSymbol" style="float: right; height: 200px; margin-left: 1em;">
+
+
 **Accepts**  
 
 Everyone  
@@ -286,6 +301,8 @@ Time between shouts is reduced `20%`.
 ### [***Zenithar***](https://en.uesp.net/wiki/Lore:Zenithar)
 
 >*The Trader God. God of work, commerce, and wealth, invoked for success in business ventures. Teaches prosperity through honest industry, rather than violence or deceit.*
+
+<img src="https://images.uesp.net/d/dd/ON-icon-Divine-Zenithar-emblem.png" alt="ZenitharSymbol" style="float: right; height: 200px; margin-left: 1em;">
 
 **Accepts**  
 
