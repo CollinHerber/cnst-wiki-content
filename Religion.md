@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-07T08:22:45.251Z
+date: 2025-08-07T08:55:12.847Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -1284,4 +1284,396 @@ Stagger from attacks and bashes is `50%` more effective.
 <details>
   <summary>Devotee</summary>
   <code>X%</code> chance to resist stagger from attacks and bashes (based on favor with the HoonDing).
+</details>
+
+## [The Khajiiti Pantheon](https://en.uesp.net/wiki/Lore:Khajiit)
+
+*The Khajiiti pantheon encompasses myriad Aedric and Daedric gods, which are recognized as spirits. Various gods rose and fell out of prominence over the eras due to events and cultural changes. Indeed, after the unification of Anequina and Pellitine into one kingdom, and the event known as the Riddle'Thar Epiphany, the Riddle'Thar cult would rise and scrub many of these spirits from the [Khajiit pantheon](https://en.uesp.net/wiki/Lore:Varieties_of_Faith:_The_Khajiit).*
+
+*This new pantheon would stand for thousands of years, until Tiber Septim's reunification of Tamriel and declaration of the Third Era. Upon his death, so great were his deeds that he achieved apotheosis and joined the ranks of the Divines as Talos.*
+
+<details>
+  <summary>Khajiiti Worship</summary>
+  The Khajiit worship many deities, most of which are different aspects of the Divines and Daedric Princes, but they also have several deities that represent their own challenges and unique role in the world. Survival in the foreign land of Skyrim is tough, so their deities do not penalize them for committing crimes, and may in fact reward them.
+  </details>
+
+### [***Rajhin***](https://en.uesp.net/wiki/Lore:Rajhin)
+
+>*The Trickster God. As a mortal, the Thief-God of the Khajiit was the most famous burglar in Elsweyr history. He has Seven Shadows, each representing different aspects of his being, that still roam Nirn after his death.*
+
+**Accepts**  
+
+Khajiit
+Starting Deity for: Khajiit
+
+**Tenets**  
+
+Explore new locations. Bribe people as needed. Pick locks successfully. Those skilled in Lockpicking are most deserving of my favor.
+
+**Shrine Blessing**  
+
+Lockpicking is `10%` easier.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Find additional gold in many containers, with a chance to find a large amount of additional gold.
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  Pray to Rajhin to break a lock within 20 feet. Costs <code>5%</code> favor. No effect on locks that can’t be picked.
+</details>
+
+### [***Riddle’Thar***](https://en.uesp.net/wiki/Lore:RiddleThar)
+
+>*Riddle’Thar, The Two-Moons Dance, is the deity of cosmic order who challenges the Khajiiti people to become the strongest they can be.*
+
+**Accepts**  
+
+Khajiit
+Starting Deity for: Khajiit
+
+**Tenets**  
+
+Master the skills of the Warrior, Thief and Mage. Strive to raise your Health, Magicka and Stamina. Each is as important as the others. Pray only at night.
+
+**Shrine Blessing**  
+
+Unarmed strikes do `10` additional damage.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  All skills are improved <code>X%</code> (based on favor with the Riddle'Thar).
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  During prayer, an ancient Mane will grant a blessing they believe to be appropriate for the challenges you are about to face.
+</details>
+
+## Miscellaneous Deities
+
+*In addition to the established pantheons, the common denizens of Tamriel worship many local or less powerful deities. While the power of the Divines and Daedric Princes is unmistakable, a quick prayer to a minor deity may also bring success in trade, travel, or thievery.*
+
+### [***Almalexia***](https://en.uesp.net/wiki/Lore:Almalexia)
+
+>*Almalexia was one of the three Living Gods of the Dunmer people, and known as 'Mother Morrowind' and 'The Lady of Mercy.' She also served as Morrowind's protector in times of foreign invasion.*
+
+**Accepts**  
+
+Dunmer / Those who have completed 'Ghosts of the Tribunal'
+Starting Deity for: None
+
+**Tenets**  
+
+Vanquish the threats facing Solstheim. Be generous to beggars and children. Receive the blessing of Lover's Comfort. Never openly break the laws of the Great Houses. Dark Elves are most deserving of my favor.
+
+**Shrine Blessing**  
+
+Increases your Health by `25` points.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Attacks deal <code>X%</code> more damage to Nords and Argonians (based on favor with Almalexia).
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  Healing in all forms is <code>X%</code> more effective (based on favor with Almalexia).
+</details>
+
+### [***Baan Dar***](https://en.uesp.net/wiki/Lore:Baan_Dar)
+
+>*The Bandit God is known by few and worshiped by even fewer, mostly cutthroats and brigands.*
+
+**Accepts**  
+
+Khajiit / Wood Elf
+Starting Deity for: None
+
+**Tenets**  
+
+Pick locks and pockets successfully. Khajiit and those skilled in Archery are most deserving of my favor.
+
+**Shrine Blessing**  
+
+Pickpocketing is `10%` easier.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Buying items from other races is <code>X%</code> more expensive, but pickpocketing is <code>X%</code> easier (based on favor with Baan Dar).
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  Put skooma bottles in people's inventory, then pray to Baan Dar to ignite them within 200 feet for <code>X</code> damage (based on favor with Baan Dar). Costs <code>5%</code> favor.
+</details>
+
+### [***Mannimarco***](https://en.uesp.net/wiki/Lore:Mannimarco)
+
+>*Once a mortal lich, the King of Worms is the god of necromancers and enemy of Arkay.*
+
+**Accepts**  
+
+Everyone
+Starting Deity for: None
+
+**Tenets**  
+
+Trap souls in my name. Pray only at night. Never accept Arkay's blessing. Those skilled in Conjuration are most deserving of my favor.
+
+**Shrine Blessing**  
+
+Conjuration spells are `10%` more effective.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Undead conjured at night last <code>X%</code> longer (based on favor with Mannimarco).
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  Allied conjured undead deal <code>X%</code> more attack damage and regenerate Health (based on favor with Mannimarco).
+</details>
+
+### [***Saint Alessia***](https://en.uesp.net/wiki/Lore:Alessia)
+
+>*Queen Alessia freed mankind from the Ayleids, and made a sacred Covenant with Akatosh and the Divines, establishing the Imperial Pantheon as it is known today.*
+
+**Accepts**  
+
+Breton / Imperial / Nord / Redguard
+Starting Deity for: None
+
+**Tenets**  
+
+Have a follower at your side. Slay elves. Receive the blessing of a Divine.
+
+**Shrine Blessing**  
+
+Followers within 20 feet gain `50` points of armor and `10%` magic resistance.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Pray for a Divine blessing of your choice. Divine blessings are <code>X%</code> better (based on favor with St. Alessia).
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  While under the effects of a Divine blessing, can talk to most non-hostile humans to make them a friend and potential follower. Costs <code>10%</code> favor.
+</details>
+
+### [***Shor***](https://en.uesp.net/wiki/Lore:Shor)
+
+>*The Nordic aspect of Lorkhan, the traitor deity who created the world, Shor is patron of mankind. His realm is Sovngarde, where the greatest Nord heroes go when they die to enjoy an eternity of feasting and merriment.*
+
+**Accepts**  
+
+Breton / Imperial / Nord / Redguard
+Starting Deity for: Nord
+
+**Tenets**  
+
+Fulfill your destiny by saving Tamriel. Master the skills of the Warrior. Slay elves. Defeat epic foes.
+
+**Shrine Blessing**  
+
+Deal `15%` more attack damage and critical damage against elves.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Take <code>X%</code> less attack damage and stagger from elves (based on favor with Shor).
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  When entering combat with a mighty foe, Shor sends a Shield-Thane to assist you. Pray to recharge.
+</details>
+
+### [***Sithis***](https://en.uesp.net/wiki/Lore:Sithis)
+
+>*Sithis, or Padomay, is the primordial force of chaos. Some Argonians are given to the Dread Father at birth.*
+
+**Accepts**  
+
+Argonian / Those who have completed “Innocence Lost”
+Starting Deity for: Argonian
+
+**Tenets**  
+
+Murder the innocent. Pray while sacrificing a Human Heart or Human Flesh. Send your victims to the Void. Argonians are most deserving of my favor.
+
+**Shrine Blessing**  
+
+Sneak attacks deal `15%` more damage.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Up to <code>25%</code> harder to detect by those within 30 feet. Chance to find Human Hearts on people you kill.
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  While sneaking, activate a door to briefly turn it into a Void portal. Targets within 60 feet who are not detecting you are pulled in and killed. Costs <code>5%</code> favor.
+</details>
+
+### [***Sotha Sil***](https://en.uesp.net/wiki/Lore:Sotha_Sil)
+
+>*Sotha Sil was one of the three Living Gods of the Dunmer people, known as the 'Father of Mysteries.' He created the Clockwork City, a pocket realm of impossible complexity intended to study and mimic the structure of Nirn.*
+
+**Accepts**  
+
+Dunmer / Those who have completed 'Ghosts of the Tribunal'
+Starting Deity for: None
+
+**Tenets**  
+
+Uncover the secrets of Dwemer ruins. Create enchanted items. Master the skills of the Mage. Dark Elves and those skilled in Enchanting are most deserving of my favor.
+
+**Shrine Blessing**  
+
+Increases your magicka by `25` points.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Items are enchanted <code>X%</code> stronger (based on favor with Sotha Sil).
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  Using a filled soul gem or dynamo core, permanently summon a Dwarven automaton to fight for you. You may only have one active at a time. Spiders require a petty or lesser soul gem, spheres require a common or greater, and centurions require a dynamo core AND a grand/black soul gem. It is prioritized to take the smallest soul gem first. The follower can be dismissed at any time, but will require another soul gem to re-summon.
+</details>
+
+### [***The All-Maker***](https://en.uesp.net/wiki/Lore:All-Maker)
+
+>*The monotheistic creator deity of the Skaal of Solstheim, the last practitioners of the religion. His followers believe all life flows from the All-Maker like a great river, and, in time, this river flows back to its source. Death is simply the next stage of this endless journey.*
+
+**Accepts**  
+
+Breton / Imperial / Nord / Redguard
+Starting Deity for: None
+
+**Tenets**  
+
+Cleanse the All-Maker Stones. Hunt animals. Explore new locations. Pray only outdoors. Nords are most deserving of my favor.
+
+**Shrine Blessing**  
+
+Deal `15%` more attack damage and critical damage against animals.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Healing spells restore <code>X%</code> more Health (based on favor with the All-Maker).
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  After using an All-Maker Stone power, pray to the All-Maker to have it restored to you.
+</details>
+
+### [***The Magna-Ge***](https://en.uesp.net/wiki/Lore:Magna_Ge)
+
+>*The Magna Ge, literally the 'Children of Magnus' left behind the stars and constellations as they fled to Aetherius in the wake of Magnus.*
+
+**Accepts**  
+
+Everyone
+Starting Deity for: None
+
+**Tenets**  
+
+Create enchanted items. Explore new locations. Pray only outdoors at night. High Elves and those skilled in Alteration are most deserving of our favor.
+
+**Shrine Blessing**  
+
+Alteration spells are *10%* more effective.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Gain <code>5</code> points of weapon charge per second, up to their charge level when last equipped or recharged.
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  During prayer, you may let the Magna-Ge carry you to a location within line of sight. Costs <code>4%</code> favor.
+</details>
+
+### [***The Old Ways***](https://en.uesp.net/wiki/Lore:Dragon_Cult)
+
+>*The animal gods represent the original religion of Skyrim, preached by the fearsome Dragon Priests.*
+
+**Accepts**  
+
+Breton / Nord
+Starting Deity for: None
+
+**Tenets**  
+
+Slay people who stand in your way. Absorb dragon souls. Assume our powers through prayer. Nords are most deserving of our favor.
+
+**Shrine Blessing**  
+
+Deal `15%` more attack damage and critical damage against animals.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Pray while sacrificing <code>100</code> gold worth of gemstones to assume the powers of an animal god.
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  Able to assume the powers of the Dragon. Costs <code>2%</code> favor per hour.
+</details>
+
+### [***Vivec***](https://en.uesp.net/wiki/Lore:Vivec)
+
+>*Vivec was one of the three Living Gods of the Dunmer people, known as a Warrior-Poet and much beloved among his people. His disappearance is widely believed to have caused the Red Year, but his worship persists all the same.*
+
+**Accepts**  
+
+Dunmer / Those who have completed 'Ghosts of the Tribunal'
+Starting Deity for: None
+
+**Tenets**  
+
+Fulfill your destiny by saving Tamriel. Read the stories of others. Defeat epic foes. Never openly break the laws of the Great Houses. Dark Elves and those skilled in Speechcraft are most deserving of my favor.
+
+**Shrine Blessing**  
+
+You are `10%` harder to detect.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Speech and Intimidate checks are <code>X%</code> easier (based on favor with Vivec).
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  Your power attacks deal <code>X%</code> more damage (based on favor with Vivec).
 </details>
