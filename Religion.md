@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-07T06:27:23.893Z
+date: 2025-08-07T06:31:42.326Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -170,13 +170,16 @@ Increases your Magicka by `25` points.
 >*Goddess of the heavens, winds, and rain. Patron of sailors and travelers, and often propitiated for good fortune in life.*
 
 **Accepts**  
+
 Everyone  
 Starting Deity for: Imperial / Khajiit / Nord
 
 **Tenets**  
+
 Explore new locations. Strive to raise your Stamina. Receive the Voice of the Sky. Pray only outdoors. Never openly break the laws of Skyrim.
 
 **Shrine Blessing**  
+
 Increases your Stamina by `25` points.
 
 **Boons**  
@@ -196,13 +199,16 @@ Increases your Stamina by `25` points.
 >*The Mother-Goddess. Goddess of love, compassion, and the bounty of nature. Presides over marriage ceremonies, befitting her ancient origins as a fertility goddess.*
 
 **Accepts**  
+
 Everyone  
 Starting Deity for: Breton / Imperial / Nord / Wood Elf
 
 **Tenets**  
+
 Be married. Own one or more houses. Be generous to beggars and children. Receive the blessing of Lover's Comfort. Never openly break the laws of Skyrim.
 
 **Shrine Blessing**  
+
 Restoration spells cost `10%` less to cast.
 
 **Boons**  
@@ -222,13 +228,16 @@ Restoration spells cost `10%` less to cast.
 >*The Steadfast. God of mercy, justice, and righteousness. Patron of all those who wield righteous might to protect the weak, from emperors to holy warriors.*
 
 **Accepts**  
+
 Everyone  
 Starting Deity for: Breton / High Elf / Imperial / Nord / Wood Elf
 
 **Tenets**  
+
 Clear dungeons of evil. Slay daedra and the undead. Complete side quests for the people of Skyrim. Never openly break the laws of Skyrim. Never practice the foul summoning arts.
 
 **Shrine Blessing**  
+
 Block `10%` more damage.
 
 **Boons**  
@@ -248,31 +257,55 @@ Block `10%` more damage.
 >*Hero-god of Mankind. A mortal and emperor who upon death became a Divine. Patron of questing adventurers, warriors, generals, the Empire and all its ideals of civilization, as well as those who go to war to defend it.*
 
 **Accepts**  
+
 Everyone  
 Starting Deity for: Imperial / Nord
 
 **Tenets**  
+
 Bring the Civil War to a conclusion. Learn the dragon tongue. Absorb dragon souls. Slay elves and the Thalmor. Never openly break the laws of Skyrim.
 
 **Shrine Blessing**  
+
 Time between shouts is reduced `20%`.
 
-**Follower**  
-Attacks, critical strikes and shouts are `X%` more effective against elves (based on favor with Talos).
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Attacks, critical strikes and shouts are <code>X%</code> more effective against elves (based on favor with Talos).
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  Your remaining shout cooldown is halved whenever an enemy dies within 40 feet.
+</details>
 
 ### [***Zenithar***](https://en.uesp.net/wiki/Lore:Zenithar)
 
 >*The Trader God. God of work, commerce, and wealth, invoked for success in business ventures. Teaches prosperity through honest industry, rather than violence or deceit.*
 
 **Accepts**  
+
 Everyone  
 Starting Deity for: Breton / Imperial / Nord
 
 **Tenets**  
+
 Invest in stores and merchants. Seek out skill training. Make weapons and armor. Never openly break the laws of Skyrim.
 
 **Shrine Blessing**  
+
 Able to improve items `10%` better.
 
-**Follower**  
-Learn Smithing, Alchemy and Enchanting `X%` faster and they are `X%` better (based on favor with Zenithar).
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Learn Smithing, Alchemy and Enchanting <code>X%</code> faster and they are <code>X%</code> better (based on favor with Zenithar).
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  Pray to Zenithar to buy and sell items directly.
+</details>
