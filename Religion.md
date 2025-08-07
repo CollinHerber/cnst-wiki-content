@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-07T06:47:40.279Z
+date: 2025-08-07T06:48:28.772Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -309,7 +309,6 @@ Able to improve items `10%` better.
   <summary>Devotee</summary>
   Pray to Zenithar to buy and sell items directly.
 </details>
-___
 
 ## [The Daedric Princes](https://en.uesp.net/wiki/Lore:Daedric_Princes)
 
