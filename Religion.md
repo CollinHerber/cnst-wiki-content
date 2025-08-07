@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-07T05:23:34.939Z
+date: 2025-08-07T05:40:36.955Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -42,7 +42,7 @@ Learn more about the The Divines deities available in the collection.
 
 ### [**_Akatosh_**](https://en.uesp.net/wiki/Lore:Akatosh)
 
-*The Dragon God of Time. Chief among the gods, with mastery over the flow of time. Associated with dragons and the qualities of endurance and virtuous service.*
+>*The Dragon God of Time. Chief among the gods, with mastery over the flow of time. Associated with dragons and the qualities of endurance and virtuous service.*
 
 **Accepts**
 
