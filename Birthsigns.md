@@ -2,7 +2,7 @@
 title: Birthsigns
 description: Learn more about the Birthsigns available in the Constellations Collections
 published: true
-date: 2025-08-07T10:14:29.101Z
+date: 2025-08-07T10:20:27.414Z
 tags: birthsign
 editor: markdown
 dateCreated: 2025-04-29T22:22:34.196Z
@@ -16,7 +16,7 @@ Birthsigns are selected when you create a character and can be exchanged for ano
 
 The Mage birthsign and its three charges. Once you select one of these Birthsigns, you may not select any birthsign of the other two Guardians or The Serpent.
 
-<img src="https://static.wikia.nocookie.net/elderscrolls/images/1/1f/The_mage.png/revision/latest?format=webp" alt="MageSign" style="float: right; height: 300px; margin-left: 1em; margin-right: 15em; margin-top: 10em">
+<img src="https://static.wikia.nocookie.net/elderscrolls/images/1/1f/The_mage.png/revision/latest?format=webp" alt="MageSign" style="float: right; height: 300px; margin-right: 15em; margin-top: 10em">
 
 ##### **Apprentice**
 
