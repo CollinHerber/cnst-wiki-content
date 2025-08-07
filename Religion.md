@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-07T09:29:02.152Z
+date: 2025-08-07T09:34:30.347Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -48,6 +48,11 @@ Most of the lore in this guide is pulled directly from the [Unofficial Elder Scr
   <summary>Divine Worship</summary>
   The Divines welcome any who would worship them into the fold, no matter their race or previous deities. Divine favor is slow to build, but the Divines are merciful and their faithful are unlikely to fall out of favor, unless they overtly commit crimes or ignore their religious duties for a long period of time.
   </details>
+  
+<div style="text-align: center;">
+  <img src="https://static.wikia.nocookie.net/elderscrolls/images/9/9d/Nine_Divines_Stained_Glass.png/revision/latest?format=webp&width=1872&height=468" alt="NineDivinesStainedGlass" style="max-width: 100%; height: auto;">
+</div>
+
 
 ### [**_Akatosh_**](https://en.uesp.net/wiki/Lore:Akatosh)
 >*The Dragon God of Time. Chief among the gods, with mastery over the flow of time. Associated with dragons and the qualities of endurance and virtuous service.*
