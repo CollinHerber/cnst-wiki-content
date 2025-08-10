@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2025-08-10T07:00:01.283Z
+date: 2025-08-10T07:00:33.714Z
 tags: race
 editor: markdown
 dateCreated: 2025-07-21T13:25:49.965Z
@@ -16,7 +16,7 @@ Playable Races and their changes in Constellations.
 
 ## [Altmer](https://en.uesp.net/wiki/Lore:Altmer)
 
->*The Altmer of Summerset Isle are called 'High' Elves in the Empire, describing both their physical appearance and their snobbish personality. The arcane ability of High Elves surpasses all other races in Tamriel. They are weak in physical combat, however, and their magic affinity makes them more susceptible to hostile spells.* 
+*The Altmer of Summerset Isle are called 'High' Elves in the Empire, describing both their physical appearance and their snobbish personality. The arcane ability of High Elves surpasses all other races in Tamriel. They are weak in physical combat, however, and their magic affinity makes them more susceptible to hostile spells.* 
 
 **Starting Religions:** [Auriel](https://cnst.collinthedev.com/en/Religion#auriel) ● [Jephre](https://cnst.collinthedev.com/en/Religion#jephre) ● [Magnus](https://cnst.collinthedev.com/en/Religion#magnus) ● [Phynaster](https://cnst.collinthedev.com/en/Religion#phynaster) ● [Stendarr](https://cnst.collinthedev.com/en/Religion#stendarr) ● [Syrabane](https://cnst.collinthedev.com/en/Religion#syrabane) ● [Trinimac](https://cnst.collinthedev.com/en/Religion#trinimac) ● [Xarxes](https://cnst.collinthedev.com/en/Religion#xarxes)
 
