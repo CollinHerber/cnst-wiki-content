@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2025-08-10T06:51:22.682Z
+date: 2025-08-10T06:58:11.701Z
 tags: race
 editor: markdown
 dateCreated: 2025-07-21T13:25:49.965Z
@@ -66,13 +66,13 @@ Playable Races and their changes in Constellations.
 
 **_Racial Traits:_**
 
-Resist Poison: `+90%` 
+🧪Resist Poison: `+90%` 
 
-Resist Disease: `+75%` 
+🦠Resist Disease: `+75%` 
 
-Health Regeneration: `0.4/sec` , while swimming: `1.4/sec`
+:mending_heart:Health Regeneration: `0.4/sec` , while swimming: `1.4/sec`
 
-Waterbreathing
+🤿Waterbreathing
 
 **_Skills_**
 
@@ -100,9 +100,9 @@ Waterbreathing
 
 **_Racial Traits:_**
 
-Resist Disease: `+75%` 
+🦠Resist Disease: `+75%` 
 
-Command Animals `1x Day`
+🐺Command Animals `1x Day`
 
 **_Skills_**
 
@@ -130,7 +130,7 @@ Command Animals `1x Day`
 
 **_Racial Traits:_**
 
-Magic Absorb: `+15`
+:gem:Magic Absorb: `+15`
 
 **_Skills_**
 
@@ -158,9 +158,9 @@ Magic Absorb: `+15`
 
 **_Racial Traits:_**
 
-Resist Fire: `+65%` 
+:fire:Resist Fire: `+65%` 
 
-Resist All Damage: `+7%`
+🛡️Resist All Damage: `+7%`
 
 **_Skills_**
 
@@ -188,11 +188,11 @@ Resist All Damage: `+7%`
 
 **_Racial Traits:_**
 
-Buy/Sell Prices: `-/+ 10%` 
+:coin:Buy/Sell Prices: `-/+ 10%` 
 
-Sprint Longer 
+👟Sprint Longer 
 
-High Stamina Regeneration
+🔋High Stamina Regeneration
 
 **_Skills_**
 
@@ -220,15 +220,15 @@ High Stamina Regeneration
 
 **_Racial Traits:_**
 
-Speed: `+7%` 
+:dash:Speed: `+7%` 
 
-Unarmed Damage: `+25` 
+:punch:Unarmed Damage: `+25` 
 
-Lockpick Expertise: `+10` 
+:lock:Lockpick Expertise: `+10` 
 
-Pickpocket Bonus: `+10%` 
+🤏Pickpocket Bonus: `+10%` 
 
-Night Vision
+:eye:Night Vision
 
 **_Skills_**
 
@@ -256,11 +256,11 @@ Night Vision
 
 **_Racial Traits:_**
 
-Resist Frost: `+50%` 
+:snowflake:Resist Frost: `+50%` 
 
-Resist Shock: `+25%` 
+:zap:Resist Shock: `+25%` 
 
-Shout Cooldown: `-15%`
+:hourglass:Shout Cooldown: `-15%`
 
 **_Skills_**
 
@@ -288,7 +288,7 @@ Shout Cooldown: `-15%`
 
 **_Racial Traits:_**
 
-Damage Dealt/Taken: `+/-25%` if `HP<40%`
+:rage:Damage Dealt/Taken: `+/-25%` if `HP<40%`
 
 **_Skills_**
 
@@ -316,11 +316,11 @@ Damage Dealt/Taken: `+/-25%` if `HP<40%`
 
 **_Racial Traits:_**
 
-Resist Poison: `+60%` 
+🧪Resist Poison: `+60%` 
 
-Resist Disease: `+75%` 
+🦠Resist Disease: `+75%` 
 
-Very High Stamina Regeneration
+🔋Very High Stamina Regeneration
 
 _Skills_
 
