@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-10T03:50:42.456Z
+date: 2025-08-10T04:03:23.742Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -392,6 +392,8 @@ Resist `5%` of magic.
 ### [***Boethia***](https://en.uesp.net/wiki/Lore:Boethia)
 
 >*The Prince of Plots. Boethiah is the Prince of deceit and conspiracy, secret plots of murder, assassination, treason, and unlawful overthrow of authority, as well as an important deity to the Dark Elves.*
+  
+<img src="https://images.uesp.net/3/30/ON-concept-Prince-Boethia-emblem.png" alt="AzuraSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
 
 **Accepts**  
 
@@ -426,6 +428,8 @@ You are `10%` more effective with one-handed weapons.
 
 >*The Prince of Trickery and Bargains. Clavicus Vile is the Prince whose sphere is power through ritual invocations and Pacts.*
 
+<img src="https://images.uesp.net/7/79/ON-concept-Prince-Clavicus_Vile-emblem.png" alt="AzuraSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+  
 **Accepts**  
 
 Dark Elf / Those who have completed 'A Daedra’s Best Friend'
@@ -459,6 +463,8 @@ Conjuration spells cost `10%` less to cast.
 
 >*The Demon of Knowledge. Hermaeus Mora is the Prince of forbidden knowledge and the scrying of the tides of Fate, of the past and future as read in the stars and heavens, and in whose dominion are the treasures of knowledge and memory.*
 
+<img src="https://images.uesp.net/7/71/ON-concept-Prince-Hermaeus_Mora-emblem.png" alt="AzuraSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+  
 **Accepts**  
 
 Wood Elf / Those who have completed 'Discerning the Transmundane'
@@ -493,6 +499,8 @@ Spells and effects you cast on yourself last `15%` longer.
 
 >*Lord of the Hunt. Hircine is the Huntsman and Father of Manbeasts. As the progenitor of Lycanthropy, he is recognized as the guardian of werecreatures.*
 
+<img src="https://images.uesp.net/e/e8/ON-concept-Prince-Hircine-emblem.png" alt="AzuraSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+  
 **Accepts**  
 
 Breton / Wood Elf / Werewolf / Those who have completed 'Ill Met by Moonlight'
@@ -527,6 +535,8 @@ Regenerate `2%` of your maximum Stamina per second.
 
 >*Jyggalag is the Prince of Order and Logic, locked in an eternal struggle with Sheogorath. His sphere represents logical order and deduction; his great library once contained a logical prediction of every detail of the world and of every action that would ever take place on Mundus or Oblivion.*
 
+<img src="https://images.uesp.net/1/17/ON-concept-Prince-Jyggalag-emblem.png" alt="AzuraSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+  
 **Accepts**  
 
 Everyone
@@ -556,6 +566,8 @@ Deal `15%` more attack damage and critical damage against daedra.
 
 >*Lord of Ash and Bone. Malacath is the Prince of Curses, Keeper of the Bloody Oath and the chief deity of the Orcs. His sphere is 'the patronage of the spurned and ostracized, the keeper of the Sworn Oath, and the Bloody Curse', as well as conflict, battle, broken promises, and anguish.*
 
+<img src="https://images.uesp.net/b/bb/ON-concept-Prince-Malacath-emblem.png" alt="AzuraSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+  
 **Accepts**  
 
 Dark Elf / Orc / Those who have completed 'The Cursed Tribe'
@@ -590,6 +602,8 @@ Your power attacks cost `15%` less Stamina.
 
 >*Sovereign of Destruction. Mehrunes Dagon is the Prince of Destruction, Change and Ambition, and tester of Dark Elves.*
 
+<img src="https://images.uesp.net/b/bc/ON-concept-Prince-Mehrunes_Dagon-emblem.png" alt="AzuraSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+  
 **Accepts**  
 
 Dark Elf / Khajiit / Those who have completed 'Pieces of the Past'
@@ -624,6 +638,8 @@ Destruction spells are `10%` more effective.
 
 >*The Lady of Whispers. Mephala the Webspinner is the mistress of lies, sex, and murder, and is always weaving a web of intrigue and terror. She is revered mainly by Dark Elves.*
 
+<img src="https://images.uesp.net/8/8f/ON-concept-Prince-Mephala-emblem.png" alt="AzuraSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+  
 **Accepts**  
 
 Dark Elf / Khajiit / Those who have completed 'The Whispering Door'
@@ -653,6 +669,8 @@ Poisons you mix are `15%` more effective.
 
 >*The Lady of Infinite Energies is a fallen Magna-Ge, representing the essence of Light. She has a great and everlasting hatred for the undead and will greatly reward any who eliminate them from the world.*
 
+<img src="https://images.uesp.net/9/92/ON-concept-Prince-Meridia-emblem.png" alt="AzuraSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+  
 **Accepts**  
 
 High Elf / Those who have completed 'The Break of Dawn'
@@ -682,6 +700,8 @@ Restoration spells are `10%` more effective.
 
 >*Lord of Brutality. Molag Bal is the Prince of Rape, Domination and Enslavement, and the father of vampires. His ultimate desire is to harvest the souls of all mortals, bringing them within his sway by spreading seeds of strife and discord in the mortal realms.*
 
+<img src="https://images.uesp.net/a/a7/ON-concept-Prince-Molag_Bal-emblem.png" alt="AzuraSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+  
 **Accepts**  
 
 Dark Elf / Vampire / Those who have completed 'The House of Horrors'
@@ -716,6 +736,8 @@ Destruction spells cost `10%` less to cast.
 
 >*The Lady of Decay. Namira is The Goddess of the Dark, ruler of shadows and patron of revolting creatures and people, whose sphere is the ancient Darkness. She is the Daedric Prince of spirits and shadows, as well as the patron of vermin and squalor.*
 
+<img src="https://images.uesp.net/f/fe/ON-concept-Prince-Namira-emblem.png" alt="AzuraSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+  
 **Accepts**  
 
 Dark Elf / Those who have completed 'The Taste of Death'
@@ -750,6 +772,8 @@ Increases Disease Resistance by `25%`.
 
 >*The Empress of Murk. She is the oldest Daedra, known as the Mistress of Mysteries, the Unfathomable, and Lady Luck, whose sphere is the night and darkness.*
 
+<img src="https://images.uesp.net/b/b0/ON-concept-Prince-Nocturnal-emblem.png" alt="AzuraSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+  
 **Accepts**  
 
 Dark Elf / Those who have completed 'Darkness Returns'
@@ -784,6 +808,8 @@ You are `10%` harder to detect.
 
 >*The Blighted Lord. Peryite is the Prince of natural order and disease. He is one of the weakest Princes, whose sphere of influence includes tasks, natural order, contamination and pestilence.*
 
+<img src="https://images.uesp.net/7/73/ON-concept-Prince-Peryite-emblem.png" alt="AzuraSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+  
 **Accepts**  
 
 Diseased / Those who have completed 'The Only Cure'
@@ -813,6 +839,8 @@ Increases Poison Resistance by `50%`. (The shrine does not cure diseases if you 
 
 >*Lord of Revelry. Sanguine's sphere includes debauchery and passionate revelry. He is the patron of brothels.*
 
+<img src="https://images.uesp.net/1/1b/ON-concept-Prince-Sanguine-emblem.png" alt="AzuraSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+  
 **Accepts**  
 
 Dark Elf / Those who have completed 'A Night to Remember'
@@ -847,6 +875,8 @@ Using beneficial potions and alchemical ingredients is `15%` better.
 
 >*The Mad God. Sheogorath is the Prince of Madness, whose motives are fickle and unknown.*
 
+<img src="https://images.uesp.net/0/05/ON-concept-Prince-Sheogorath-emblem.png" alt="AzuraSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+  
 **Accepts**  
 
 Dark Elf / Khajiit / Those who have completed 'The Mind of Madness'
@@ -881,6 +911,8 @@ Grants a random blessing!
 
 >*The Lady of Dreams and Nightmares. Vaermina is the Weaver of the Panoply and the terrifying Prince of Nightmares and Evil Omens. All mortals come under her sway as they sleep.*
 
+<img src="https://images.uesp.net/f/f9/ON-concept-Prince-Vaermina-emblem.png" alt="AzuraSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+  
 **Accepts**  
 
 Dark Elf / Those who have completed 'Waking Nightmare'
