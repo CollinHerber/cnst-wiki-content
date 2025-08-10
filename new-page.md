@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2025-08-10T05:54:54.032Z
+date: 2025-08-10T05:56:28.385Z
 tags: race
 editor: markdown
 dateCreated: 2025-07-21T13:25:49.965Z
@@ -22,13 +22,7 @@ Playable Races and their changes in Constellations.
 
 <img src="https://images.uesp.net/c/c1/LG-cardart-Forked_Bolt.png" 
      alt="Altmer" 
-     style="float: right; width: 300px !important; height: auto; margin-top: 50px; margin-right: 100px;
-            display: block;
-            /* Mobile adjustment */
-            max-width: 300px; 
-            width: 80%; 
-            margin-left: auto; 
-            margin-right: auto;">
+     style="float: right; width: 80%; max-width: 300px; height: auto; margin-top: 50px; margin-right: 100px; margin-left: auto; margin-bottom: 20px; display: block;">
 
 **_Base Stats_**
 
