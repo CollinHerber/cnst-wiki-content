@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-10T04:09:14.378Z
+date: 2025-08-10T04:26:21.348Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -393,7 +393,7 @@ Resist `5%` of magic.
 
 >*The Prince of Plots. Boethiah is the Prince of deceit and conspiracy, secret plots of murder, assassination, treason, and unlawful overthrow of authority, as well as an important deity to the Dark Elves.*
   
-<img src="https://images.uesp.net/3/30/ON-concept-Prince-Boethia-emblem.png" alt="AzuraSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+<img src="https://images.uesp.net/3/30/ON-concept-Prince-Boethia-emblem.png" alt="BoethiaSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
 
 **Accepts**  
 
@@ -428,7 +428,7 @@ You are `10%` more effective with one-handed weapons.
 
 >*The Prince of Trickery and Bargains. Clavicus Vile is the Prince whose sphere is power through ritual invocations and Pacts.*
 
-<img src="https://images.uesp.net/7/79/ON-concept-Prince-Clavicus_Vile-emblem.png" alt="AzuraSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+<img src="https://images.uesp.net/7/79/ON-concept-Prince-Clavicus_Vile-emblem.png" alt="ClavicusVileSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
   
 **Accepts**  
 
@@ -463,7 +463,7 @@ Conjuration spells cost `10%` less to cast.
 
 >*The Demon of Knowledge. Hermaeus Mora is the Prince of forbidden knowledge and the scrying of the tides of Fate, of the past and future as read in the stars and heavens, and in whose dominion are the treasures of knowledge and memory.*
 
-<img src="https://images.uesp.net/7/71/ON-concept-Prince-Hermaeus_Mora-emblem.png" alt="AzuraSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+<img src="https://images.uesp.net/7/71/ON-concept-Prince-Hermaeus_Mora-emblem.png" alt="HermaeusMoraSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
   
 **Accepts**  
 
@@ -499,7 +499,7 @@ Spells and effects you cast on yourself last `15%` longer.
 
 >*Lord of the Hunt. Hircine is the Huntsman and Father of Manbeasts. As the progenitor of Lycanthropy, he is recognized as the guardian of werecreatures.*
 
-<img src="https://images.uesp.net/e/e8/ON-concept-Prince-Hircine-emblem.png" alt="AzuraSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+<img src="https://images.uesp.net/e/e8/ON-concept-Prince-Hircine-emblem.png" alt="HircineSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
   
 **Accepts**  
 
@@ -535,7 +535,7 @@ Regenerate `2%` of your maximum Stamina per second.
 
 >*Jyggalag is the Prince of Order and Logic, locked in an eternal struggle with Sheogorath. His sphere represents logical order and deduction; his great library once contained a logical prediction of every detail of the world and of every action that would ever take place on Mundus or Oblivion.*
 
-<img src="https://images.uesp.net/1/17/ON-concept-Prince-Jyggalag-emblem.png" alt="AzuraSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+<img src="https://images.uesp.net/1/17/ON-concept-Prince-Jyggalag-emblem.png" alt="JyggalagSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
   
 **Accepts**  
 
@@ -566,7 +566,7 @@ Deal `15%` more attack damage and critical damage against daedra.
 
 >*Lord of Ash and Bone. Malacath is the Prince of Curses, Keeper of the Bloody Oath and the chief deity of the Orcs. His sphere is 'the patronage of the spurned and ostracized, the keeper of the Sworn Oath, and the Bloody Curse', as well as conflict, battle, broken promises, and anguish.*
 
-<img src="https://images.uesp.net/b/bb/ON-concept-Prince-Malacath-emblem.png" alt="AzuraSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+<img src="https://images.uesp.net/b/bb/ON-concept-Prince-Malacath-emblem.png" alt="MalacathSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
   
 **Accepts**  
 
@@ -602,7 +602,7 @@ Your power attacks cost `15%` less Stamina.
 
 >*Sovereign of Destruction. Mehrunes Dagon is the Prince of Destruction, Change and Ambition, and tester of Dark Elves.*
 
-<img src="https://images.uesp.net/b/bc/ON-concept-Prince-Mehrunes_Dagon-emblem.png" alt="AzuraSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+<img src="https://images.uesp.net/b/bc/ON-concept-Prince-Mehrunes_Dagon-emblem.png" alt="MehrunesDagonSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
   
 **Accepts**  
 
@@ -638,7 +638,7 @@ Destruction spells are `10%` more effective.
 
 >*The Lady of Whispers. Mephala the Webspinner is the mistress of lies, sex, and murder, and is always weaving a web of intrigue and terror. She is revered mainly by Dark Elves.*
 
-<img src="https://images.uesp.net/8/8f/ON-concept-Prince-Mephala-emblem.png" alt="AzuraSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+<img src="https://images.uesp.net/8/8f/ON-concept-Prince-Mephala-emblem.png" alt="MephalaSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
   
 **Accepts**  
 
@@ -669,7 +669,7 @@ Poisons you mix are `15%` more effective.
 
 >*The Lady of Infinite Energies is a fallen Magna-Ge, representing the essence of Light. She has a great and everlasting hatred for the undead and will greatly reward any who eliminate them from the world.*
 
-<img src="https://images.uesp.net/9/92/ON-concept-Prince-Meridia-emblem.png" alt="AzuraSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+<img src="https://images.uesp.net/9/92/ON-concept-Prince-Meridia-emblem.png" alt="MeridiaSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
   
 **Accepts**  
 
@@ -700,7 +700,7 @@ Restoration spells are `10%` more effective.
 
 >*Lord of Brutality. Molag Bal is the Prince of Rape, Domination and Enslavement, and the father of vampires. His ultimate desire is to harvest the souls of all mortals, bringing them within his sway by spreading seeds of strife and discord in the mortal realms.*
 
-<img src="https://images.uesp.net/a/a7/ON-concept-Prince-Molag_Bal-emblem.png" alt="AzuraSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+<img src="https://images.uesp.net/a/a7/ON-concept-Prince-Molag_Bal-emblem.png" alt="MolagBalSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
   
 **Accepts**  
 
@@ -736,7 +736,7 @@ Destruction spells cost `10%` less to cast.
 
 >*The Lady of Decay. Namira is The Goddess of the Dark, ruler of shadows and patron of revolting creatures and people, whose sphere is the ancient Darkness. She is the Daedric Prince of spirits and shadows, as well as the patron of vermin and squalor.*
 
-<img src="https://images.uesp.net/f/fe/ON-concept-Prince-Namira-emblem.png" alt="AzuraSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+<img src="https://images.uesp.net/f/fe/ON-concept-Prince-Namira-emblem.png" alt="NamiraSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
   
 **Accepts**  
 
@@ -772,7 +772,7 @@ Increases Disease Resistance by `25%`.
 
 >*The Empress of Murk. She is the oldest Daedra, known as the Mistress of Mysteries, the Unfathomable, and Lady Luck, whose sphere is the night and darkness.*
 
-<img src="https://images.uesp.net/b/b0/ON-concept-Prince-Nocturnal-emblem.png" alt="AzuraSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+<img src="https://images.uesp.net/b/b0/ON-concept-Prince-Nocturnal-emblem.png" alt="NocturnalSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
   
 **Accepts**  
 
@@ -808,7 +808,7 @@ You are `10%` harder to detect.
 
 >*The Blighted Lord. Peryite is the Prince of natural order and disease. He is one of the weakest Princes, whose sphere of influence includes tasks, natural order, contamination and pestilence.*
 
-<img src="https://images.uesp.net/7/73/ON-concept-Prince-Peryite-emblem.png" alt="AzuraSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+<img src="https://images.uesp.net/7/73/ON-concept-Prince-Peryite-emblem.png" alt="PeryiteSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
   
 **Accepts**  
 
@@ -839,7 +839,7 @@ Increases Poison Resistance by `50%`. (The shrine does not cure diseases if you 
 
 >*Lord of Revelry. Sanguine's sphere includes debauchery and passionate revelry. He is the patron of brothels.*
 
-<img src="https://images.uesp.net/1/1b/ON-concept-Prince-Sanguine-emblem.png" alt="AzuraSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+<img src="https://images.uesp.net/1/1b/ON-concept-Prince-Sanguine-emblem.png" alt="SanguineSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
   
 **Accepts**  
 
@@ -875,7 +875,7 @@ Using beneficial potions and alchemical ingredients is `15%` better.
 
 >*The Mad God. Sheogorath is the Prince of Madness, whose motives are fickle and unknown.*
 
-<img src="https://images.uesp.net/0/05/ON-concept-Prince-Sheogorath-emblem.png" alt="AzuraSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+<img src="https://images.uesp.net/0/05/ON-concept-Prince-Sheogorath-emblem.png" alt="SheogorathSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
   
 **Accepts**  
 
@@ -911,7 +911,7 @@ Grants a random blessing!
 
 >*The Lady of Dreams and Nightmares. Vaermina is the Weaver of the Panoply and the terrifying Prince of Nightmares and Evil Omens. All mortals come under her sway as they sleep.*
 
-<img src="https://images.uesp.net/f/f9/ON-concept-Prince-Vaermina-emblem.png" alt="AzuraSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+<img src="https://images.uesp.net/f/f9/ON-concept-Prince-Vaermina-emblem.png" alt="VaerminaSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
   
 **Accepts**  
 
@@ -951,7 +951,7 @@ The priests of Auri-El teach that the Hand of Auri-El, the Eye of Magnus, the Ar
   </details>
 
 <div style="text-align: center;">
-  <img src="https://www.imperial-library.info/wp-content/uploads/image-35.png" alt="NineDivinesStainedGlass" style="max-width: 50%; height: auto;">
+  <img src="https://www.imperial-library.info/wp-content/uploads/image-35.png" alt="SummersetMap" style="max-width: 50%; height: auto;">
 </div>
   
 ### [***Auriel***](https://en.uesp.net/wiki/Lore:Auri-El)
@@ -960,6 +960,8 @@ The priests of Auri-El teach that the Hand of Auri-El, the Eye of Magnus, the Ar
 
 >*The Hand of Auri-El is always on our shoulder. Guiding us through life and protecting us from harm.*
 
+<img src="https://images.uesp.net/5/58/LO-people-Auri-El.jpg" alt="AurielSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+  
 **Accepts**  
 
 Breton / High Elf / Wood Elf
@@ -990,6 +992,8 @@ You are `10%` more effective with missile weapons.
 >*Jephre the Storyteller and Spirit of the Now is the most important Bosmeri god and patron of Valenwood. He is said to have given up his form to establish the rules and principles of nature and life on Nirn, the first of his kind to do so.*
 
 >*The Bones of Y'ffre surround us, giving us food, shelter, warmth, and companionship.*
+
+<img src="https://images.uesp.net/5/54/LO-people-Jephre.jpg" alt="JephreSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
 
 **Accepts**  
 
@@ -1022,6 +1026,8 @@ Carrying capacity increased by `25` points.
 
 >*The Eye of Magnus is always upon us, in the spells and enchantments that devout Mages conjure.*
 
+<img src="https://images.uesp.net/1/19/User-Jimeee-EyeofMagnus.png" alt="MagnusSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+
 **Accepts**  
 
 Everyone
@@ -1051,6 +1057,8 @@ Practice magic successfully while praying. Safeguard the Eye of Magnus. Create e
 
 >*Ancestor god of Summerset, Phynaster taught his people to live longer by using a shorter stride. He is associated with the Ring of Phynaster.*
 
+<img src="https://images.uesp.net/4/48/SR-icon-jewelry-Ring_of_Phynaster.png" alt="PhynasterSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+
 **Accepts**  
 
 Breton / High Elf / Wood Elf
@@ -1079,6 +1087,8 @@ Potions and poisons you mix are `10%` stronger.
 ### [***Syrabane***](https://en.uesp.net/wiki/Lore:Syrabane)
 
 >*An Aldmeri ancestor-god, Syrabane the Apprentices' God was once a mortal archmage.*
+
+<img src="https://images.uesp.net/d/db/ON-place-Statue_of_Syrabane.jpg" alt="PhynasterSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
 
 **Accepts**  
 
@@ -1111,6 +1121,8 @@ Regenerate `2%` of your maximum Magicka per second.
 
 >*The Arm of Trinimac bears arms against our enemies, shielding us in our darkest hour.*
 
+<img src="http://media.discordapp.net/attachments/991920897701199913/1024602395860283402/trinimac.png?ex=68990497&is=6897b317&hm=48bee9407bf856727bd203df3a37369e8678985650cbde5adac21c52cadec6d3" alt="TrinimacSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+
 **Accepts**  
 
 High Elf / Orc / Wood Elf
@@ -1142,6 +1154,8 @@ You are `10%` more effective with two-handed weapons.
 
 >*The Mouth of Xarxes whispers in our ear, encouraging us to always learn, always seek, and always discover.*
 
+<img src="https://media.discordapp.net/attachments/991920897701199913/1023809781946929202/xarxes.png?ex=6898c569&is=689773e9&hm=d0a163441257e897b1617ae77f3bc6b270c1541e688b3167d853821dc9676d94&" alt="XarxesSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+
 **Accepts**  
 
 Breton / High Elf / Wood Elf
@@ -1170,6 +1184,8 @@ Scrolls are `25%` more effective.
 ### [***Z'en***](https://en.uesp.net/wiki/Lore:Z'en)
 
 >*The Wood Elven God of Agriculture and Toil is similar to, but distinct from, the Imperial Zenithar.*
+
+<img src="https://images.uesp.net/8/83/ON-concept-Bosmer_brewing_props.png?format=webp&quality=lossless" alt="XarxesSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
 
 **Accepts**  
 
