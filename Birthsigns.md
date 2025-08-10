@@ -2,7 +2,7 @@
 title: Birthsigns
 description: Learn more about the Birthsigns available in the Constellations Collections
 published: true
-date: 2025-08-10T07:07:34.433Z
+date: 2025-08-10T07:12:18.443Z
 tags: birthsign
 editor: markdown
 dateCreated: 2025-04-29T22:22:34.196Z
@@ -16,9 +16,9 @@ Birthsigns are selected when you create a character and can be exchanged for ano
 
 The Mage birthsign and its three charges. Once you select one of these Birthsigns, you may not select any birthsign of the other two Guardians or The Serpent.
 
-<img src="https://static.wikia.nocookie.net/elderscrolls/images/1/1f/The_mage.png/revision/latest?format=webp" alt="MageSign" style="float: left; height: 150px; margin-left: em; margin-top: 0em">
+### **Apprentice**
 
-##### **Apprentice**
+<img src="https://static.wikia.nocookie.net/skyrim_gamepedia/images/3/3c/The_apprentice_constellation.png/revision/latest?cb=20120609151143" alt="MageSign" style="float: right; height: 300px; margin-left: em; margin-top: -3em">
 
 Magicka Regeneration: `+175%`
 
@@ -28,7 +28,7 @@ Increased manacost `+10%` 
 
 `+15%` magnitude for spells
 
-##### **Atronach**
+### **Atronach**
 
 Magicka: `+175` 
 
@@ -36,7 +36,7 @@ Spell Absorption: `+20%` 
 
 Disables Magicka Regeneration in Combat
 
-##### **Mage**
+### **Mage**
 
 Spell Cost: `-7%` 
 
@@ -44,7 +44,7 @@ Enchantment Charge Cost: `-20%`
 
 Scroll Magnitude/Duration: `+15%` 
 
-##### **Ritual**
+### **Ritual**
 
 Maximum Number of Raised Dead: `+1` 
 
