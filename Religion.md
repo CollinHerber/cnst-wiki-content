@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-10T04:40:35.940Z
+date: 2025-08-10T04:46:34.644Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -1395,12 +1395,14 @@ Stagger from attacks and bashes is `50%` more effective.
   </details>
 
 <div style="text-align: center;">
-  <img src="https://images.uesp.net/8/81/ON-misc-Stained_Glass_of_Lunar_Phases.png" alt="NineDivinesStainedGlass" style="max-width: 30%; height: auto;">
+  <img src="https://images.uesp.net/8/81/ON-misc-Stained_Glass_of_Lunar_Phases.png" alt="KhajiitStainedGlass" style="max-width: 30%; height: auto;">
 </div>
   
 ### [***Rajhin***](https://en.uesp.net/wiki/Lore:Rajhin)
 
 >*The Trickster God. As a mortal, the Thief-God of the Khajiit was the most famous burglar in Elsweyr history. He has Seven Shadows, each representing different aspects of his being, that still roam Nirn after his death.*
+
+<img src="http://media.discordapp.net/attachments/991920897701199913/1023839182998732800/ON-tribute-rajhin-Grand_Larceny.png?ex=6898e0cb&is=68978f4b&hm=0f38c4a7047eaabb400539e18a32b8c69aff0cca61f03ceb919ec0ef7bf894a6&" alt="RedguardSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
 
 **Accepts**  
 
@@ -1431,6 +1433,8 @@ Lockpicking is `10%` easier.
 
 >*Riddle’Thar, The Two-Moons Dance, is the deity of cosmic order who challenges the Khajiiti people to become the strongest they can be.*
 
+<img src="https://images.uesp.net/2/27/Mfull_Sfull.jpg" alt="RiddleTharSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+
 **Accepts**  
 
 Khajiit
@@ -1460,6 +1464,10 @@ Unarmed strikes do `10` additional damage.
 
 *In addition to the established pantheons, the common denizens of Tamriel worship many local or less powerful deities. While the power of the Divines and Daedric Princes is unmistakable, a quick prayer to a minor deity may also bring success in trade, travel, or thievery.*
 
+<div style="text-align: center;">
+  <img src="https://images.uesp.net/7/7b/ON-concept-05.jpg" alt="KhajiitStainedGlass" style="max-width: 100%; height: auto;">
+</div>
+  
 ### [***Almalexia***](https://en.uesp.net/wiki/Lore:Almalexia)
 
 >*Almalexia was one of the three Living Gods of the Dunmer people, and known as 'Mother Morrowind' and 'The Lady of Mercy.' She also served as Morrowind's protector in times of foreign invasion.*
