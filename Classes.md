@@ -2,7 +2,7 @@
 title: Classes
 description: Learn more about the playable Races available in the Constellations Collections
 published: true
-date: 2025-08-10T07:36:12.115Z
+date: 2025-08-10T07:40:51.596Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-21T12:53:07.991Z
@@ -35,6 +35,8 @@ These classes gain a bonus to all Warrior skills.
 **_Combat Specialization Bonus:_**
 
 `+5` Archery `+5` Block `+5` Heavy Armor `+5` One-Handed `+5` Smithing `+5` Two-Handed
+
+
 
 ---
 
@@ -256,12 +258,18 @@ Health `+10` 
 
 ---
 
-### _Thief_
+### _Thief_{.tabset}
+#### Test1
+Testing
+
+#### Test 2
+Testing
 
 *Profiting from the losses of others is their love. Able to be swift in shadow, and crafty in bartering. Lock-picks are their swords.* 
 
 Stamina `+10` 
 
 **Skills:** `+5` Archery `+5` Light Armor `+5` Lockpicking `+5` Pickpocketing `+5` Sneak `+5` Speech
+
 
 ---
