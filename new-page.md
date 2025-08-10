@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2025-08-10T06:42:20.651Z
+date: 2025-08-10T06:44:07.218Z
 tags: race
 editor: markdown
 dateCreated: 2025-07-21T13:25:49.965Z
@@ -34,11 +34,11 @@ Playable Races and their changes in Constellations.
 
 **_Racial Traits:_**
 
-Resist Disease: `+75%` 
+🦠Resist Disease: `+75%` 
 
-Weakness to Magic: `-16%` 
+🌀Weakness to Magic: `-16%` 
 
-High Magicka Regeneration
+💧High Magicka Regeneration
 
 **_Skills_**
 
