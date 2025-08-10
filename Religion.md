@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-10T04:47:08.371Z
+date: 2025-08-10T05:00:53.470Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -1472,6 +1472,8 @@ Unarmed strikes do `10` additional damage.
 
 >*Almalexia was one of the three Living Gods of the Dunmer people, and known as 'Mother Morrowind' and 'The Lady of Mercy.' She also served as Morrowind's protector in times of foreign invasion.*
 
+<img src="https://images.uesp.net/e/e8/LG-cardart-Almalexia.png" alt="AlmalexiaSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+
 **Accepts**  
 
 Dunmer / Those who have completed 'Ghosts of the Tribunal'
@@ -1500,6 +1502,8 @@ Increases your Health by `25` points.
 ### [***Baan Dar***](https://en.uesp.net/wiki/Lore:Baan_Dar)
 
 >*The Bandit God is known by few and worshiped by even fewer, mostly cutthroats and brigands.*
+
+<img src="https://images.uesp.net/4/4a/LG-cardart-Bandit_Ringleader.png?format=webp&quality=lossless" alt="BaanDarSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
 
 **Accepts**  
 
@@ -1530,6 +1534,8 @@ Pickpocketing is `10%` easier.
 
 >*Once a mortal lich, the King of Worms is the god of necromancers and enemy of Arkay.*
 
+<img src="https://images.uesp.net/f/f4/LG-cardart-Mannimarco.jpg" alt="MannimarcoSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+
 **Accepts**  
 
 Everyone
@@ -1558,6 +1564,8 @@ Conjuration spells are `10%` more effective.
 ### [***Saint Alessia***](https://en.uesp.net/wiki/Lore:Alessia)
 
 >*Queen Alessia freed mankind from the Ayleids, and made a sacred Covenant with Akatosh and the Divines, establishing the Imperial Pantheon as it is known today.*
+
+<img src="https://images.uesp.net/e/ec/ON-misc-Alessian_Empire_Emblem.png" alt="AlessiaSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
 
 **Accepts**  
 
@@ -1588,6 +1596,8 @@ Followers within 20 feet gain `50` points of armor and `10%` magic resistance.
 
 >*The Nordic aspect of Lorkhan, the traitor deity who created the world, Shor is patron of mankind. His realm is Sovngarde, where the greatest Nord heroes go when they die to enjoy an eternity of feasting and merriment.*
 
+<img src="https://images.uesp.net/1/14/LG-cardart-Journey_to_Sovngarde.jpg" alt="ShorSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+
 **Accepts**  
 
 Breton / Imperial / Nord / Redguard
@@ -1616,6 +1626,8 @@ Deal `15%` more attack damage and critical damage against elves.
 ### [***Sithis***](https://en.uesp.net/wiki/Lore:Sithis)
 
 >*Sithis, or Padomay, is the primordial force of chaos. Some Argonians are given to the Dread Father at birth.*
+
+<img src="https://static.wikia.nocookie.net/elderscrolls/images/2/27/Sithis.png/revision/latest" alt="SithisSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
 
 **Accepts**  
 
@@ -1646,6 +1658,8 @@ Sneak attacks deal `15%` more damage.
 
 >*Sotha Sil was one of the three Living Gods of the Dunmer people, known as the 'Father of Mysteries.' He created the Clockwork City, a pocket realm of impossible complexity intended to study and mimic the structure of Nirn.*
 
+<img src="https://images.uesp.net/f/fd/LG-cardart-Sotha_Sil.jpg" alt="SothaSilSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+
 **Accepts**  
 
 Dunmer / Those who have completed 'Ghosts of the Tribunal'
@@ -1674,6 +1688,8 @@ Increases your magicka by `25` points.
 ### [***The All-Maker***](https://en.uesp.net/wiki/Lore:All-Maker)
 
 >*The monotheistic creator deity of the Skaal of Solstheim, the last practitioners of the religion. His followers believe all life flows from the All-Maker like a great river, and, in time, this river flows back to its source. Death is simply the next stage of this endless journey.*
+
+<img src="https://images.uesp.net/d/d3/SR-icon-jewelry-Skaal_Amulet.png" alt="AllMakerSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
 
 **Accepts**  
 
@@ -1704,6 +1720,8 @@ Deal `15%` more attack damage and critical damage against animals.
 
 >*The Hist is a race of divine sentient trees that Argonians claim to be the original forms of life on Tamriel. Most Argonians are dedicated to the Hist as hatchlings. The Hist are said to have foreseen the Oblivion Crisis of the 3rd Era, and called Argonians home to Black Marsh to assault the invading Daedra.*
 
+<img src="https://images.uesp.net/b/b0/LG-cardart-Hist_Grove_03.png" alt="HistSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+
 **Accepts**  
 
 Argonian
@@ -1732,6 +1750,8 @@ Tough scales increase armor by `50` points.
 ### [***The Magna-Ge***](https://en.uesp.net/wiki/Lore:Magna_Ge)
 
 >*The Magna Ge, literally the 'Children of Magnus' left behind the stars and constellations as they fled to Aetherius in the wake of Magnus.*
+
+<img src="https://media.discordapp.net/attachments/991920897701199913/1023751074588393593/ON-sky-Spilled_Sand.png?ex=6899377c&is=6897e5fc&hm=84d8b2252bc26904c84bc1e22b863266eabcbec28c3a6a70db79f7ee34599042" alt="MagnaGeSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
 
 **Accepts**  
 
@@ -1762,6 +1782,8 @@ Alteration spells are *10%* more effective.
 
 >*The animal gods represent the original religion of Skyrim, preached by the fearsome Dragon Priests.*
 
+<img src="https://images.uesp.net/3/30/LG-cardart-Echo_of_Akatosh.png" alt="OldWaysSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+
 **Accepts**  
 
 Breton / Nord
@@ -1790,6 +1812,8 @@ Deal `15%` more attack damage and critical damage against animals.
 ### [***Vivec***](https://en.uesp.net/wiki/Lore:Vivec)
 
 >*Vivec was one of the three Living Gods of the Dunmer people, known as a Warrior-Poet and much beloved among his people. His disappearance is widely believed to have caused the Red Year, but his worship persists all the same.*
+
+<img src="https://images.uesp.net/0/0e/LG-cardart-Vivec.jpg" alt="VivecSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
 
 **Accepts**  
 
