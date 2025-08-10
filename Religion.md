@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-10T03:25:31.974Z
+date: 2025-08-10T03:28:25.419Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -57,7 +57,7 @@ Most of the lore in this guide is pulled directly from the [Unofficial Elder Scr
 ### [**_Akatosh_**](https://en.uesp.net/wiki/Lore:Akatosh)
 >*The Dragon God of Time. Chief among the gods, with mastery over the flow of time. Associated with dragons and the qualities of endurance and virtuous service.*
 
-<img src="https://images.uesp.net/c/c2/ON-icon-Divine-Akatosh-emblem.png" alt="AkatoshSymbol" style="float: right; height: 200px; margin-left: 1em;">
+<img src="https://images.uesp.net/c/c2/ON-icon-Divine-Akatosh-emblem.png" alt="AkatoshSymbol" style="float: right; height: 200px;">
 
 **Accepts**
 
@@ -151,7 +151,7 @@ Prices are `10%` better.
 
 >*God of logic, wisdom, and the arts of magic. His temples act as educational institutions in literature, history, and law.*
 
-<img src="https://images.uesp.net/9/99/ON-icon-Divine-Julianos-emblem.png" alt="JulianosSymbol" style="float: right; height: 200px; margin-left: 1em;">
+<img src="https://images.uesp.net/9/99/ON-icon-Divine-Julianos-emblem.png" alt="JulianosSymbol" style="float: right; height: 200px;">
 
 **Accepts**
 
@@ -182,7 +182,7 @@ Increases your Magicka by `25` points.
 
 >*Goddess of the heavens, winds, and rain. Patron of sailors and travelers, and often propitiated for good fortune in life.*
 
-<img src="https://images.uesp.net/8/85/ON-icon-Divine-Kynareth-emblem.png" alt="KynarethSymbol" style="float: right; height: 200px; margin-left: 1em;">
+<img src="https://images.uesp.net/8/85/ON-icon-Divine-Kynareth-emblem.png" alt="KynarethSymbol" style="float: right; height: 200px;">
 
 **Accepts**  
 
@@ -213,7 +213,7 @@ Increases your Stamina by `25` points.
 
 >*The Mother-Goddess. Goddess of love, compassion, and the bounty of nature. Presides over marriage ceremonies, befitting her ancient origins as a fertility goddess.*
 
-<img src="https://images.uesp.net/8/87/ON-icon-Divine-Mara-emblem.png" alt="MaraSymbol" style="float: right; height: 200px; margin-left: 1em;">
+<img src="https://images.uesp.net/8/87/ON-icon-Divine-Mara-emblem.png" alt="MaraSymbol" style="float: right; height: 200px;">
 
 **Accepts**  
 
@@ -244,7 +244,7 @@ Restoration spells cost `10%` less to cast.
 
 >*The Steadfast. God of mercy, justice, and righteousness. Patron of all those who wield righteous might to protect the weak, from emperors to holy warriors.*
 
-<img src="https://images.uesp.net/0/0a/ON-icon-Divine-Stendarr-emblem.png" alt="StendarrSymbol" style="float: right; height: 200px; margin-left: 1em;">
+<img src="https://images.uesp.net/0/0a/ON-icon-Divine-Stendarr-emblem.png" alt="StendarrSymbol" style="float: right; height: 200px;">
 
 **Accepts**  
 
@@ -275,7 +275,7 @@ Block `10%` more damage.
 
 >*Hero-god of Mankind. A mortal and emperor who upon death became a Divine. Patron of questing adventurers, warriors, generals, the Empire and all its ideals of civilization, as well as those who go to war to defend it.*
 
-<img src="https://static.wikia.nocookie.net/elderscrolls/images/4/40/Talos_Stained_Glass_Circle.png/revision/latest?format=webp" alt="TalosSymbol" style="float: right; height: 200px; margin-left: 1em;">
+<img src="https://static.wikia.nocookie.net/elderscrolls/images/4/40/Talos_Stained_Glass_Circle.png/revision/latest?format=webp" alt="TalosSymbol" style="float: right; height: 200px;">
 
 
 **Accepts**  
@@ -307,7 +307,7 @@ Time between shouts is reduced `10%`.
 
 >*The Trader God. God of work, commerce, and wealth, invoked for success in business ventures. Teaches prosperity through honest industry, rather than violence or deceit.*
 
-<img src="https://images.uesp.net/d/dd/ON-icon-Divine-Zenithar-emblem.png" alt="ZenitharSymbol" style="float: right; height: 200px; margin-left: 1em;">
+<img src="https://images.uesp.net/d/dd/ON-icon-Divine-Zenithar-emblem.png" alt="ZenitharSymbol" style="float: right; height: 200px;">
 
 **Accepts**  
 
@@ -358,6 +358,8 @@ Should you decline the Temptation, the Daedric Prince will not ask again, so cho
 
 >*The Queen of Dawn and Dusk. Azura is the Prince of Dusk and Dawn—the magic in-between realms of twilight—as well as mystery and magic, fate and prophecy, and vanity and egotism. She is seen as the creator goddess of the Khajiiti and Dunmeri people.*
 
+<img src="https://images.uesp.net/c/ca/ON-concept-Prince-Azura-emblem.png" alt="ZenitharSymbol" style="float: right; height: 200px;">
+  
 **Accepts**  
 
 Dark Elf / Khajiit / Those who have completed 'The Black Star'
