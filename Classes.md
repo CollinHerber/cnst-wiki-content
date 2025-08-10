@@ -2,7 +2,7 @@
 title: Classes
 description: Learn more about the playable Races available in the Constellations Collections
 published: true
-date: 2025-08-10T08:08:50.576Z
+date: 2025-08-10T08:09:28.452Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-21T12:53:07.991Z
@@ -26,7 +26,7 @@ You can also choose to create your own custom class.
 
 **Skills:** `+5` Skill `+5` Skill `+5` Skill `+5` Skill `+5` Skill `+5` Skill
 
----
+
 
 ## _Combat Classes_
 
