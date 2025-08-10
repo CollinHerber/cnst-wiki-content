@@ -2,7 +2,7 @@
 title: Classes
 description: Learn more about the playable Races available in the Constellations Collections
 published: true
-date: 2025-08-10T08:09:28.452Z
+date: 2025-08-10T08:09:48.137Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-21T12:53:07.991Z
@@ -22,7 +22,7 @@ You can also choose to create your own custom class.
 
 **Specialization Bonus: Combat Specialization** or **Magic Specialization** or ***Stealth Specialization** (granting* `+5` *to skills in the appropriate categories)*
 
-**Health** `+10` or **Magicka** `+10` or **Stamina** `+10` 
+❤️**Health** `+10` or 💧**Magicka** `+10` or 🔋**Stamina** `+10` 
 
 **Skills:** `+5` Skill `+5` Skill `+5` Skill `+5` Skill `+5` Skill `+5` Skill
 
