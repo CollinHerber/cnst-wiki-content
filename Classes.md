@@ -2,7 +2,7 @@
 title: Classes
 description: Learn more about the playable Races available in the Constellations Collections
 published: true
-date: 2025-08-10T08:29:57.388Z
+date: 2025-08-10T08:30:46.226Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-21T12:53:07.991Z
@@ -144,7 +144,7 @@ These classes gain a bonus to all Mage skills.
 
 ### Magic Classes Tabset {.tabset}
 
-#### _Battlemage_
+#### Battlemage
 *Able to resolve conflicts with spell or sword, they are a deadly mix of scholar and soldier.* 
 
 💧Magicka `+10` 
@@ -157,7 +157,7 @@ These classes gain a bonus to all Mage skills.
 `+5` Enchanting 
 `+5` Alchemy
 
-#### _Healer_
+#### Healer
 *Fighters of poison and illness. The ancient art of restoration is their ally, and the deadly art of destruction is their weapon.* 
 
 💧Magicka `+10` 
@@ -170,7 +170,7 @@ These classes gain a bonus to all Mage skills.
 `+5` Alchemy 
 `+5` Speech
 
-#### _Mage_
+#### Mage
 *Prefering to use their extensive knowledge of all things magical, they wield powerful might.* 
 
 💧Magicka `+10` 
@@ -183,7 +183,7 @@ These classes gain a bonus to all Mage skills.
 `+5` Illusion 
 `+5` Restoration
 
-#### _Nightblade_
+#### Nightblade
 *Spell and shadow are their friends. By darkness they move with haste, casting magic to benefit their circumstances.* 
 
 💧Magicka `+10` 
@@ -196,7 +196,7 @@ These classes gain a bonus to all Mage skills.
 `+5` Light Armor 
 `+5` Sneak
 
-#### _Sorcerer_
+#### Sorcerer
 *These mages rely on spells of the mystic arts and bodily stamina to don the thickest armor.* 
 
 💧Magicka `+10` 
@@ -209,7 +209,7 @@ These classes gain a bonus to all Mage skills.
 `+5` Enchanting 
 `+5` Restoration
 
-#### _Spellsword_
+#### Spellsword
 *Students of combat and magic. More nimble and athletic than the sorcerer, and better suited for spell-casting than the knight.* 
 
 ❤️Health `+10` 
@@ -222,7 +222,7 @@ These classes gain a bonus to all Mage skills.
 `+5` Illusion 
 `+5` Restoration 
 
-#### _Witchhunter_
+#### Witchhunter
 *Swift on foot, and clever with spells and bows, they use distance as their ally.* 
 
 🔋Stamina `+10` 
@@ -247,7 +247,7 @@ These classes gain a bonus to all Thief skills.
 
 ### Stealth Classes Tabset {.tabset}
 
-#### _Acrobat_
+#### Acrobat
 *The kind of person that uses agility and endurance to their advantage. Unafraid of jumping long distances.* 
 
 🔋Stamina `+10` 
@@ -260,7 +260,7 @@ These classes gain a bonus to all Thief skills.
 `+5` Sneak 
 `+5` Speech
 
-#### _Agent_
+#### Agent
 *Charming when they can be seen, and nearly invisible when in shadow.* 
 
 🔋Stamina `+10` 
@@ -273,7 +273,7 @@ These classes gain a bonus to all Thief skills.
 `+5` Sneak 
 `+5` Speech
 
-#### _Assassin_
+#### Assassin
 *Nimble and quiet, they move in darkness to strike at the unsuspecting. Locks hold no doors shut for them.* 
 
 🔋Stamina `+10` 
@@ -286,7 +286,7 @@ These classes gain a bonus to all Thief skills.
 `+5` Lockpicking 
 `+5` Sneak
 
-#### _Bard_
+#### Bard
 *Intelligent and personable, they prefer to accomplish tasks with their words first, and sword second.* 
 
 🔋Stamina `+10` 
@@ -299,7 +299,7 @@ These classes gain a bonus to all Thief skills.
 `+5` Light Armor 
 `+5` Speech
 
-#### _Monk_
+#### Monk
 *Quick and cunning with the empty hand, they are strong in spirit. They prefer to solve conflict by arrow or by fist.* 
 
 🔋Stamina `+10` 
@@ -312,7 +312,7 @@ These classes gain a bonus to all Thief skills.
 `+5` Lockpicking 
 `+5` Sneak
 
-#### _Pilgrim_
+#### Pilgrim
 *Hearty folk, well-versed in the tomes of old. They profit in life by bartering in the market, or by persuading the weak-minded.* 
 
 ❤️Health `+10` 
@@ -325,7 +325,7 @@ These classes gain a bonus to all Thief skills.
 `+5` Lockpicking 
 `+5` Speech
 
-#### _Thief_
+#### Thief
 *Profiting from the losses of others is their love. Able to be swift in shadow, and crafty in bartering. Lock-picks are their swords.* 
 
 🔋Stamina `+10` 
