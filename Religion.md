@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-10T03:34:48.991Z
+date: 2025-08-10T03:40:33.616Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -358,7 +358,7 @@ Should you decline the Temptation, the Daedric Prince will not ask again, so cho
 
 >*The Queen of Dawn and Dusk. Azura is the Prince of Dusk and Dawn—the magic in-between realms of twilight—as well as mystery and magic, fate and prophecy, and vanity and egotism. She is seen as the creator goddess of the Khajiiti and Dunmeri people.*
 
-<img src="https://images.uesp.net/c/ca/ON-concept-Prince-Azura-emblem.png" alt="AzuraSymbol" style="float: right; max-width: 10%; height: auto; margin-top: -8px">
+<img src="https://images.uesp.net/c/ca/ON-concept-Prince-Azura-emblem.png" alt="AzuraSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px">
   
 **Accepts**  
 
