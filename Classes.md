@@ -2,7 +2,7 @@
 title: Classes
 description: Learn more about the playable Races available in the Constellations Collections
 published: true
-date: 2025-08-10T08:10:51.703Z
+date: 2025-08-10T08:11:29.478Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-21T12:53:07.991Z
@@ -140,6 +140,8 @@ These classes gain a bonus to all Mage skills.
 
 `+5` Alteration `+5` Conjuration `+5` Destruction `+5` Enchanting `+5` Illusion `+5` Restoration
 
+---
+
 ### Magic Classes Tabset {.tabset}
 
 #### _Battlemage_
@@ -240,6 +242,8 @@ These classes gain a bonus to all Thief skills.
 **_Stealth Specialization Bonus:_**
 
 `+5` Alchemy `+5` Light Armor `+5` Lockpicking `+5` Pickpocket `+5` Sneak `+5` Speech 
+
+---
 
 ### Stealth Classes Tabset {.tabset}
 
