@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-10T04:36:13.821Z
+date: 2025-08-10T04:40:35.940Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -1394,6 +1394,10 @@ Stagger from attacks and bashes is `50%` more effective.
   The Khajiit worship many deities, most of which are different aspects of the Divines and Daedric Princes, but they also have several deities that represent their own challenges and unique role in the world. Survival in the foreign land of Skyrim is tough, so their deities do not penalize them for committing crimes, and may in fact reward them.
   </details>
 
+<div style="text-align: center;">
+  <img src="https://images.uesp.net/8/81/ON-misc-Stained_Glass_of_Lunar_Phases.png" alt="NineDivinesStainedGlass" style="max-width: 30%; height: auto;">
+</div>
+  
 ### [***Rajhin***](https://en.uesp.net/wiki/Lore:Rajhin)
 
 >*The Trickster God. As a mortal, the Thief-God of the Khajiit was the most famous burglar in Elsweyr history. He has Seven Shadows, each representing different aspects of his being, that still roam Nirn after his death.*
