@@ -2,7 +2,7 @@
 title: Classes
 description: Learn more about the playable Races available in the Constellations Collections
 published: true
-date: 2025-08-10T07:57:59.492Z
+date: 2025-08-10T08:04:35.798Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-21T12:53:07.991Z
@@ -36,7 +36,7 @@ These classes gain a bonus to all Warrior skills.
 
 `+5` Archery `+5` Block `+5` Heavy Armor `+5` One-Handed `+5` Smithing `+5` Two-Handed
 
-### Combat Classes {.tabset}
+### Combat Classes Tabset {.tabset}
 #### Archer
 *A marksman, adept at combat at great distances. Able to take down most foes before they have a chance to draw their sword.* 
 
@@ -138,75 +138,98 @@ These classes gain a bonus to all Mage skills.
 
 `+5` Alteration `+5` Conjuration `+5` Destruction `+5` Enchanting `+5` Illusion `+5` Restoration
 
----
+### Magic Classes Tabset {.tabset}
 
-### _Battlemage_
-
+#### _Battlemage_
 *Able to resolve conflicts with spell or sword, they are a deadly mix of scholar and soldier.* 
 
-Magicka `+10` 
+💧Magicka `+10` 
 
-**Skills:** `+5` One-Handed `+5` Alteration `+5` Conjuration `+5` Destruction `+5` Enchanting `+5` Alchemy
+**Skills:** 
+`+5` One-Handed 
+`+5` Alteration 
+`+5` Conjuration 
+`+5` Destruction 
+`+5` Enchanting 
+`+5` Alchemy
 
----
-
-### _Healer_
-
+#### _Healer_
 *Fighters of poison and illness. The ancient art of restoration is their ally, and the deadly art of destruction is their weapon.* 
 
-Magicka `+10` 
+💧Magicka `+10` 
 
-**Skills:** `+5` Alteration `+5` Destruction `+5` Illusion `+5` Restoration `+5` Alchemy `+5` Speech
+**Skills:** 
+`+5` Alteration 
+`+5` Destruction 
+`+5` Illusion 
+`+5` Restoration 
+`+5` Alchemy 
+`+5` Speech
 
----
-
-### _Mage_
-
+#### _Mage_
 *Prefering to use their extensive knowledge of all things magical, they wield powerful might.* 
 
-Magicka `+10` 
+💧Magicka `+10` 
 
-**Skills:** `+5` Alteration `+5` Conjuration `+5` Destruction `+5` Enchanting `+5` Illusion `+5` Restoration
+**Skills:** 
+`+5` Alteration 
+`+5` Conjuration 
+`+5` Destruction 
+`+5` Enchanting 
+`+5` Illusion 
+`+5` Restoration
 
----
-
-### _Nightblade_
-
+#### _Nightblade_
 *Spell and shadow are their friends. By darkness they move with haste, casting magic to benefit their circumstances.* 
 
-Magicka `+10` 
+💧Magicka `+10` 
 
-**Skills:** `+5` One-Handed `+5` Alteration `+5` Destruction `+5` Illusion `+5` Light Armor `+5` Sneak
+**Skills:** 
+`+5` One-Handed 
+`+5` Alteration 
+`+5` Destruction 
+`+5` Illusion 
+`+5` Light Armor 
+`+5` Sneak
 
----
-
-### _Sorcerer_
-
+#### _Sorcerer_
 *These mages rely on spells of the mystic arts and bodily stamina to don the thickest armor.* 
 
-Magicka `+10` 
+💧Magicka `+10` 
 
-**Skills:** `+5` Heavy Armor `+5` Alteration `+5` Conjuration `+5` Destruction `+5` Enchanting `+5` Restoration
+**Skills:** 
+`+5` Heavy Armor 
+`+5` Alteration 
+`+5` Conjuration 
+`+5` Destruction 
+`+5` Enchanting 
+`+5` Restoration
 
----
-
-### _Spellsword_
-
+#### _Spellsword_
 *Students of combat and magic. More nimble and athletic than the sorcerer, and better suited for spell-casting than the knight.* 
 
-Health `+10` 
+❤️Health `+10` 
 
-**Skills:** `+5` Heavy Armor `+5` One-Handed `+5` Alteration `+5` Destruction `+5` Illusion `+5` Restoration 
+**Skills:** 
+`+5` Heavy Armor 
+`+5` One-Handed 
+`+5` Alteration 
+`+5` Destruction 
+`+5` Illusion 
+`+5` Restoration 
 
----
-
-### _Witchhunter_
-
+#### _Witchhunter_
 *Swift on foot, and clever with spells and bows, they use distance as their ally.* 
 
-Stamina `+10` 
+🔋Stamina `+10` 
 
-**Skills:** `+5` Archery `+5` Conjuration `+5` Destruction `+5` Enchanting `+5` Alchemy `+5` Lockpicking
+**Skills:** 
+`+5` Archery 
+`+5` Conjuration 
+`+5` Destruction 
+`+5` Enchanting 
+`+5` Alchemy 
+`+5` Lockpicking
 
 ## _Stealth Classes_
 
