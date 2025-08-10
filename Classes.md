@@ -2,7 +2,7 @@
 title: Classes
 description: Learn more about the playable Races available in the Constellations Collections
 published: true
-date: 2025-08-10T07:48:46.031Z
+date: 2025-08-10T07:56:06.646Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-21T12:53:07.991Z
@@ -279,7 +279,10 @@ These classes gain a bonus to all Warrior skills.
 
 ### Combat Classes {.tabset}
 #### Archer
+*A marksman, adept at combat at great distances. Able to take down most foes before they have a chance to draw their sword.* 
+
 🔋Stamina `+10`
+
 **Skills:**
 `+5` Archery 
 `+5` Block 
@@ -289,7 +292,10 @@ These classes gain a bonus to all Warrior skills.
 `+5` Two-Handed
 
 #### Barbarian
+*Fearsome brutes who inspire fear in the hearts of their enemies. Finding little use for heavy armor, they are swift and powerful.* 
+
 🔋Stamina `+10`
+
 **Skills:**
 `+5` Archery 
 `+5` Block 
@@ -297,3 +303,68 @@ These classes gain a bonus to all Warrior skills.
 `+5` Smithing 
 `+5` Two-Handed 
 `+5` Light Armor
+
+#### _Crusader_
+*A combatant who wields the power of brute strength and medicinal knowledge.* 
+
+❤️Health `+10` 
+
+**Skills:** 
+`+5` Block 
+`+5` Heavy Armor 
+`+5` One-Handed 
+`+5` Two-Handed 
+`+5` Destruction 
+`+5` Restoration
+
+#### _Knight_
+*The most noble of all combatants. Strong in body and in character.* 
+
+❤️Health `+10` 
+
+**Skills:** 
+`+5` Block 
+`+5` Heavy Armor 
+`+5` One-Handed 
+`+5` Two-Handed 
+`+5` Illusion 
+`+5` Speech
+
+#### _Rogue_
+*They use speed in combat rather than brute force. Persuasive in conversation, their tongues are as sharp as blades.* 
+
+🔋Stamina `+10` 
+
+**Skills:** 
+`+5` Block 
+`+5` One-Handed 
+`+5` Illusion 
+`+5` Alchemy 
+`+5` Light Armor 
+`+5` Speech
+
+#### _Scout_
+*Preferring the countryside to cities, they are gifted with the ability to evade, guard and protect themselves with great proficiency.* 
+
+🔋Stamina `+10` 
+
+**Skills:** 
+`+5` Archery 
+`+5` Block 
+`+5` One-Handed 
+`+5` Smithing 
+`+5` Alchemy 
+`+5` Light Armor
+
+#### _Warrior_
+*Unafraid of light weaponry, they plow into battle with little regard for injury. Masters of all melee tools, they put little faith in magic.* 
+
+❤️Health `+10` 
+
+**Skills:** 
+`+5` Archery 
+`+5` Block 
+`+5` Heavy Armor 
+`+5` One-Handed 
+`+5` Smithing 
+`+5` Two-Handed
