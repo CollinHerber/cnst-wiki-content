@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2025-08-10T06:39:49.990Z
+date: 2025-08-10T06:42:20.651Z
 tags: race
 editor: markdown
 dateCreated: 2025-07-21T13:25:49.965Z
@@ -24,13 +24,13 @@ Playable Races and their changes in Constellations.
 
 **_Base Stats_**
 
-Health: `140` 
+❤️Health: `140` 
 
-Magicka: `235` 
+💧Magicka: `235` 
 
-Stamina: `115` 
+🔋Stamina: `115` 
 
-Carry Weight: `95` 
+⚖️Carry Weight: `95` 
 
 **_Racial Traits:_**
 
