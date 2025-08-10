@@ -2,7 +2,7 @@
 title: Classes
 description: Learn more about the playable Races available in the Constellations Collections
 published: true
-date: 2025-08-10T08:11:29.478Z
+date: 2025-08-10T08:29:57.388Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-21T12:53:07.991Z
@@ -65,7 +65,7 @@ These classes gain a bonus to all Warrior skills.
 `+5` Two-Handed 
 `+5` Light Armor
 
-#### _Crusader_
+#### Crusader
 *A combatant who wields the power of brute strength and medicinal knowledge.* 
 
 ❤️Health `+10` 
@@ -78,7 +78,7 @@ These classes gain a bonus to all Warrior skills.
 `+5` Destruction 
 `+5` Restoration
 
-#### _Knight_
+#### Knight
 *The most noble of all combatants. Strong in body and in character.* 
 
 ❤️Health `+10` 
@@ -91,7 +91,7 @@ These classes gain a bonus to all Warrior skills.
 `+5` Illusion 
 `+5` Speech
 
-#### _Rogue_
+#### Rogue
 *They use speed in combat rather than brute force. Persuasive in conversation, their tongues are as sharp as blades.* 
 
 🔋Stamina `+10` 
@@ -104,7 +104,7 @@ These classes gain a bonus to all Warrior skills.
 `+5` Light Armor 
 `+5` Speech
 
-#### _Scout_
+#### Scout
 *Preferring the countryside to cities, they are gifted with the ability to evade, guard and protect themselves with great proficiency.* 
 
 🔋Stamina `+10` 
@@ -117,7 +117,7 @@ These classes gain a bonus to all Warrior skills.
 `+5` Alchemy 
 `+5` Light Armor
 
-#### _Warrior_
+#### Warrior
 *Unafraid of light weaponry, they plow into battle with little regard for injury. Masters of all melee tools, they put little faith in magic.* 
 
 ❤️Health `+10` 
