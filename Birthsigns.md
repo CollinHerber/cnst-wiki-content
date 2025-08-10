@@ -2,7 +2,7 @@
 title: Birthsigns
 description: Learn more about the Birthsigns available in the Constellations Collections
 published: true
-date: 2025-08-10T07:25:42.462Z
+date: 2025-08-10T07:30:41.051Z
 tags: birthsign
 editor: markdown
 dateCreated: 2025-04-29T22:22:34.196Z
@@ -12,13 +12,21 @@ Birthsigns are powerful blessings granted by the Constellations that spread acro
 
 Birthsigns are selected when you create a character and can be exchanged for another Birthsign with the same Guardian by activating Standing Stones.
 
+<style>
+  @media (max-width: 768px) {
+    .hide-on-mobile {
+      display: none !important;
+    }
+  }
+</style>
+
 ## Mage
 
 The Mage birthsign and its three charges. Once you select one of these Birthsigns, you may not select any birthsign of the other two Guardians or The Serpent.
 
 ### **Apprentice**
 
-<img src="https://static.wikia.nocookie.net/skyrim_gamepedia/images/3/3c/The_apprentice_constellation.png/revision/latest?cb=20120609151143" alt="MageSign" style="float: right; height: 275px; width: auto; margin-top: -2em">
+<img src="https://static.wikia.nocookie.net/skyrim_gamepedia/images/3/3c/The_apprentice_constellation.png/revision/latest?cb=20120609151143" alt="MageSign" class="hide-on-mobile" style="float: right; height: 275px; width: auto; margin-top: -2em">
 
 Magicka Regeneration: `+175%`
 
