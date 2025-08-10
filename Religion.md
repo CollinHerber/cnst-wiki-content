@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-07T13:50:20.623Z
+date: 2025-08-10T03:25:31.974Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -89,7 +89,7 @@ Learn all skills `10%` faster.
 
 >*The Mortals' God. God of cycles, particularly that of birth and death. Presides over funerals and burial rites, as well as ushering in the changes of the seasons.*
 
-<img src="https://images.uesp.net/3/3b/ON-icon-Divine-Arkay-emblem.png" alt="ArkaySymbol" style="float: right; height: 200px; margin-left: 1em;">
+<img src="https://images.uesp.net/3/3b/ON-icon-Divine-Arkay-emblem.png" alt="ArkaySymbol" style="float: right; height: 200px;">
 
 **Accepts**
 
@@ -120,7 +120,7 @@ Increases your Health by `25` points.
 
 >*Goddess of beauty and art, and one of the most popular of the Divines. Widespread cults are dedicated to both healing and sexual instruction.*
 
-<img src="https://images.uesp.net/c/c0/ON-icon-Divine-Dibella-emblem.png" alt="DibellaSymbol" style="float: right; height: 200px; margin-left: 1em;">
+<img src="https://images.uesp.net/c/c0/ON-icon-Divine-Dibella-emblem.png" alt="DibellaSymbol" style="float: right; height: 200px;">
 
 **Accepts**
 
