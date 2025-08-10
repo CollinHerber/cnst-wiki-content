@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2025-08-10T06:02:17.312Z
+date: 2025-08-10T06:09:27.832Z
 tags: race
 editor: markdown
 dateCreated: 2025-07-21T13:25:49.965Z
@@ -52,7 +52,7 @@ High Magicka Regeneration
 
 [**Starting Religions**](https://cnst.collinthedev.com/en/Religion) The Hist ● Sithis
 
-<img src="https://images.uesp.net/2/20/LG-cardart-Invoker_of_the_Hist.png" alt="Altmer" style="float: right; max-width: 300px; height: auto; margin-top: 50px; margin-right: 100px;">
+<img src="https://images.uesp.net/2/20/LG-cardart-Invoker_of_the_Hist.png" alt="Argonian" style="float: right; max-width: 300px; height: auto; margin-top: 50px; margin-right: 100px;">
 
 **_Base Stats_**
 
@@ -86,6 +86,8 @@ Waterbreathing
 
 [**Starting Religions**](https://cnst.collinthedev.com/en/Religion) Arkay ● Auriel ● Hircine ● Jephre ● Magnus ● Mara ● Stendarr ● Xarxes ● Z'en
 
+<img src="https://images.uesp.net/d/dc/LG-cardart-Blacksap_Protector_Alt.png" alt="Bosmer" style="float: right; max-width: 300px; height: auto; margin-top: 50px; margin-right: 100px;">
+
 **_Base Stats_**
 
 Health: `140` 
@@ -114,6 +116,8 @@ Command Animals `1x Day`
 
 [**Starting Religions**](https://cnst.collinthedev.com/en/Religion) Akatosh ● Arkay ● Dibella ● Magnus ● Mara ● Phynaster ● Stendarr ● Xarxes ● Zenithar
 
+<img src="https://images.uesp.net/1/10/LG-cardart-Glenumbra_Sorceress.png" alt="Breton" style="float: right; max-width: 300px; height: auto; margin-top: 50px; margin-right: 100px;">
+
 **_Base Stats_**
 
 Health: `140` 
@@ -139,6 +143,8 @@ Magic Absorb: `+15`
 *The Dunmer, or Dark Elves, are the ash-skinned, red-eyed, Elven people of Vvardenfell. They combine powerful intellects with strong and agile physiques, producing excellent warriors and evokers. They are extremely resistant to fire, blocking two thirds of incoming fire damage. Their ancestors always watch over them, reducing incoming damage by a small portion.* 
 
 [**Starting Religions**](https://cnst.collinthedev.com/en/Religion) Azura ● Boethia ● Malacath ● Mehrunes Dagon ● Mephala ● Molag Bal ● Sheogorath
+
+<img src="https://images.uesp.net/5/5a/LG-cardart-Ashlander_Punisher.png" alt="Dunmer" style="float: right; max-width: 300px; height: auto; margin-top: 50px; margin-right: 100px;">
 
 **_Base Stats_**
 
@@ -167,6 +173,8 @@ Resist All Damage: `+7%`
 *The cosmopolitan citizens of Cyrodiil are descended from the founders of the glorious Empire that has influenced Tamriel's history throughout the eras. Imperials are shrewd traders, skilled in both magic and combat, and possess exceptionally high stamina because of the martial discipline of the schools of Cyrodiil. Every Imperial possesses at least basic rhetoric knowledge, allowing them to haggle for many bargains.* 
 
 [**Starting Religions**](https://cnst.collinthedev.com/en/Religion) Akatosh ● Arkay ● Dibella ● Julianos ● Kynareth ● Mara ● Stendarr ● Talos ● Zenithar
+
+<img src="https://images.uesp.net/b/b3/LG-cardart-Empire_Oathman.png" alt="Imperial" style="float: right; max-width: 300px; height: auto; margin-top: 50px; margin-right: 100px;">
 
 **_Base Stats_**
 
@@ -197,6 +205,8 @@ High Stamina Regeneration
 *The Khajiit are a race of feline humanoids hailing from the province of Elsweyr, well-known as great merchants but also as smugglers and thieves. They are very fast and outrun all other races which, combined with a high stamina reserve, makes them fearsome skirmishers. However, they are seldom gifted with the skill to harness magical forces. All Khajiit can see in the dark at will and eat raw meat, and their sharp claws are as lethal as knives.* 
 
 [**Starting Religions**](https://cnst.collinthedev.com/en/Religion) Akatosh ● Azura ● Kynareth ● Mephala ● Mehrunes Dagon ● Raijihn ● Riddle'Thar ● Sheogorath
+
+<img src="https://images.uesp.net/3/31/LG-cardart-Caravan_Enforcer.png" alt="Khajiit" style="float: right; max-width: 300px; height: auto; margin-top: 50px; margin-right: 100px;">
 
 **_Base Stats_**
 
@@ -232,6 +242,8 @@ Night Vision
 
 [**Starting Religions**](https://cnst.collinthedev.com/en/Religion) Akatosh ● Arkay ● Dibella ● Kynareth ● Mara ● Shor ● Stendarr ● Talos ● Zenithar
 
+<img src="https://images.uesp.net/4/42/LG-cardart-Nord_Firebrand_Alt.png" alt="Nord" style="float: right; max-width: 300px; height: auto; margin-top: 50px; margin-right: 100px;">
+
 **_Base Stats_**
 
 Health: `170` 
@@ -262,6 +274,8 @@ Shout Cooldown: `-15%`
 
 [**Starting Religions**](https://cnst.collinthedev.com/en/Religion) Malacath ● Trinimac
 
+<img src="https://images.uesp.net/0/0f/LG-cardart-Stronghold_Patrol.png" alt="Orsimer" style="float: right; max-width: 300px; height: auto; margin-top: 50px; margin-right: 100px;">
+
 **_Base Stats_**
 
 Health: `180` 
@@ -287,6 +301,8 @@ Damage Dealt/Taken: `+/-25%` if `HP<40%`
 *The dark-skinned, wiry-haired Redguards of Hammerfell seem born for battle, though their proud and independent spirits suit free-ranging heroism more. They have a hardy constitution and natural resistance to poison and disease, but tend to shun their magic. The Redguards' innate agility and high level of endurance allows them to excel in any activity that demands sustained effort.* 
 
 [**Starting Religions**](https://cnst.collinthedev.com/en/Religion) Leki ● Morwha ● Sakatal ● Tall Papa ● The HoonDing
+
+<img src="https://images.uesp.net/6/66/LG-cardart-Seasoned_Captain.png" alt="Redguard" style="float: right; max-width: 300px; height: auto; margin-top: 50px; margin-right: 100px;">
 
 **_Base Stats_**
 
