@@ -2,7 +2,7 @@
 title: Classes
 description: Learn more about the playable Races available in the Constellations Collections
 published: true
-date: 2025-08-10T07:43:05.682Z
+date: 2025-08-10T07:46:57.802Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-21T12:53:07.991Z
@@ -269,10 +269,27 @@ Stamina `+10` 
 
 ---
 
+## _Combat Classes2_
 
-### Testing {.tabset}
-#### Class
-This is a class
+These classes gain a bonus to all Warrior skills.
 
-#### Class 2
-This is a class
+**_Combat Specialization Bonus:_**
+
+`+5` Archery `+5` Block `+5` Heavy Armor `+5` One-Handed `+5` Smithing `+5` Two-Handed
+
+### Combat Classes {.tabset}
+#### Archer
+`+5` Archery 
+`+5` Block 
+`+5` Heavy Armor 
+`+5` One-Handed 
+`+5` Smithing 
+`+5` Two-Handed
+
+#### Barbarian
+`+5` Archery 
+`+5` Block 
+`+5` One-Handed 
+`+5` Smithing 
+`+5` Two-Handed 
+`+5` Light Armor
