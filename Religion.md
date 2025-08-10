@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-10T04:29:01.868Z
+date: 2025-08-10T04:36:13.821Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -1220,16 +1220,19 @@ Alteration spells cost `10%` less to cast.
 
 <details>
   <summary>Yokudan Worship</summary>
+
   The gods of the Redguards aid their followers in straightforward and effective ways. Many Redguard deities, particularly those of the [Forebears](https://en.uesp.net/wiki/Lore:Varieties_of_Faith,_The_Forebears), mirror the Imperial pantheon. However Redguards, especially the [Crowns](https://en.uesp.net/wiki/Lore:Varieties_of_Faith,_Crown_Redguards), also have their own unique deities that are not worshiped anywhere else on Nirn. The Yokudan pantheon does not penalize worshippers for committing crimes.
   </details>
 
   <div style="text-align: center;">
-  <img src="https://images.uesp.net/d/dd/ON-load-Ashaba_Pass.jpg" alt="SummersetMap" style="max-width: 50%; height: auto;">
+  <img src="https://images.uesp.net/d/dd/ON-load-Ashaba_Pass.jpg" alt="Yokuda" style="max-width: 50%; height: auto;">
 </div>
   
 ### [***Leki***](https://en.uesp.net/wiki/Lore:Leki)
 
 >*Saint of the Spirit Sword. Daughter of Tall Papa and goddess of swordsmanship, she is one of the most commonly worshiped Yokudan gods.*
+
+<img src="https://images.uesp.net/1/1a/ON-concept-Redguard_sword.png" alt="RedguardSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
 
 **Accepts**  
 
@@ -1260,6 +1263,8 @@ Armor rating of light armor pieces is increased by `10%`.
 
 >*Morwha is the four-armed Yokudan goddess of food and fertility, and Tall Papa's favorite wife.*
 
+<img src="https://images.uesp.net/1/1a/ON-concept-Redguard_sword.png" alt="RedguardSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+
 **Accepts**  
 
 Redguard
@@ -1288,6 +1293,8 @@ Healing spells restore `15%` more Health.
 ### [***Satakal***](https://en.uesp.net/wiki/Lore:Satakal)
 
 >*The Serpent God. Satakal the Worldskin is the god of everything, who creates and eats new worlds over and over.*
+
+<img src="https://images.uesp.net/1/1a/ON-concept-Redguard_sword.png" alt="RedguardSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
 
 **Accepts**  
 
@@ -1318,6 +1325,8 @@ Health regenerates `25%` faster.
 
 >*Tall Papa, also known as Ruptga, is the chief deity of the Yokudan pantheon. He guides the most powerful spirits to the next lifetime.*
 
+<img src="https://images.uesp.net/1/1a/ON-concept-Redguard_sword.png" alt="RedguardSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+
 **Accepts**  
 
 Redguard
@@ -1346,6 +1355,8 @@ Items are enchanted `5%` stronger.
 ### [***The HoonDing***](https://en.uesp.net/wiki/Lore:HoonDing)
 
 >*The spirit of perseverance over infidels helps the Redguards 'make way' for their people.*
+
+<img src="https://images.uesp.net/1/1a/ON-concept-Redguard_sword.png" alt="RedguardSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
 
 **Accepts**  
 
