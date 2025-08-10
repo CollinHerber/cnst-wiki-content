@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2025-08-10T05:49:46.721Z
+date: 2025-08-10T05:53:35.644Z
 tags: race
 editor: markdown
 dateCreated: 2025-07-21T13:25:49.965Z
@@ -14,18 +14,20 @@ Playable Races and their changes in Constellations.
 
 <style>
   .responsive-img {
-    float: right;
-    width: 300px;
-    height: auto;
-    margin-top: 50px;
-    margin-right: 100px;
+    float: right !important;
+    width: 300px !important;
+    height: auto !important;
+    margin-top: 50px !important;
+    margin-right: 100px !important;
   }
 
   @media (max-width: 768px) {
     .responsive-img {
-      float: none;
-      display: block;
-      margin: 20px auto; /* centers on mobile */
+      float: none !important;
+      display: block !important;
+      width: 80% !important;
+      max-width: 300px !important;
+      margin: 20px auto !important;
     }
   }
 </style>
