@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-10T04:26:21.348Z
+date: 2025-08-10T04:26:31.405Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -1185,7 +1185,7 @@ Scrolls are `25%` more effective.
 
 >*The Wood Elven God of Agriculture and Toil is similar to, but distinct from, the Imperial Zenithar.*
 
-<img src="https://images.uesp.net/8/83/ON-concept-Bosmer_brewing_props.png?format=webp&quality=lossless" alt="XarxesSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+<img src="https://images.uesp.net/8/83/ON-concept-Bosmer_brewing_props.png?format=webp&quality=lossless" alt="ZenSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
 
 **Accepts**  
 
