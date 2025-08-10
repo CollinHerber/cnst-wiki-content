@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2025-08-10T06:44:07.218Z
+date: 2025-08-10T06:51:22.682Z
 tags: race
 editor: markdown
 dateCreated: 2025-07-21T13:25:49.965Z
@@ -56,13 +56,13 @@ Playable Races and their changes in Constellations.
 
 **_Base Stats_**
 
-Health: `155` 
+❤️Health: `155` 
 
-Magicka: `125` 
+💧Magicka: `125` 
 
-Stamina: `155` 
+🔋Stamina: `155` 
 
-Carry Weight: `105` 
+⚖️Carry Weight: `105` 
 
 **_Racial Traits:_**
 
@@ -90,13 +90,13 @@ Waterbreathing
 
 **_Base Stats_**
 
-Health: `140` 
+❤️Health: `140` 
 
-Magicka: `145` 
+💧Magicka: `145` 
 
-Stamina: `155` 
+🔋Stamina: `155` 
 
-Carry Weight: `95` 
+⚖️Carry Weight: `95` 
 
 **_Racial Traits:_**
 
@@ -120,13 +120,13 @@ Command Animals `1x Day`
 
 **_Base Stats_**
 
-Health: `140` 
+❤️Health: `140` 
 
-Magicka: `155` 
+💧Magicka: `155` 
 
-Stamina: `125` 
+🔋Stamina: `125` 
 
-Carry Weight: `95`
+⚖️Carry Weight: `95`
 
 **_Racial Traits:_**
 
@@ -148,13 +148,13 @@ Magic Absorb: `+15`
 
 **_Base Stats_**
 
-Health: `150` 
+❤️Health: `150` 
 
-Magicka: `135` 
+💧Magicka: `135` 
 
-Stamina: `135` 
+🔋Stamina: `135` 
 
-Carry Weight: `100` 
+⚖️Carry Weight: `100` 
 
 **_Racial Traits:_**
 
@@ -178,13 +178,13 @@ Resist All Damage: `+7%`
 
 **_Base Stats_**
 
-Health: `160` 
+❤️Health: `160` 
 
-Magicka: `135` 
+💧Magicka: `135` 
 
-Stamina: `185` 
+🔋Stamina: `185` 
 
-Carry Weight: `110` 
+⚖️Carry Weight: `110` 
 
 **_Racial Traits:_**
 
@@ -210,13 +210,13 @@ High Stamina Regeneration
 
 **_Base Stats_**
 
-Health: `140` 
+❤️Health: `140` 
 
-Magicka: `125` 
+💧Magicka: `125` 
 
-Stamina: `155` 
+🔋Stamina: `155` 
 
-Carry Weight: `100` 
+⚖️Carry Weight: `100` 
 
 **_Racial Traits:_**
 
@@ -246,13 +246,13 @@ Night Vision
 
 **_Base Stats_**
 
-Health: `170` 
+❤️Health: `170` 
 
-Magicka: `105` 
+💧Magicka: `105` 
 
-Stamina: `160` 
+🔋Stamina: `160` 
 
-Carry Weight: `115` 
+⚖️Carry Weight: `115` 
 
 **_Racial Traits:_**
 
@@ -278,13 +278,13 @@ Shout Cooldown: `-15%`
 
 **_Base Stats_**
 
-Health: `180` 
+❤️Health: `180` 
 
-Magicka: `95` 
+💧Magicka: `95` 
 
-Stamina: `150` 
+🔋Stamina: `150` 
 
-Carry Weight: `125` 
+⚖️Carry Weight: `125` 
 
 **_Racial Traits:_**
 
@@ -306,13 +306,13 @@ Damage Dealt/Taken: `+/-25%` if `HP<40%`
 
 **_Base Stats_**
 
-Health: `160` 
+❤️Health: `160` 
 
-Magicka: `105` 
+💧Magicka: `105` 
 
-Stamina: `160` 
+🔋Stamina: `160` 
 
-Carry Weight: `105` 
+⚖️Carry Weight: `105` 
 
 **_Racial Traits:_**
 
