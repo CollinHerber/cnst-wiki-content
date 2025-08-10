@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-10T03:43:21.981Z
+date: 2025-08-10T03:47:43.060Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -57,7 +57,7 @@ Most of the lore in this guide is pulled directly from the [Unofficial Elder Scr
 ### [**_Akatosh_**](https://en.uesp.net/wiki/Lore:Akatosh)
 >*The Dragon God of Time. Chief among the gods, with mastery over the flow of time. Associated with dragons and the qualities of endurance and virtuous service.*
 
-<img src="https://images.uesp.net/c/c2/ON-icon-Divine-Akatosh-emblem.png" alt="AkatoshSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px">
+<img src="https://images.uesp.net/c/c2/ON-icon-Divine-Akatosh-emblem.png" alt="AkatoshSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
 
 **Accepts**
 
