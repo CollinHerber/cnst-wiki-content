@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-10T04:03:23.742Z
+date: 2025-08-10T04:09:14.378Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -950,6 +950,10 @@ The priests of Auri-El teach that the Hand of Auri-El, the Eye of Magnus, the Ar
   Like the Divines, the sacred ancestors of the elven races reward long term relationships. Elven doctrine demands perfection in all things, but helping others is not usually a priority for the ancestors. As a result, they do not penalize you for committing crimes.
   </details>
 
+<div style="text-align: center;">
+  <img src="https://www.imperial-library.info/wp-content/uploads/image-35.png" alt="NineDivinesStainedGlass" style="max-width: 50%; height: auto;">
+</div>
+  
 ### [***Auriel***](https://en.uesp.net/wiki/Lore:Auri-El)
 
 >*Abandoning the mortal world as a mistake, the King of the Gods challenges his Elven children to attain perfection and regain their lost divinity. Most Altmeri and Bosmeri claim direct descent from Auri-El.*
