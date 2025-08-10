@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2025-08-10T06:39:35.863Z
+date: 2025-08-10T06:39:49.990Z
 tags: race
 editor: markdown
 dateCreated: 2025-07-21T13:25:49.965Z
@@ -300,7 +300,7 @@ Damage Dealt/Taken: `+/-25%` if `HP<40%`
 
 *The dark-skinned, wiry-haired Redguards of Hammerfell seem born for battle, though their proud and independent spirits suit free-ranging heroism more. They have a hardy constitution and natural resistance to poison and disease, but tend to shun their magic. The Redguards' innate agility and high level of endurance allows them to excel in any activity that demands sustained effort.* 
 
-[**Starting Religions**](https://cnst.collinthedev.com/en/Religion) [Leki](https://cnst.collinthedev.com/en/Religion#leki) ● [Morwha](https://cnst.collinthedev.com/en/Religion#morwha) ● [Satakal](https://cnst.collinthedev.com/en/Religion#satakal) ● [Tall Papa](https://cnst.collinthedev.com/en/Religion#tall-papa) ● [The HoonDing](https://cnst.collinthedev.com/en/Religion#the-hoonding)
+**Starting Religions:** [Leki](https://cnst.collinthedev.com/en/Religion#leki) ● [Morwha](https://cnst.collinthedev.com/en/Religion#morwha) ● [Satakal](https://cnst.collinthedev.com/en/Religion#satakal) ● [Tall Papa](https://cnst.collinthedev.com/en/Religion#tall-papa) ● [The HoonDing](https://cnst.collinthedev.com/en/Religion#the-hoonding)
 
 <img src="https://images.uesp.net/6/66/LG-cardart-Seasoned_Captain.png" alt="Redguard" style="float: right; max-width: 300px; height: auto; margin-top: 50px; margin-right: 100px;">
 
