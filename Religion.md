@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-10T04:46:34.644Z
+date: 2025-08-10T04:47:08.371Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -1465,7 +1465,7 @@ Unarmed strikes do `10` additional damage.
 *In addition to the established pantheons, the common denizens of Tamriel worship many local or less powerful deities. While the power of the Divines and Daedric Princes is unmistakable, a quick prayer to a minor deity may also bring success in trade, travel, or thievery.*
 
 <div style="text-align: center;">
-  <img src="https://images.uesp.net/7/7b/ON-concept-05.jpg" alt="KhajiitStainedGlass" style="max-width: 100%; height: auto;">
+  <img src="https://images.uesp.net/7/7b/ON-concept-05.jpg" alt="KhajiitStainedGlass" style="max-width: 70%; height: auto;">
 </div>
   
 ### [***Almalexia***](https://en.uesp.net/wiki/Lore:Almalexia)
