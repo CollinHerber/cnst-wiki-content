@@ -2,7 +2,7 @@
 title: Classes
 description: Learn more about the playable Races available in the Constellations Collections
 published: true
-date: 2025-08-10T17:52:37.040Z
+date: 2025-08-10T17:55:49.537Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-21T12:53:07.991Z
