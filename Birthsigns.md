@@ -2,7 +2,7 @@
 title: Birthsigns
 description: Learn more about the Birthsigns available in the Constellations Collections
 published: true
-date: 2025-08-10T07:12:18.443Z
+date: 2025-08-10T07:14:02.275Z
 tags: birthsign
 editor: markdown
 dateCreated: 2025-04-29T22:22:34.196Z
@@ -18,7 +18,7 @@ The Mage birthsign and its three charges. Once you select one of these Birthsign
 
 ### **Apprentice**
 
-<img src="https://static.wikia.nocookie.net/skyrim_gamepedia/images/3/3c/The_apprentice_constellation.png/revision/latest?cb=20120609151143" alt="MageSign" style="float: right; height: 300px; margin-left: em; margin-top: -3em">
+<img src="https://static.wikia.nocookie.net/skyrim_gamepedia/images/3/3c/The_apprentice_constellation.png/revision/latest?cb=20120609151143" alt="MageSign" style="float: right; height: 300px; margin-top: -3em">
 
 Magicka Regeneration: `+175%`
 
@@ -29,6 +29,8 @@ Increased manacost `+10%` 
 `+15%` magnitude for spells
 
 ### **Atronach**
+
+<img src="https://static.wikia.nocookie.net/skyrim_gamepedia/images/f/f8/The_atronach_constellation.png/revision/latest?cb=20120609151143" alt="MageSign" style="float: right; height: 300px; margin-top: -3em">
 
 Magicka: `+175` 
 
