@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2025-08-10T05:47:59.128Z
+date: 2025-08-10T05:49:46.721Z
 tags: race
 editor: markdown
 dateCreated: 2025-07-21T13:25:49.965Z
@@ -11,15 +11,6 @@ dateCreated: 2025-07-21T13:25:49.965Z
 # _Races of Constellations_
 
 Playable Races and their changes in Constellations.  
- 
-
----
-
-## [Altmer](https://en.uesp.net/wiki/Lore:Altmer)
-
-*The Altmer of Summerset Isle are called 'High' Elves in the Empire, describing both their physical appearance and their snobbish personality. The arcane ability of High Elves surpasses all other races in Tamriel. They are weak in physical combat, however, and their magic affinity makes them more susceptible to hostile spells.* 
-
-[**Starting Religions**](https://cnst.collinthedev.com/en/Religion) Auriel ● Jephre ● Magnus ● Phynaster ● Stendarr ● Syrabane ● Trinimac ● Xarxes
 
 <style>
   .responsive-img {
@@ -39,10 +30,17 @@ Playable Races and their changes in Constellations.
   }
 </style>
 
+---
+
+## [Altmer](https://en.uesp.net/wiki/Lore:Altmer)
+
+*The Altmer of Summerset Isle are called 'High' Elves in the Empire, describing both their physical appearance and their snobbish personality. The arcane ability of High Elves surpasses all other races in Tamriel. They are weak in physical combat, however, and their magic affinity makes them more susceptible to hostile spells.* 
+
+[**Starting Religions**](https://cnst.collinthedev.com/en/Religion) Auriel ● Jephre ● Magnus ● Phynaster ● Stendarr ● Syrabane ● Trinimac ● Xarxes
+
 <img src="https://images.uesp.net/c/c1/LG-cardart-Forked_Bolt.png" 
      alt="Altmer" 
      class="responsive-img">
-
 
 **_Base Stats_**
 
@@ -73,6 +71,10 @@ High Magicka Regeneration
 *Argonians are the reptilian denizens of Black Marsh. Years of defending their borders have made them experts in stealth and evasion, and their natural abilities make them equally at home in water and on land. They are resistant to diseases and poisons and enjoy raw meat. Their Histskin allows them to slowly heal their wounds over time.* 
 
 [**Starting Religions**](https://cnst.collinthedev.com/en/Religion) The Hist ● Sithis
+
+<img src="https://images.uesp.net/2/20/LG-cardart-Invoker_of_the_Hist.png" 
+     alt="Argonian" 
+     class="responsive-img">
 
 **_Base Stats_**
 
