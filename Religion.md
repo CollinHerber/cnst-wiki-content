@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-10T04:26:31.405Z
+date: 2025-08-10T04:29:01.868Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -1223,6 +1223,10 @@ Alteration spells cost `10%` less to cast.
   The gods of the Redguards aid their followers in straightforward and effective ways. Many Redguard deities, particularly those of the [Forebears](https://en.uesp.net/wiki/Lore:Varieties_of_Faith,_The_Forebears), mirror the Imperial pantheon. However Redguards, especially the [Crowns](https://en.uesp.net/wiki/Lore:Varieties_of_Faith,_Crown_Redguards), also have their own unique deities that are not worshiped anywhere else on Nirn. The Yokudan pantheon does not penalize worshippers for committing crimes.
   </details>
 
+  <div style="text-align: center;">
+  <img src="https://images.uesp.net/d/dd/ON-load-Ashaba_Pass.jpg" alt="SummersetMap" style="max-width: 50%; height: auto;">
+</div>
+  
 ### [***Leki***](https://en.uesp.net/wiki/Lore:Leki)
 
 >*Saint of the Spirit Sword. Daughter of Tall Papa and goddess of swordsmanship, she is one of the most commonly worshiped Yokudan gods.*
