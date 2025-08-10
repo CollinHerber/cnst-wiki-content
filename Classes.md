@@ -2,7 +2,7 @@
 title: Classes
 description: Learn more about the playable Races available in the Constellations Collections
 published: true
-date: 2025-08-10T07:40:51.596Z
+date: 2025-08-10T07:43:05.682Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-21T12:53:07.991Z
@@ -258,12 +258,7 @@ Health `+10` 
 
 ---
 
-### _Thief_{.tabset}
-#### Test1
-Testing
-
-#### Test 2
-Testing
+### _Thief_
 
 *Profiting from the losses of others is their love. Able to be swift in shadow, and crafty in bartering. Lock-picks are their swords.* 
 
@@ -273,3 +268,11 @@ Stamina `+10` 
 
 
 ---
+
+
+### Testing {.tabset}
+#### Class
+This is a class
+
+#### Class 2
+This is a class
