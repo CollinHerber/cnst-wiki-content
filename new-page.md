@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2025-08-10T05:39:21.614Z
+date: 2025-08-10T05:47:59.128Z
 tags: race
 editor: markdown
 dateCreated: 2025-07-21T13:25:49.965Z
@@ -21,7 +21,28 @@ Playable Races and their changes in Constellations.
 
 [**Starting Religions**](https://cnst.collinthedev.com/en/Religion) Auriel ● Jephre ● Magnus ● Phynaster ● Stendarr ● Syrabane ● Trinimac ● Xarxes
 
-<img src="https://images.uesp.net/c/c1/LG-cardart-Forked_Bolt.png" alt="Altmer" style="float: right; max-width: 300px; height: auto; margin-top: 50px; margin-right: 100px;">
+<style>
+  .responsive-img {
+    float: right;
+    width: 300px;
+    height: auto;
+    margin-top: 50px;
+    margin-right: 100px;
+  }
+
+  @media (max-width: 768px) {
+    .responsive-img {
+      float: none;
+      display: block;
+      margin: 20px auto; /* centers on mobile */
+    }
+  }
+</style>
+
+<img src="https://images.uesp.net/c/c1/LG-cardart-Forked_Bolt.png" 
+     alt="Altmer" 
+     class="responsive-img">
+
 
 **_Base Stats_**
 
