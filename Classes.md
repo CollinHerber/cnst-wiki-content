@@ -2,7 +2,7 @@
 title: Classes
 description: Learn more about the playable Races available in the Constellations Collections
 published: true
-date: 2025-08-10T08:04:35.798Z
+date: 2025-08-10T08:08:50.576Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-21T12:53:07.991Z
@@ -239,76 +239,97 @@ These classes gain a bonus to all Thief skills.
 
 `+5` Alchemy `+5` Light Armor `+5` Lockpicking `+5` Pickpocket `+5` Sneak `+5` Speech 
 
----
+### Stealth Classes Tabset {.tabset}
 
-### _Acrobat_
-
+#### _Acrobat_
 *The kind of person that uses agility and endurance to their advantage. Unafraid of jumping long distances.* 
 
-Stamina `+10` 
+🔋Stamina `+10` 
 
-**Skills:** `+5` Archery `+5` Block `+5` One-Handed `+5` Lockpicking `+5` Sneak `+5` Speech
+**Skills:** 
+`+5` Archery 
+`+5` Block 
+`+5` One-Handed 
+`+5` Lockpicking 
+`+5` Sneak 
+`+5` Speech
 
----
-
-### _Agent_
-
+#### _Agent_
 *Charming when they can be seen, and nearly invisible when in shadow.* 
 
-Stamina `+10` 
+🔋Stamina `+10` 
 
-**Skills:** `+5` Archery `+5` Illusion `+5` Lockpicking `+5` Pickpocketing `+5` Sneak `+5` Speech
+**Skills:** 
+`+5` Archery 
+`+5` Illusion 
+`+5` Lockpicking 
+`+5` Pickpocketing 
+`+5` Sneak 
+`+5` Speech
 
----
-
-### _Assassin_
-
+#### _Assassin_
 *Nimble and quiet, they move in darkness to strike at the unsuspecting. Locks hold no doors shut for them.* 
 
-Stamina `+10` 
+🔋Stamina `+10` 
 
-**Skills:** `+5` Archery `+5` One-Handed `+5` Alchemy `+5` Light Armor `+5` Lockpicking `+5` Sneak
+**Skills:** 
+`+5` Archery 
+`+5` One-Handed 
+`+5` Alchemy 
+`+5` Light Armor 
+`+5` Lockpicking 
+`+5` Sneak
 
----
-
-### _Bard_
-
+#### _Bard_
 *Intelligent and personable, they prefer to accomplish tasks with their words first, and sword second.* 
 
-Stamina `+10` 
+🔋Stamina `+10` 
 
-**Skills:** `+5` Block `+5` One-Handed `+5` Illusion `+5` Alchemy `+5` Light Armor `+5` Speech
+**Skills:** 
+`+5` Block 
+`+5` One-Handed 
+`+5` Illusion 
+`+5` Alchemy 
+`+5` Light Armor 
+`+5` Speech
 
----
-
-### _Monk_
-
+#### _Monk_
 *Quick and cunning with the empty hand, they are strong in spirit. They prefer to solve conflict by arrow or by fist.* 
 
-Stamina `+10` 
+🔋Stamina `+10` 
 
-**Skills:** `+5` Archery `+5` Block `+5` Alteration `+5` Restoration `+5` Lockpicking `+5` Sneak
+**Skills:** 
+`+5` Archery 
+`+5` Block 
+`+5` Alteration 
+`+5` Restoration 
+`+5` Lockpicking 
+`+5` Sneak
 
----
-
-### _Pilgrim_
-
+#### _Pilgrim_
 *Hearty folk, well-versed in the tomes of old. They profit in life by bartering in the market, or by persuading the weak-minded.* 
 
-Health `+10` 
+❤️Health `+10` 
 
-**Skills:** `+5` Block `+5` Smithing `+5` Two-Handed `+5` Light Armor `+5` Lockpicking `+5` Speech
+**Skills:** 
+`+5` Block 
+`+5` Smithing 
+`+5` Two-Handed 
+`+5` Light Armor 
+`+5` Lockpicking 
+`+5` Speech
 
----
-
-### _Thief_
-
+#### _Thief_
 *Profiting from the losses of others is their love. Able to be swift in shadow, and crafty in bartering. Lock-picks are their swords.* 
 
-Stamina `+10` 
+🔋Stamina `+10` 
 
-**Skills:** `+5` Archery `+5` Light Armor `+5` Lockpicking `+5` Pickpocketing `+5` Sneak `+5` Speech
+**Skills:** 
+`+5` Archery 
+`+5` Light Armor 
+`+5` Lockpicking 
+`+5` Pickpocketing 
+`+5` Sneak 
+`+5` Speech
 
-
----
 
