@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2025-08-10T06:58:11.701Z
+date: 2025-08-10T06:59:27.824Z
 tags: race
 editor: markdown
 dateCreated: 2025-07-21T13:25:49.965Z
@@ -242,7 +242,7 @@ Playable Races and their changes in Constellations.
 
 **Starting Religions:** [Akatosh](https://cnst.collinthedev.com/en/Religion#akatosh) ● [Arkay](https://cnst.collinthedev.com/en/Religion#arkay) ● [Dibella](https://cnst.collinthedev.com/en/Religion#dibella) ● [Kynareth](https://cnst.collinthedev.com/en/Religion#kynareth) ● [Mara](https://cnst.collinthedev.com/en/Religion#mara) ● [Shor](https://cnst.collinthedev.com/en/Religion#shor) ● [Stendarr](https://cnst.collinthedev.com/en/Religion#stendarr) ● [Talos](https://cnst.collinthedev.com/en/Religion#talos) ● [Zenithar](https://cnst.collinthedev.com/en/Religion#zenithar)
 
-<img src="https://images.uesp.net/4/42/LG-cardart-Nord_Firebrand_Alt.png" alt="Nord" style="float: right; max-width: 300px; height: auto; margin-top: 50px; margin-right: 100px;">
+<img src="https://images.uesp.net/2/28/LG-cardart-Mage_Slayer.png" alt="Nord" style="float: right; max-width: 300px; height: auto; margin-top: 50px; margin-right: 100px;">
 
 **_Base Stats_**
 
