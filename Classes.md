@@ -2,7 +2,7 @@
 title: Classes
 description: Learn more about the playable Races available in the Constellations Collections
 published: true
-date: 2025-08-10T17:55:49.537Z
+date: 2025-08-11T11:48:09.048Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-21T12:53:07.991Z
@@ -28,7 +28,7 @@ You can also choose to create your own custom class.
 
 
 
-## _Combat Classes_
+## <span style="color: red;">_Combat Classes_</span>
 
 These classes gain a bonus to all Warrior skills.
 
@@ -132,7 +132,7 @@ These classes gain a bonus to all Warrior skills.
 
 ---
 
-## _Magic Classes_
+## <span style="color: blue;">_Magic Classes_</span>
 
 These classes gain a bonus to all Mage skills.
 
@@ -235,7 +235,7 @@ These classes gain a bonus to all Mage skills.
 `+5` Alchemy 
 `+5` Lockpicking
 
-## _Stealth Classes_
+## <span style="color: green;">_Stealth Classes_</span>
 
 These classes gain a bonus to all Thief skills.
 
