@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-08-10T05:00:53.470Z
+date: 2025-10-26T04:56:14.954Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -1553,7 +1553,7 @@ Conjuration spells are `10%` more effective.
 
 <details>
   <summary>Follower</summary>
-  Undead conjured at night last <code>X%</code> longer (based on favor with Mannimarco).
+  Undead conjured/raised at night last <code>X%</code> longer (based on favor with Mannimarco).
   </details>
 
 <details>
