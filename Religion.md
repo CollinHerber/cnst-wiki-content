@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-10-26T04:56:14.954Z
+date: 2025-10-26T04:59:05.655Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -1558,7 +1558,7 @@ Conjuration spells are `10%` more effective.
 
 <details>
   <summary>Devotee</summary>
-  Allied conjured undead deal <code>X%</code> more attack damage and regenerate Health (based on favor with Mannimarco).
+  Allied conjured/raised undead deal <code>X%</code> more attack damage and regenerate Health (based on favor with Mannimarco).
 </details>
 
 ### [***Saint Alessia***](https://en.uesp.net/wiki/Lore:Alessia)
