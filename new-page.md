@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2025-09-08T14:21:27.770Z
+date: 2025-12-19T23:04:45.876Z
 tags: race
 editor: markdown
 dateCreated: 2025-07-21T13:25:49.965Z
@@ -92,9 +92,9 @@ Playable Races and their changes in Constellations.
 
 ❤️Health: `140` 
 
-💧Magicka: `145` 
+💧Magicka: `155` 
 
-🔋Stamina: `155` 
+🔋Stamina: `165` 
 
 ⚖️Carry Weight: `95` 
 
@@ -150,7 +150,7 @@ Playable Races and their changes in Constellations.
 
 ❤️Health: `150` 
 
-💧Magicka: `135` 
+💧Magicka: `145` 
 
 🔋Stamina: `135` 
 
@@ -288,7 +288,7 @@ Playable Races and their changes in Constellations.
 
 **_Racial Traits:_**
 
-:rage:Damage Dealt/Taken: `+/-25%` if `HP<40%`
+:rage:Damage Taken/Dealt: `-/+15%-35%` depending on missing health
 
 **_Skills_**
 
