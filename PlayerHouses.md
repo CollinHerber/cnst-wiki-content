@@ -2,7 +2,7 @@
 title: Player Houses
 description: [WIP] A list of all the player houses in the collection.
 published: true
-date: 2025-12-21T09:48:36.205Z
+date: 2025-12-21T10:20:37.500Z
 tags: houses
 editor: markdown
 dateCreated: 2025-12-20T03:45:56.467Z
@@ -109,6 +109,17 @@ Severin Manor is located in Raven Rock, on Solstheim. Initially it is occupied b
 
 \[WIP\]
 
+![image_2025-12-21_041652623.png](/image_2025-12-21_041652623.png)
+
+<details>
+<summary>Requirement's and Cost(s)</summary> 
+  For this home, you'll need to complete the "Bloodline" quest in the Dawnguard DLC before being receiving your invitation to dinner. The quest will then proceed normally.
+
+
+  Work in Progress Section
+  
+  </details>
+
 ## Dead Man's Dread
 
 \[WIP\]
@@ -117,19 +128,100 @@ Severin Manor is located in Raven Rock, on Solstheim. Initially it is occupied b
 
 \[WIP\]
 
+![image_2025-12-21_041732794.png](/image_2025-12-21_041732794.png)
+
+<details>
+<summary>Requirement's and Cost(s)</summary> 
+  For this home, Gallows Hall will remain locked until you've completed the Conjuration Ritual Spell quest. Afterwards, the entrance will open and the quest will progress normally.
+
+
+  Work in Progress Section
+  
+  </details>
+  
 ## Goldenhills Plantation
 
 \[WIP\]
+
+Goldenhills Plantation is an abandoned farm east of Rorikstead. The farm is initially haunted, but you will be able to claim it as your own once you've put the spirits to rest as part of a quest.
+
+The farm has various exterior construction options, and you can hire a personal steward to manage the farm's production and buy upgrades for the farmhouse interior.
+
+![image_2025-12-21_040940801.png](/image_2025-12-21_040940801.png)
+
+<details>
+<summary>Requirement's and Cost(s)</summary> 
+  Costs: Nothing(?)
+  
+  You will be required to complete the quest ["The Unquiet Dead"](https://en.uesp.net/wiki/Skyrim:The_Unquiet_Dead)
+
+You can obtain this quest by either asking an inkeeper for work until you receive the "Restless Spirits bounty" letter, or by walking straight to the plantation. 
+  
+>   Note | I personally haven't had luck with just walking up to it, it's usually still occupied by the family. Others have had success with this. If walking up to it does NOT work, speak with the innkeeper in Rorikstead, and ask for work.
+{.is-warning}
+  
+  <details>
+    <summary> Quick Walkthrough </summary>
+      These are the steps to skip over the details of the quest:
+    
+1. (Optional) Ask an innkeeper for work until you receive the "Restless Spirits bounty" letter
+2. Travel to Goldenhills Plantation.
+3. Investigate the plantation house.
+4. Investigate the well.
+5. Return to the plantation house.
+  </details>
+
+  Work in Progress Section
+  
+  </details>
 
 ## **Hendraheim**
 
 \[WIP\]
 
+![image_2025-12-21_041614011.png](/image_2025-12-21_041614011.png)
+<details>
+<summary> Gallery </summary> 
+  
+  The Basement
+  ![image_2025-12-21_041839544.png](/image_2025-12-21_041839544.png)
+  
+  The Crafting Area
+  ![image_2025-12-21_041943576.png](/image_2025-12-21_041943576.png)
+    </details>
+
+<details>
+<summary>Requirement's and Cost(s)</summary> 
+  For this home, you'll need to complete the "The Silver Hand" quest and join the Circle of the Companions before being summoned by Eydvina for a fight. The quest will then proceed normally.
+
+  Work in Progress Section
+  
+  </details>
+
 ## **Myrwatch**
 
-Myrwatch is a mage tower player home east of Morthal. It contains two zones connected by portal, Myrwatch and Myrwatch Gallery.
+Myrwatch is a mage tower player home east of Morthal. It contains two zones connected by portal, Myrwatch and Myrwatch Gallery. The tower was built in the Third Era by rogue mages from the College of Winterhold, and closely resembles College architecture.
 
 **Requirements: Complete small questline. You will also need AT LEAST 350 Magicka.**
+<details>
+<summary>Requirement's and Cost(s)</summary> 
+  Costs: Nothing
+  
+  Requires AT LEAST 350 Magicka.
+
+Requires the completion of the quest ["Myrwatch"](https://en.uesp.net/wiki/Skyrim:Myrwatch_(quest))
+<details>
+  <summary> Quick Walkthrough </summary>
+  These are the steps to skip over the details of the quest:
+  
+1. Travel to Myrwatch and take Hans's Journal from Hans.
+  
+2.   Read the journal and cast a fire spell at the seal.
+
+3.   Enter the tower to complete the quest.
+  
+</details>
+</details>
 
 ![](/image_2025-12-21_003735874.png)
 
@@ -147,7 +239,9 @@ A hidden Ratway hideout featuring full smithing and crafting facilities, secret 
 
 ![](/image_2025-12-21_003658364.png)
 
-Requirement's and Cost(s) Cost: 7,500 Gold
+<details>
+<summary>Requirement's and Cost(s)</summary> 
+Cost: 7,500 Gold
 
 You will need to complete all of the following quests, in order to be able to purchase this house:
 
@@ -171,13 +265,15 @@ You will need to complete all of the following quests, in order to be able to pu
     
 -   [Blindsighted](https://en.uesp.net/wiki/Skyrim:Blindsighted)
     
--   [Darkness Returns](https://en.uesp.net/wiki/Skyrim:Darkness_Returns) ***MUST BE COMPLETED***
+-   [Darkness Returns](https://en.uesp.net/wiki/Skyrim:Darkness_Returns)
     
 -   [Under New Management](https://en.uesp.net/wiki/Skyrim:Under_New_Management)
     
 
-> Note: In order to complete the Thieves Guild Questline, and become the Guild Master, you HAVE to turn in the skeleton key.
+> Note: In order to complete the Thieves Guild Questline, and become the Guild Master, you HAVE to turn in the skeleton key. {.is-warning}
 
+</details>
+  
 ## **Tundra Homestead**
 
 The house includes several outdoor features. Behind the cottage there is a garden with eight open plots of Fertile Soil, three potato plants, two cabbages, two gourds, and two leeks. Nearby are two apiaries that work the same way as the one at Lakeview Manor. Two covered areas are in front of the house, and the one to the east has almost all the necessary Smithing tools: a smelter, anvil, grindstone, tanning rack, and workbench.
@@ -197,28 +293,74 @@ Includes a bedroom with a double bed, two child beds, and shrines to Akatosh and
 > Clockwork is a quest mod involving a castle high in the Velothi Mountains, lost to the world for over a hundred years. Once found, you may call Clockwork Castle home... but if you want to leave, you'll need to discover how to escape. - Antistar, Mod Author
 
 ![image_2025-12-21_032808832.png](/image_2025-12-21_032808832.png)
+<details>
+<summary>Rooms and Furnishings</summary> 
+There is a lot of details to cover in this mod, however, this page will only be going over the house itself, not the quest locations. 
+  
+<details>
+<summary>Main Hall </summary> 
+  The central hub through which all other major parts of the castle are reached.
+  Adjoining Kitchen, with cooking pot, Hearthfire oven, running water, custom butter churn, food-sorting balance scales and food storage in the cold-room.
+</details>
+<details>
+<summary>Master Bedroom</summary> 
+  Incorporates a modest study, plus limited storage and display options for your most treasured items.
+  Adjoining bathroom with bathtub, shower, running water, rudimentary water heater, garderobe, vanity and sink.
+  </details>
+<details>
+<summary>Travel Room </summary> 
+	The Travel Machine allows teleportation to and from the major towns in Skyrim, and to the Recall Point designated by the "Recall to Clockwork Castle" spell. Buttons on the metal relief map of Skyrim configure the Travel Machine's destination. The "Recall to Clockwork Castle" spell teleports you to the Travel Room from anywhere, but by default will fail if you cannot currently fast-travel for whatever reason.
 
-Rooms and Furnishings There is a lot of details to cover in this mod, however, this page will only be going over the house itself, not the quest locations. Main Hall Master Bedroom Travel Room Large chamber in the basement containing the Travel Machine. The Travel Machine allows teleportation to and from the major towns in Skyrim, and to the Recall Point designated by the "Recall to Clockwork Castle" spell. Buttons on the metal relief map of Skyrim configure the Travel Machine's destination. The "Recall to Clockwork Castle" spell teleports you to the Travel Room from anywhere, but by default will fail if you cannot currently fast-travel for whatever reason.
+> This can be changed in settings. {.is-warning}
+</details>
+<details>
+<summary>Work Room </summary> 
+	Generous stone room where the majority of crafting activities take place. Contains Forge, Grindstone, Smelter, Workbench, Tanning Rack and Woodcutting Block. Balance scales to sort crafting components into nearby labelled storage. 
+  </details>
+<details>
+<summary>Mage's Study </summary> 
+  Part library, part study (especially for magical pursuits). Contains Alchemy Lab, Arcane Enchanter and Staff Enchanter (once unlocked). Balance scales to sort alchemical ingredients and soul gems into nearby specimen cabinets. Book basket to sort books into the alphabetically-labelled bookcases. Spiral staircase leading up to the Glass Garden. 
+  </details>
+<details>
+<summary>Glass Garden </summary> 
+  A large terrarium on the roof, full of plants to harvest for alchemical ingredients (or food). 
+  </details>
+<details>
+<summary>Armoury </summary> 
+  A Hall dedicated to storing and displaying weapons, armour and other treasures. Full of mannequins, weapon plaques, display cases, etc. Mounts for Dragon Priest masks and Dragon Claws. Incorporates a museum area that automatically fills up with interesting items as you complete quests in Skyrim. 
+  </details>
+<details>
+<summary>Living Quarters </summary> 
+  Accommodation for everyone who is not Lord/Lady of the castle. Support for adopting up to six children via the Multiple Adoptions mod; three rooms for children. Large room for important guests. Dormitories for general servants and guards. 
+  </details>
+<details>
+<summary>Pneumatic Tube Terminals </summary> 
+  One is found in each major part of the keep. Allow fast transferral of items between terminals. Also allows you to manually or automatically sort items from the terminal, into the correct storage. No menus, just labelled buttons.
+</details>
+  
+> This section can contain quest spoilers. {.is-warning}
+</details>
 
-> This can be changed in settings.
-
-Work Room Generous stone room where the majority of crafting activities take place. Contains Forge, Grindstone, Smelter, Workbench, Tanning Rack and Woodcutting Block. Balance scales to sort crafting components into nearby labelled storage. Mage's Study Part library, part study (especially for magical pursuits). Contains Alchemy Lab, Arcane Enchanter and Staff Enchanter (once unlocked). Balance scales to sort alchemical ingredients and soul gems into nearby specimen cabinets. Book basket to sort books into the alphabetically-labelled bookcases. Spiral staircase leading up to the Glass Garden. Glass Garden A large terrarium on the roof, full of plants to harvest for alchemical ingredients (or food). Armoury A Hall dedicated to storing and displaying weapons, armour and other treasures. Full of mannequins, weapon plaques, display cases, etc. Mounts for Dragon Priest masks and Dragon Claws. Incorporates a museum area that automatically fills up with interesting items as you complete quests in Skyrim. Living Quarters Accommodation for everyone who is not Lord/Lady of the castle. Support for adopting up to six children via the Multiple Adoptions mod; three rooms for children. Large room for important guests. Dormitories for general servants and guards. Pneumatic Tube Terminals One is found in each major part of the keep. Allow fast transferral of items between terminals. Also allows you to manually or automatically sort items from the terminal, into the correct storage. No menus, just labelled buttons.
-
-> This section can contain quest spoilers.
-
-Requirement's and Cost(s) Cost: Nothing
+<details>
+<summary>Requirement's and Cost(s)</summary> 
+ Cost: Nothing
 
 Clockwork's quest-line will kick off with a random event when your character is at least level 5 and is currently travelling in the Skyrim wilderness. You can also go directly to a certain place to start things off, if you like.
 
-Spoilers | Where to find the location There's a landslide just south-east from Cragwallow Slope in Eastmarch (south by south-east from Windhelm).
+  <details>
+<summary>Spoilers | Where to find the location </summary> 
+  There's a landslide just south-east from Cragwallow Slope in Eastmarch (south by south-east from Windhelm).
+ </details>
 
 This questline is in 4 major parts, and all must be completed before you gain ownership over the castle, and can return to Skyrim
 
-> IMPORTANT! | When you start this questline you WILL NOT be able to return to skyrim (without using COC commands) until you COMPLETE the 4 part questline.
+> IMPORTANT! | When you start this questline you WILL NOT be able to return to Skyrim (without using COC commands) until you COMPLETE the 4 part questline. {.is-warning}
 
 > IMPORTANT! | You will also not be able to bring any companions with you, unless you're using a companion that's scripted to effectively teleport to you all the time no matter what. It would be best to leave your companion/s behind.  
-> Clockwork should still work if you just HAVE to have them along, but some things may seem a bit weird, and story-wise you're really intended to be alone.
-
+> Clockwork should still work if you just HAVE to have them along, but some things may seem a bit weird, and story-wise you're really intended to be alone. {.is-warning}
+</details>
+  
+  
 # Editor's Notes
 
 > This list is still very much a work in progress, as I am learning what it takes to get each house as I play through the modpack.
