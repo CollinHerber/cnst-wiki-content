@@ -2,7 +2,7 @@
 title: Player Houses
 description: [WIP] A list of all the player houses in the collection.
 published: true
-date: 2025-12-21T09:09:38.522Z
+date: 2025-12-21T09:18:52.817Z
 tags: houses
 editor: markdown
 dateCreated: 2025-12-20T03:45:56.467Z
@@ -154,9 +154,25 @@ A hidden Ratway hideout featuring full smithing and crafting facilities, secret 
 
 ![](/image_2025-12-21_003658364.png)
 
-**Requirements:** Complete the Thieves Guild Questline (Become the Guild Master)
+<details>
+  <summary>Requirement's and Cost(s)</summary>
+Cost: 7,500 Gold
 
-**Costs:** 7,500 Gold
+You will need to complete all of the following quests, in order to be able to purchase this house:
+- [A Chance Arrangement](https://en.uesp.net/wiki/Skyrim:A_Chance_Arrangement)
+  [Taking Care of Business](https://en.uesp.net/wiki/Skyrim:Taking_Care_of_Business)
+  [Loud and Clear](https://en.uesp.net/wiki/Skyrim:Loud_and_Clear)
+  [Dampened Spirits](https://en.uesp.net/wiki/Skyrim:Dampened_Spirits)
+  [Scoundrel's Folly](https://en.uesp.net/wiki/Skyrim:Scoundrel%27s_Folly)
+  [Speaking With Silence](https://en.uesp.net/wiki/Skyrim:Speaking_With_Silence)
+  [Hard Answers](https://en.uesp.net/wiki/Skyrim:Hard_Answers)
+  [The Pursuit](https://en.uesp.net/wiki/Skyrim:The_Pursuit)
+  [Trinity Restored](https://en.uesp.net/wiki/Skyrim:Trinity_Restored)
+  [Blindsighted](https://en.uesp.net/wiki/Skyrim:Blindsighted)
+  [Darkness Returns](https://en.uesp.net/wiki/Skyrim:Darkness_Returns)
+  [Under New Management](https://en.uesp.net/wiki/Skyrim:Under_New_Management)
+  
+  </details>
 
 > Note | In order to complete the Thieves Guild Questline, and become the Guild Master, you HAVE to turn in the skeleton key.
 
