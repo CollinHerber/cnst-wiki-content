@@ -2,7 +2,7 @@
 title: Player Houses
 description: [WIP] A list of all the player houses in the collection.
 published: true
-date: 2025-12-21T10:25:19.261Z
+date: 2025-12-21T10:27:52.227Z
 tags: houses
 editor: markdown
 dateCreated: 2025-12-20T03:45:56.467Z
@@ -297,6 +297,8 @@ Includes a bedroom with a double bed, two child beds, and shrines to Akatosh and
 
 > Clockwork is a quest mod involving a castle high in the Velothi Mountains, lost to the world for over a hundred years. Once found, you may call Clockwork Castle home... but if you want to leave, you'll need to discover how to escape. - Antistar, Mod Author
 
+
+
 ![image_2025-12-21_032808832.png](/image_2025-12-21_032808832.png)
 <details>
 <summary>Rooms and Furnishings</summary> 
@@ -364,10 +366,13 @@ This questline is in 4 major parts, and all must be completed before you gain ow
 > IMPORTANT! | You will also not be able to bring any companions with you, unless you're using a companion that's scripted to effectively teleport to you all the time no matter what. It would be best to leave your companion/s behind.  
 > Clockwork should still work if you just HAVE to have them along, but some things may seem a bit weird, and story-wise you're really intended to be alone. {.is-warning}
 </details>
+
+
+> More information for the mod can be found here: https://www.nexusmods.com/skyrimspecialedition/mods/4155 {.is-info}
   
   
 # Editor's Notes
 
-> This list is still very much a work in progress, as I am learning what it takes to get each house as I play through the modpack.
+> This list is still very much a work in progress, as I am learning what it takes to get each house as I play through the modpack. {.is-info}
 
-> Feel free to edit/add in anything you think would fit into the page.
+> Feel free to edit/add in anything you think would fit into the page. {.is-info}
