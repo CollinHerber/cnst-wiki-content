@@ -2,7 +2,7 @@
 title: Player Houses
 description: [WIP] A list of all the player houses in the collection.
 published: true
-date: 2025-12-21T09:18:52.817Z
+date: 2025-12-21T09:30:37.342Z
 tags: houses
 editor: markdown
 dateCreated: 2025-12-20T03:45:56.467Z
@@ -14,7 +14,7 @@ dateCreated: 2025-12-20T03:45:56.467Z
 
 | LOCATION | NAME | HOUSECARL | COST | FULL UPGRADE COST | TOTAL COST |
 | --- | --- | --- | --- | --- | --- |
-| WHITERUN | BREEZEHOME | LYDIA | 5,000 | 1,550 - 1,800 | 6,550 - 6,800 |
+| WHITERUN | BREEZEHOME | LYDIA | 6,000 | 1,550 - 1,800 | 6,550 - 6,800 |
 | RIFTEN | HONEYSIDE | IONA | 5,000 - 8,000 | 3,850 - 4,300 | 8,850 - 12,300 |
 | MARKARTH | VLINDREL HALL | ARGIS | 8.000 | 3,900 - 4,200 | 11,900 - 12,200 |
 | WINDHELM | HJERIM | CALDER | 8.000 - 12,000 | 9,000 - 10,250 | 17,000 - 22,250 |
@@ -31,7 +31,7 @@ dateCreated: 2025-12-20T03:45:56.467Z
 | DESCRIPTION/ADDITIONS | An internal wall and double doors are added<br><br>1 Alchemy Lab<br><br>1 Apothecary's Satchel<br><br>1 Bookcase (2 Shelves)<br><br>2 Chairs<br><br>1 Chest <br><br>1 Table<br><br>3 Wall decorations<br><br>1 Rug | An internal wall and double doors are added<br><br>2 Chairs<br><br>1 Dresser<br><br>3 End Tables (one of which is in the loft area)<br><br>1 Table<br><br>1 Shield Plaque, with two crossed iron greatswords and an iron shield<br><br>2 Wall decorations<br><br>2 Rugs | Upgrades the long wooden table to a better quality one<br><br>1 Usable Barrel <br><br>1 Chair<br><br>1 Cupboard<br><br>2 Wall Shelves<br><br>1 Rug | 2 Chairs<br><br>1 Cooking Pot<br><br>1 Set of Shelves<br><br>1 Table<br><br>3 Wall decorations 1 Rug<br><br>Harvestable plants:<br><br>3 Elves Ear<br><br>3 Garlic<br><br>Harvestable fish:<br><br>2 Salmon | 1 Bookcase (2 Shelves)<br><br>2 Chairs<br><br>1 Cupboard<br><br>3 Wall Shelves<br><br>2 Tables<br><br>1 Weapon Plaque<br><br>1 Weapon Rack (2 slots)<br><br>1 Rug | 2 Chairs<br><br>1 Cupboard<br><br>1 Table<br><br>1 Weapon Plaque<br><br>4 Wall decorations<br><br>1 Rug | 2 Children's Beds<br><br>2 Chests %<br><br>1 Wall Shelf<br><br>1 Children's practice Dummy<br><br>4 Wall Decorations<br><br>1 Rug | An internal wall and double doors are added<br><br>1 Owned Single Bed<br><br>1 Dresser<br><br>1 End Table<br><br>1 Rug |
 
 
-> -   \*Child's Bedroom | Child's Bedroom only available if [Hearthfire](https://en.uesp.net/wiki/Skyrim:Hearthfire) is installed. Choosing this upgrade will replace the Alchemy Laboratory.
+>*Child's Bedroom | Child's Bedroom only available if [Hearthfire](https://en.uesp.net/wiki/Skyrim:Hearthfire) is installed. Choosing this upgrade will replace the Alchemy Laboratory.{.is-info}
 
 ## RIFTEN - HONEYSIDE
 
@@ -42,7 +42,7 @@ dateCreated: 2025-12-20T03:45:56.467Z
 | DESCRIPTION/ADDITIONS |     |     |     |     |     |     |     |     |
 
 
-> -   \*Child's Bedroom | Child's Bedroom only available if [Hearthfire](https://en.uesp.net/wiki/Skyrim:Hearthfire) is installed. Choosing this upgrade will replace the enchanting laboratory. You can switch back and forth between the Enchanting Laboratory and Children's Bedroom at will.
+>*Child's Bedroom | Child's Bedroom only available if [Hearthfire](https://en.uesp.net/wiki/Skyrim:Hearthfire) is installed. Choosing this upgrade will replace the enchanting laboratory. You can switch back and forth between the Enchanting Laboratory and Children's Bedroom at will.{.is-info}
 
 ## MARKARTH - VLINDREL HALL
 
@@ -53,7 +53,7 @@ dateCreated: 2025-12-20T03:45:56.467Z
 | DESCRIPTION/ADDITIONS |     |     |     |     |     |     |     |
 
 
-> -   \*Child's Bedroom | Child's Bedroom only available if [Hearthfire](https://en.uesp.net/wiki/Skyrim:Hearthfire) is installed. Choosing this upgrade will replace the Alchemy Lab and is repeatably reversible.
+>*Child's Bedroom | Child's Bedroom only available if [Hearthfire](https://en.uesp.net/wiki/Skyrim:Hearthfire) is installed. Choosing this upgrade will replace the Alchemy Lab and is repeatably reversible.{.is-info}
 
 ## WINDHELM - HJERIM
 
@@ -64,7 +64,8 @@ dateCreated: 2025-12-20T03:45:56.467Z
 | DESCRIPTION/ADDITIONS |     |     |     |     |     |     |     |     |     |
 
 
-> -   \*Child's Bedroom | Child's Bedroom only available if [Hearthfire](https://en.uesp.net/wiki/Skyrim:Hearthfire) is installed. Choosing this upgrade will create a new room in the hall outside of the hidden enchanting/alchemy room, making the entrance to the hidden room inside the children's room.
+> *Child's Bedroom | Child's Bedroom only available if [Hearthfire](https://en.uesp.net/wiki/Skyrim:Hearthfire) is installed. Choosing this upgrade will create a new room in the hall outside of the hidden enchanting/alchemy room, making the entrance to the hidden room inside the children's room. {.is-info}
+
 <details>
   <summary>Spoilers | *Clean Up</summary>
 *Clean Up | This reffers to the quest "Blood on the Ice", where you hunt down the murderer in Windhelm. As you find out in the quest, the house is quite a mess, and this option will remove all of the blood and bones scattered through the house.
@@ -79,7 +80,9 @@ dateCreated: 2025-12-20T03:45:56.467Z
 | DESCRIPTION/ADDITIONS |     |     |     |     |     |     |     |     |     |     |
 
 
-> -   \*Child's Bedroom | Child's Bedroom only available if [Hearthfire](https://en.uesp.net/wiki/Skyrim:Hearthfire) is installed. Choosing this upgrade will create a new room next to the master bedroom.
+> *Child's Bedroom | Child's Bedroom only available if [Hearthfire](https://en.uesp.net/wiki/Skyrim:Hearthfire) is installed. Choosing this upgrade will create a new room next to the master bedroom.  {.is-info}
+
+
 
 # HEARTHFIRE DLC HOUSES
 
@@ -160,21 +163,34 @@ Cost: 7,500 Gold
 
 You will need to complete all of the following quests, in order to be able to purchase this house:
 - [A Chance Arrangement](https://en.uesp.net/wiki/Skyrim:A_Chance_Arrangement)
-  [Taking Care of Business](https://en.uesp.net/wiki/Skyrim:Taking_Care_of_Business)
-  [Loud and Clear](https://en.uesp.net/wiki/Skyrim:Loud_and_Clear)
-  [Dampened Spirits](https://en.uesp.net/wiki/Skyrim:Dampened_Spirits)
-  [Scoundrel's Folly](https://en.uesp.net/wiki/Skyrim:Scoundrel%27s_Folly)
-  [Speaking With Silence](https://en.uesp.net/wiki/Skyrim:Speaking_With_Silence)
-  [Hard Answers](https://en.uesp.net/wiki/Skyrim:Hard_Answers)
-  [The Pursuit](https://en.uesp.net/wiki/Skyrim:The_Pursuit)
-  [Trinity Restored](https://en.uesp.net/wiki/Skyrim:Trinity_Restored)
-  [Blindsighted](https://en.uesp.net/wiki/Skyrim:Blindsighted)
-  [Darkness Returns](https://en.uesp.net/wiki/Skyrim:Darkness_Returns)
-  [Under New Management](https://en.uesp.net/wiki/Skyrim:Under_New_Management)
+
+-   [Taking Care of Business](https://en.uesp.net/wiki/Skyrim:Taking_Care_of_Business)
+
+-   [Loud and Clear](https://en.uesp.net/wiki/Skyrim:Loud_and_Clear)
+
+-   [Dampened Spirits](https://en.uesp.net/wiki/Skyrim:Dampened_Spirits)
+
+-   [Scoundrel's Folly](https://en.uesp.net/wiki/Skyrim:Scoundrel%27s_Folly)
+
+-   [Speaking With Silence](https://en.uesp.net/wiki/Skyrim:Speaking_With_Silence)
+ 
+-  [Hard Answers](https://en.uesp.net/wiki/Skyrim:Hard_Answers)
+ 
+-  [The Pursuit](https://en.uesp.net/wiki/Skyrim:The_Pursuit)
+
+-   [Trinity Restored](https://en.uesp.net/wiki/Skyrim:Trinity_Restored)
+
+-   [Blindsighted](https://en.uesp.net/wiki/Skyrim:Blindsighted)
+
+-   [Darkness Returns](https://en.uesp.net/wiki/Skyrim:Darkness_Returns) ***MUST BE COMPLETED***
+
+-   [Under New Management](https://en.uesp.net/wiki/Skyrim:Under_New_Management)
   
   </details>
 
-> Note | In order to complete the Thieves Guild Questline, and become the Guild Master, you HAVE to turn in the skeleton key.
+> Note: In order to complete the Thieves Guild Questline, and become the Guild Master, you HAVE to turn in the skeleton key.
+{.is-warning}
+
 
 ## **Tundra Homestead**
 
@@ -192,9 +208,24 @@ Includes a bedroom with a double bed, two child beds, and shrines to Akatosh and
 
 ## Clockwork
 
-\[WIP\]
+> Clockwork is a quest mod involving a castle high in the Velothi Mountains, lost to the world for over a hundred years. Once found, you may call Clockwork Castle home... but if you want to leave, you'll need to discover how to escape. - Antistar, Mod Author
+
+![image_2025-12-21_032808832.png](/image_2025-12-21_032808832.png)
+
+<details>
+  <summary>ph</summary>
+  swag
+<details>
+  
+<details>
+	<summary>123<.summary>
+<details>
+  
+
 
 # Editor's Notes
 
-> This list is still very much a work in progress, as I am learning what it takes to get each house as I play through the modpack.  
-> Feel free to edit/add in anything you think would fit into the page.
+> This list is still very much a work in progress, as I am learning what it takes to get each house as I play through the modpack.  {.is-warning}
+> 
+
+> Feel free to edit/add in anything you think would fit into the page.{.is-warning}
