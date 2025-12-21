@@ -2,7 +2,7 @@
 title: Player Houses
 description: [WIP] A list of all the player houses in the collection.
 published: true
-date: 2025-12-21T09:30:37.342Z
+date: 2025-12-21T09:47:14.791Z
 tags: houses
 editor: markdown
 dateCreated: 2025-12-20T03:45:56.467Z
@@ -213,19 +213,86 @@ Includes a bedroom with a double bed, two child beds, and shrines to Akatosh and
 ![image_2025-12-21_032808832.png](/image_2025-12-21_032808832.png)
 
 <details>
-  <summary>ph</summary>
-  swag
-<details>
+  <summary> Rooms and Furnishings</summary>
+There is a lot of details to cover in this mod, however, this page will only be going over the house itself, not the quest locations.
+  <details>
+  <summary>Main Hall</summary>
+  </details>
+    <details>
+  <summary>Master Bedroom</summary>
+  </details>
+    <details>
+  <summary>Travel Room</summary>
+      Large chamber in the basement containing the Travel Machine.
+      The Travel Machine allows teleportation to and from the major towns in Skyrim, and to the Recall Point designated by the "Recall to Clockwork Castle" spell.
+      Buttons on the metal relief map of Skyrim configure the Travel Machine's destination.
+      The "Recall to Clockwork Castle" spell teleports you to the Travel Room from anywhere, but by default will fail if you cannot currently fast-travel for whatever reason.
+      
+> This can be changed in settings. {.is-warning}
+  </details>
+    <details>
+  <summary>Work Room</summary>
+      Generous stone room where the majority of crafting activities take place.
+      Contains Forge, Grindstone, Smelter, Workbench, Tanning Rack and Woodcutting Block.
+      Balance scales to sort crafting components into nearby labelled storage.
+  </details>
+      <details>
+  <summary>Mage's Study</summary>
+        Part library, part study (especially for magical pursuits).
+        Contains Alchemy Lab, Arcane Enchanter and Staff Enchanter (once unlocked).
+        Balance scales to sort alchemical ingredients and soul gems into nearby specimen cabinets.
+        Book basket to sort books into the alphabetically-labelled bookcases.
+        Spiral staircase leading up to the Glass Garden.
+  </details>
+      <details>
+  <summary>Glass Garden</summary>
+        A large terrarium on the roof, full of plants to harvest for alchemical ingredients (or food).
+  </details>
+      <details>
+  <summary>Armoury</summary>
+        A Hall dedicated to storing and displaying weapons, armour and other treasures.
+        Full of mannequins, weapon plaques, display cases, etc. Mounts for Dragon Priest masks and Dragon Claws.
+        Incorporates a museum area that automatically fills up with interesting items as you complete quests in Skyrim.
+  </details>
+      <details>
+  <summary>Living Quarters</summary>
+        Accommodation for everyone who is not Lord/Lady of the castle.
+        Support for adopting up to six children via the Multiple Adoptions mod; three rooms for children.
+        Large room for important guests.
+        Dormitories for general servants and guards.
+  </details>
+      <details>
+  <summary>Pneumatic Tube Terminals</summary>
+        One is found in each major part of the keep. Allow fast transferral of items between terminals. Also allows you to manually or automatically sort items from the terminal, into the correct storage. No menus, just labelled buttons.
+  </details>
+  
+> This section can contain quest spoilers. {.is-warning}
+  </details>
   
 <details>
-	<summary>123<.summary>
-<details>
+	<summary>Requirement's and Cost(s)</summary>
+  Cost: Nothing
   
+  Clockwork's quest-line will kick off with a random event when your character is at least level 5 and is currently travelling in the Skyrim wilderness. You can also go directly to a certain place to start things off, if you like.
+  <details>
+  <summary>Spoilers | Where to find the location</summary>
+    There's a landslide just south-east from Cragwallow Slope in Eastmarch (south by south-east from Windhelm).
+  </details>
+  
+  This questline is in 4 major parts, and all must be completed before you gain ownership over the castle, and can return to Skyrim
+  
+</details>
 
+> IMPORTANT! | When you start this questline you WILL NOT be able to return to skyrim (without using COC commands) until you COMPLETE the 4 part questline. {.is-warning}
+
+> IMPORTANT! | You will also not be able to bring any companions with you, unless you're using a companion that's scripted to effectively teleport to you all the time no matter what. It would be best to leave your companion/s behind. 
+> Clockwork should still work if you just HAVE to have them along, but some things may seem a bit weird, and story-wise you're really intended to be alone.
+{.is-warning}
+  
 
 # Editor's Notes
 
-> This list is still very much a work in progress, as I am learning what it takes to get each house as I play through the modpack.  {.is-warning}
+> This list is still very much a work in progress, as I am learning what it takes to get each house as I play through the modpack.
 > 
 
-> Feel free to edit/add in anything you think would fit into the page.{.is-warning}
+> Feel free to edit/add in anything you think would fit into the page.
