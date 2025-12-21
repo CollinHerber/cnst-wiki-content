@@ -2,7 +2,7 @@
 title: Player Houses
 description: [WIP] A list of all the player houses in the collection.
 published: true
-date: 2025-12-21T09:47:14.791Z
+date: 2025-12-21T09:48:36.205Z
 tags: houses
 editor: markdown
 dateCreated: 2025-12-20T03:45:56.467Z
@@ -28,10 +28,9 @@ dateCreated: 2025-12-20T03:45:56.467Z
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |     | ALCHEMY LABORATORY | BEDROOM FURNISHINGS | DINING ROOM DECOR. | KITCHEN FURNISHINGS | LIVING ROOM FURNISHINGS | LOFT DECOR. | CHILD'S BEDROOM\* | HOUSECARL'S QUARTERS |
 | COST / REQUIREMENT | 500 GOLD | 300 GOLD | 250 GOLD | 300 GOLD | 250 GOLD | 200 GOLD | 250 GOLD | BECOME THANE OF WHITERUN |
-| DESCRIPTION/ADDITIONS | An internal wall and double doors are added<br><br>1 Alchemy Lab<br><br>1 Apothecary's Satchel<br><br>1 Bookcase (2 Shelves)<br><br>2 Chairs<br><br>1 Chest <br><br>1 Table<br><br>3 Wall decorations<br><br>1 Rug | An internal wall and double doors are added<br><br>2 Chairs<br><br>1 Dresser<br><br>3 End Tables (one of which is in the loft area)<br><br>1 Table<br><br>1 Shield Plaque, with two crossed iron greatswords and an iron shield<br><br>2 Wall decorations<br><br>2 Rugs | Upgrades the long wooden table to a better quality one<br><br>1 Usable Barrel <br><br>1 Chair<br><br>1 Cupboard<br><br>2 Wall Shelves<br><br>1 Rug | 2 Chairs<br><br>1 Cooking Pot<br><br>1 Set of Shelves<br><br>1 Table<br><br>3 Wall decorations 1 Rug<br><br>Harvestable plants:<br><br>3 Elves Ear<br><br>3 Garlic<br><br>Harvestable fish:<br><br>2 Salmon | 1 Bookcase (2 Shelves)<br><br>2 Chairs<br><br>1 Cupboard<br><br>3 Wall Shelves<br><br>2 Tables<br><br>1 Weapon Plaque<br><br>1 Weapon Rack (2 slots)<br><br>1 Rug | 2 Chairs<br><br>1 Cupboard<br><br>1 Table<br><br>1 Weapon Plaque<br><br>4 Wall decorations<br><br>1 Rug | 2 Children's Beds<br><br>2 Chests %<br><br>1 Wall Shelf<br><br>1 Children's practice Dummy<br><br>4 Wall Decorations<br><br>1 Rug | An internal wall and double doors are added<br><br>1 Owned Single Bed<br><br>1 Dresser<br><br>1 End Table<br><br>1 Rug |
+| DESCRIPTION/ADDITIONS | An internal wall and double doors are added  <br>  <br>1 Alchemy Lab  <br>  <br>1 Apothecary's Satchel  <br>  <br>1 Bookcase (2 Shelves)  <br>  <br>2 Chairs  <br>  <br>1 Chest   <br>  <br>1 Table  <br>  <br>3 Wall decorations  <br>  <br>1 Rug | An internal wall and double doors are added  <br>  <br>2 Chairs  <br>  <br>1 Dresser  <br>  <br>3 End Tables (one of which is in the loft area)  <br>  <br>1 Table  <br>  <br>1 Shield Plaque, with two crossed iron greatswords and an iron shield  <br>  <br>2 Wall decorations  <br>  <br>2 Rugs | Upgrades the long wooden table to a better quality one  <br>  <br>1 Usable Barrel   <br>  <br>1 Chair  <br>  <br>1 Cupboard  <br>  <br>2 Wall Shelves  <br>  <br>1 Rug | 2 Chairs  <br>  <br>1 Cooking Pot  <br>  <br>1 Set of Shelves  <br>  <br>1 Table  <br>  <br>3 Wall decorations 1 Rug  <br>  <br>Harvestable plants:  <br>  <br>3 Elves Ear  <br>  <br>3 Garlic  <br>  <br>Harvestable fish:  <br>  <br>2 Salmon | 1 Bookcase (2 Shelves)  <br>  <br>2 Chairs  <br>  <br>1 Cupboard  <br>  <br>3 Wall Shelves  <br>  <br>2 Tables  <br>  <br>1 Weapon Plaque  <br>  <br>1 Weapon Rack (2 slots)  <br>  <br>1 Rug | 2 Chairs  <br>  <br>1 Cupboard  <br>  <br>1 Table  <br>  <br>1 Weapon Plaque  <br>  <br>4 Wall decorations  <br>  <br>1 Rug | 2 Children's Beds  <br>  <br>2 Chests %  <br>  <br>1 Wall Shelf  <br>  <br>1 Children's practice Dummy  <br>  <br>4 Wall Decorations  <br>  <br>1 Rug | An internal wall and double doors are added  <br>  <br>1 Owned Single Bed  <br>  <br>1 Dresser  <br>  <br>1 End Table  <br>  <br>1 Rug |
 
-
->*Child's Bedroom | Child's Bedroom only available if [Hearthfire](https://en.uesp.net/wiki/Skyrim:Hearthfire) is installed. Choosing this upgrade will replace the Alchemy Laboratory.{.is-info}
+> \*Child's Bedroom | Child's Bedroom only available if [Hearthfire](https://en.uesp.net/wiki/Skyrim:Hearthfire) is installed. Choosing this upgrade will replace the Alchemy Laboratory.
 
 ## RIFTEN - HONEYSIDE
 
@@ -41,8 +40,7 @@ dateCreated: 2025-12-20T03:45:56.467Z
 | COST / REQUIREMENT |     |     |     |     |     |     |     | BECOME THANE OF RIFTEN |
 | DESCRIPTION/ADDITIONS |     |     |     |     |     |     |     |     |
 
-
->*Child's Bedroom | Child's Bedroom only available if [Hearthfire](https://en.uesp.net/wiki/Skyrim:Hearthfire) is installed. Choosing this upgrade will replace the enchanting laboratory. You can switch back and forth between the Enchanting Laboratory and Children's Bedroom at will.{.is-info}
+> \*Child's Bedroom | Child's Bedroom only available if [Hearthfire](https://en.uesp.net/wiki/Skyrim:Hearthfire) is installed. Choosing this upgrade will replace the enchanting laboratory. You can switch back and forth between the Enchanting Laboratory and Children's Bedroom at will.
 
 ## MARKARTH - VLINDREL HALL
 
@@ -52,8 +50,7 @@ dateCreated: 2025-12-20T03:45:56.467Z
 | COST / REQUIREMENT |     |     |     |     |     |     | BECOME THANE OF MARKARTH |
 | DESCRIPTION/ADDITIONS |     |     |     |     |     |     |     |
 
-
->*Child's Bedroom | Child's Bedroom only available if [Hearthfire](https://en.uesp.net/wiki/Skyrim:Hearthfire) is installed. Choosing this upgrade will replace the Alchemy Lab and is repeatably reversible.{.is-info}
+> \*Child's Bedroom | Child's Bedroom only available if [Hearthfire](https://en.uesp.net/wiki/Skyrim:Hearthfire) is installed. Choosing this upgrade will replace the Alchemy Lab and is repeatably reversible.
 
 ## WINDHELM - HJERIM
 
@@ -63,14 +60,10 @@ dateCreated: 2025-12-20T03:45:56.467Z
 | COST / REQUIREMENT |     |     |     |     |     |     |     |     | BECOME THANE OF WINDHELM |
 | DESCRIPTION/ADDITIONS |     |     |     |     |     |     |     |     |     |
 
+> \*Child's Bedroom | Child's Bedroom only available if [Hearthfire](https://en.uesp.net/wiki/Skyrim:Hearthfire) is installed. Choosing this upgrade will create a new room in the hall outside of the hidden enchanting/alchemy room, making the entrance to the hidden room inside the children's room.
 
-> *Child's Bedroom | Child's Bedroom only available if [Hearthfire](https://en.uesp.net/wiki/Skyrim:Hearthfire) is installed. Choosing this upgrade will create a new room in the hall outside of the hidden enchanting/alchemy room, making the entrance to the hidden room inside the children's room. {.is-info}
+Spoilers | \*Clean Up \*Clean Up | This reffers to the quest "Blood on the Ice", where you hunt down the murderer in Windhelm. As you find out in the quest, the house is quite a mess, and this option will remove all of the blood and bones scattered through the house.
 
-<details>
-  <summary>Spoilers | *Clean Up</summary>
-*Clean Up | This reffers to the quest "Blood on the Ice", where you hunt down the murderer in Windhelm. As you find out in the quest, the house is quite a mess, and this option will remove all of the blood and bones scattered through the house.
-  </details>
-  
 ## SOLITUDE - PROUDSPIRE MANOR
 
 |     |     |     |     |     |     |     |     |     |     |     |
@@ -79,10 +72,7 @@ dateCreated: 2025-12-20T03:45:56.467Z
 | COST / REQUIREMENT |     |     |     |     |     |     |     |     |     | BECOME THANE OF SOLITUDE |
 | DESCRIPTION/ADDITIONS |     |     |     |     |     |     |     |     |     |     |
 
-
-> *Child's Bedroom | Child's Bedroom only available if [Hearthfire](https://en.uesp.net/wiki/Skyrim:Hearthfire) is installed. Choosing this upgrade will create a new room next to the master bedroom.  {.is-info}
-
-
+> \*Child's Bedroom | Child's Bedroom only available if [Hearthfire](https://en.uesp.net/wiki/Skyrim:Hearthfire) is installed. Choosing this upgrade will create a new room next to the master bedroom.
 
 # HEARTHFIRE DLC HOUSES
 
@@ -157,44 +147,40 @@ A hidden Ratway hideout featuring full smithing and crafting facilities, secret 
 
 ![](/image_2025-12-21_003658364.png)
 
-<details>
-  <summary>Requirement's and Cost(s)</summary>
-Cost: 7,500 Gold
+Requirement's and Cost(s) Cost: 7,500 Gold
 
 You will need to complete all of the following quests, in order to be able to purchase this house:
-- [A Chance Arrangement](https://en.uesp.net/wiki/Skyrim:A_Chance_Arrangement)
 
+-   [A Chance Arrangement](https://en.uesp.net/wiki/Skyrim:A_Chance_Arrangement)
+    
 -   [Taking Care of Business](https://en.uesp.net/wiki/Skyrim:Taking_Care_of_Business)
-
+    
 -   [Loud and Clear](https://en.uesp.net/wiki/Skyrim:Loud_and_Clear)
-
+    
 -   [Dampened Spirits](https://en.uesp.net/wiki/Skyrim:Dampened_Spirits)
-
+    
 -   [Scoundrel's Folly](https://en.uesp.net/wiki/Skyrim:Scoundrel%27s_Folly)
-
+    
 -   [Speaking With Silence](https://en.uesp.net/wiki/Skyrim:Speaking_With_Silence)
- 
--  [Hard Answers](https://en.uesp.net/wiki/Skyrim:Hard_Answers)
- 
--  [The Pursuit](https://en.uesp.net/wiki/Skyrim:The_Pursuit)
-
+    
+-   [Hard Answers](https://en.uesp.net/wiki/Skyrim:Hard_Answers)
+    
+-   [The Pursuit](https://en.uesp.net/wiki/Skyrim:The_Pursuit)
+    
 -   [Trinity Restored](https://en.uesp.net/wiki/Skyrim:Trinity_Restored)
-
+    
 -   [Blindsighted](https://en.uesp.net/wiki/Skyrim:Blindsighted)
-
+    
 -   [Darkness Returns](https://en.uesp.net/wiki/Skyrim:Darkness_Returns) ***MUST BE COMPLETED***
-
+    
 -   [Under New Management](https://en.uesp.net/wiki/Skyrim:Under_New_Management)
-  
-  </details>
+    
 
 > Note: In order to complete the Thieves Guild Questline, and become the Guild Master, you HAVE to turn in the skeleton key.
-{.is-warning}
-
 
 ## **Tundra Homestead**
 
-The house includes several outdoor features. Behind the cottage there is a garden with eight open plots of Fertile Soil, three potato plants, two cabbages, two gourds, and two leeks. Nearby are two apiaries that work the same way as the one at Lakeview Manor. Two covered areas are in front of the house, and the one to the east has almost all the necessary Smithing tools: a smelter, anvil, grindstone, tanning rack, and workbench. 
+The house includes several outdoor features. Behind the cottage there is a garden with eight open plots of Fertile Soil, three potato plants, two cabbages, two gourds, and two leeks. Nearby are two apiaries that work the same way as the one at Lakeview Manor. Two covered areas are in front of the house, and the one to the east has almost all the necessary Smithing tools: a smelter, anvil, grindstone, tanning rack, and workbench.
 
 Includes a bedroom with a double bed, two child beds, and shrines to Akatosh and Mara, as well as a dedicated crafting room featuring an alchemy lab, arcane enchanter, a shrine of Julianos, and relevant skill books placed beside each station. A trapdoor leads to a underground trophy hall designed for collectors, filled with mannequins, weapon racks, plaques, and display cases, with dedicated displays for Dragon Claws, Dragon Priest masks, etc. etc..
 
@@ -212,87 +198,29 @@ Includes a bedroom with a double bed, two child beds, and shrines to Akatosh and
 
 ![image_2025-12-21_032808832.png](/image_2025-12-21_032808832.png)
 
-<details>
-  <summary> Rooms and Furnishings</summary>
-There is a lot of details to cover in this mod, however, this page will only be going over the house itself, not the quest locations.
-  <details>
-  <summary>Main Hall</summary>
-  </details>
-    <details>
-  <summary>Master Bedroom</summary>
-  </details>
-    <details>
-  <summary>Travel Room</summary>
-      Large chamber in the basement containing the Travel Machine.
-      The Travel Machine allows teleportation to and from the major towns in Skyrim, and to the Recall Point designated by the "Recall to Clockwork Castle" spell.
-      Buttons on the metal relief map of Skyrim configure the Travel Machine's destination.
-      The "Recall to Clockwork Castle" spell teleports you to the Travel Room from anywhere, but by default will fail if you cannot currently fast-travel for whatever reason.
-      
-> This can be changed in settings. {.is-warning}
-  </details>
-    <details>
-  <summary>Work Room</summary>
-      Generous stone room where the majority of crafting activities take place.
-      Contains Forge, Grindstone, Smelter, Workbench, Tanning Rack and Woodcutting Block.
-      Balance scales to sort crafting components into nearby labelled storage.
-  </details>
-      <details>
-  <summary>Mage's Study</summary>
-        Part library, part study (especially for magical pursuits).
-        Contains Alchemy Lab, Arcane Enchanter and Staff Enchanter (once unlocked).
-        Balance scales to sort alchemical ingredients and soul gems into nearby specimen cabinets.
-        Book basket to sort books into the alphabetically-labelled bookcases.
-        Spiral staircase leading up to the Glass Garden.
-  </details>
-      <details>
-  <summary>Glass Garden</summary>
-        A large terrarium on the roof, full of plants to harvest for alchemical ingredients (or food).
-  </details>
-      <details>
-  <summary>Armoury</summary>
-        A Hall dedicated to storing and displaying weapons, armour and other treasures.
-        Full of mannequins, weapon plaques, display cases, etc. Mounts for Dragon Priest masks and Dragon Claws.
-        Incorporates a museum area that automatically fills up with interesting items as you complete quests in Skyrim.
-  </details>
-      <details>
-  <summary>Living Quarters</summary>
-        Accommodation for everyone who is not Lord/Lady of the castle.
-        Support for adopting up to six children via the Multiple Adoptions mod; three rooms for children.
-        Large room for important guests.
-        Dormitories for general servants and guards.
-  </details>
-      <details>
-  <summary>Pneumatic Tube Terminals</summary>
-        One is found in each major part of the keep. Allow fast transferral of items between terminals. Also allows you to manually or automatically sort items from the terminal, into the correct storage. No menus, just labelled buttons.
-  </details>
-  
-> This section can contain quest spoilers. {.is-warning}
-  </details>
-  
-<details>
-	<summary>Requirement's and Cost(s)</summary>
-  Cost: Nothing
-  
-  Clockwork's quest-line will kick off with a random event when your character is at least level 5 and is currently travelling in the Skyrim wilderness. You can also go directly to a certain place to start things off, if you like.
-  <details>
-  <summary>Spoilers | Where to find the location</summary>
-    There's a landslide just south-east from Cragwallow Slope in Eastmarch (south by south-east from Windhelm).
-  </details>
-  
-  This questline is in 4 major parts, and all must be completed before you gain ownership over the castle, and can return to Skyrim
-  
-</details>
+Rooms and Furnishings There is a lot of details to cover in this mod, however, this page will only be going over the house itself, not the quest locations. Main Hall Master Bedroom Travel Room Large chamber in the basement containing the Travel Machine. The Travel Machine allows teleportation to and from the major towns in Skyrim, and to the Recall Point designated by the "Recall to Clockwork Castle" spell. Buttons on the metal relief map of Skyrim configure the Travel Machine's destination. The "Recall to Clockwork Castle" spell teleports you to the Travel Room from anywhere, but by default will fail if you cannot currently fast-travel for whatever reason.
 
-> IMPORTANT! | When you start this questline you WILL NOT be able to return to skyrim (without using COC commands) until you COMPLETE the 4 part questline. {.is-warning}
+> This can be changed in settings.
 
-> IMPORTANT! | You will also not be able to bring any companions with you, unless you're using a companion that's scripted to effectively teleport to you all the time no matter what. It would be best to leave your companion/s behind. 
+Work Room Generous stone room where the majority of crafting activities take place. Contains Forge, Grindstone, Smelter, Workbench, Tanning Rack and Woodcutting Block. Balance scales to sort crafting components into nearby labelled storage. Mage's Study Part library, part study (especially for magical pursuits). Contains Alchemy Lab, Arcane Enchanter and Staff Enchanter (once unlocked). Balance scales to sort alchemical ingredients and soul gems into nearby specimen cabinets. Book basket to sort books into the alphabetically-labelled bookcases. Spiral staircase leading up to the Glass Garden. Glass Garden A large terrarium on the roof, full of plants to harvest for alchemical ingredients (or food). Armoury A Hall dedicated to storing and displaying weapons, armour and other treasures. Full of mannequins, weapon plaques, display cases, etc. Mounts for Dragon Priest masks and Dragon Claws. Incorporates a museum area that automatically fills up with interesting items as you complete quests in Skyrim. Living Quarters Accommodation for everyone who is not Lord/Lady of the castle. Support for adopting up to six children via the Multiple Adoptions mod; three rooms for children. Large room for important guests. Dormitories for general servants and guards. Pneumatic Tube Terminals One is found in each major part of the keep. Allow fast transferral of items between terminals. Also allows you to manually or automatically sort items from the terminal, into the correct storage. No menus, just labelled buttons.
+
+> This section can contain quest spoilers.
+
+Requirement's and Cost(s) Cost: Nothing
+
+Clockwork's quest-line will kick off with a random event when your character is at least level 5 and is currently travelling in the Skyrim wilderness. You can also go directly to a certain place to start things off, if you like.
+
+Spoilers | Where to find the location There's a landslide just south-east from Cragwallow Slope in Eastmarch (south by south-east from Windhelm).
+
+This questline is in 4 major parts, and all must be completed before you gain ownership over the castle, and can return to Skyrim
+
+> IMPORTANT! | When you start this questline you WILL NOT be able to return to skyrim (without using COC commands) until you COMPLETE the 4 part questline.
+
+> IMPORTANT! | You will also not be able to bring any companions with you, unless you're using a companion that's scripted to effectively teleport to you all the time no matter what. It would be best to leave your companion/s behind.  
 > Clockwork should still work if you just HAVE to have them along, but some things may seem a bit weird, and story-wise you're really intended to be alone.
-{.is-warning}
-  
 
 # Editor's Notes
 
 > This list is still very much a work in progress, as I am learning what it takes to get each house as I play through the modpack.
-> 
 
 > Feel free to edit/add in anything you think would fit into the page.
