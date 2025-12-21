@@ -2,7 +2,7 @@
 title: Player Houses
 description: [WIP] A list of all the player houses in the collection.
 published: true
-date: 2025-12-21T10:20:37.500Z
+date: 2025-12-21T10:25:19.261Z
 tags: houses
 editor: markdown
 dateCreated: 2025-12-20T03:45:56.467Z
@@ -37,8 +37,9 @@ dateCreated: 2025-12-20T03:45:56.467Z
 |     |     |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |     | BEDROOM | KITCHEN | ALCHEMY LABORATORY | ENCHANTING AREA | GARDEN | PORCH | CHILD'S BEDROOM\* | HOUSECARL'S QUARTERS |
-| COST / REQUIREMENT |     |     |     |     |     |     |     | BECOME THANE OF RIFTEN |
+| COST / REQUIREMENT |  600 gold   |  500 gold   | 1000 gold    |   1000 gold  | 800 gold    | 400 gold    |  550 gold   | BECOME THANE OF RIFTEN |
 | DESCRIPTION/ADDITIONS |     |     |     |     |     |     |     |     |
+
 
 > \*Child's Bedroom | Child's Bedroom only available if [Hearthfire](https://en.uesp.net/wiki/Skyrim:Hearthfire) is installed. Choosing this upgrade will replace the enchanting laboratory. You can switch back and forth between the Enchanting Laboratory and Children's Bedroom at will.
 
@@ -60,9 +61,13 @@ dateCreated: 2025-12-20T03:45:56.467Z
 | COST / REQUIREMENT |     |     |     |     |     |     |     |     | BECOME THANE OF WINDHELM |
 | DESCRIPTION/ADDITIONS |     |     |     |     |     |     |     |     |     |
 
+
 > \*Child's Bedroom | Child's Bedroom only available if [Hearthfire](https://en.uesp.net/wiki/Skyrim:Hearthfire) is installed. Choosing this upgrade will create a new room in the hall outside of the hidden enchanting/alchemy room, making the entrance to the hidden room inside the children's room.
 
-Spoilers | \*Clean Up \*Clean Up | This reffers to the quest "Blood on the Ice", where you hunt down the murderer in Windhelm. As you find out in the quest, the house is quite a mess, and this option will remove all of the blood and bones scattered through the house.
+<details>
+  <summary>Spoilers | *Clean Up</summary>
+  *Clean Up | This reffers to the quest "Blood on the Ice", where you hunt down the murderer in Windhelm. As you find out in the quest, the house is quite a mess, and this option will remove all of the blood and bones scattered through the house.
+  </details>
 
 ## SOLITUDE - PROUDSPIRE MANOR
 
