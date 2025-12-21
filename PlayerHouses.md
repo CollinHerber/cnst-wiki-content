@@ -2,7 +2,7 @@
 title: Player Houses
 description: [WIP] A list of all the player houses in the collection.
 published: true
-date: 2025-12-21T08:40:31.640Z
+date: 2025-12-21T09:09:38.522Z
 tags: houses
 editor: markdown
 dateCreated: 2025-12-20T03:45:56.467Z
@@ -10,8 +10,7 @@ dateCreated: 2025-12-20T03:45:56.467Z
 
 ###### \[WIP\]
 
-#   
-VANILLA HOUSES - NO DLC'S
+# VANILLA HOUSES - NO DLC'S
 
 | LOCATION | NAME | HOUSECARL | COST | FULL UPGRADE COST | TOTAL COST |
 | --- | --- | --- | --- | --- | --- |
@@ -31,6 +30,7 @@ VANILLA HOUSES - NO DLC'S
 | COST / REQUIREMENT | 500 GOLD | 300 GOLD | 250 GOLD | 300 GOLD | 250 GOLD | 200 GOLD | 250 GOLD | BECOME THANE OF WHITERUN |
 | DESCRIPTION/ADDITIONS | An internal wall and double doors are added<br><br>1 Alchemy Lab<br><br>1 Apothecary's Satchel<br><br>1 Bookcase (2 Shelves)<br><br>2 Chairs<br><br>1 Chest <br><br>1 Table<br><br>3 Wall decorations<br><br>1 Rug | An internal wall and double doors are added<br><br>2 Chairs<br><br>1 Dresser<br><br>3 End Tables (one of which is in the loft area)<br><br>1 Table<br><br>1 Shield Plaque, with two crossed iron greatswords and an iron shield<br><br>2 Wall decorations<br><br>2 Rugs | Upgrades the long wooden table to a better quality one<br><br>1 Usable Barrel <br><br>1 Chair<br><br>1 Cupboard<br><br>2 Wall Shelves<br><br>1 Rug | 2 Chairs<br><br>1 Cooking Pot<br><br>1 Set of Shelves<br><br>1 Table<br><br>3 Wall decorations 1 Rug<br><br>Harvestable plants:<br><br>3 Elves Ear<br><br>3 Garlic<br><br>Harvestable fish:<br><br>2 Salmon | 1 Bookcase (2 Shelves)<br><br>2 Chairs<br><br>1 Cupboard<br><br>3 Wall Shelves<br><br>2 Tables<br><br>1 Weapon Plaque<br><br>1 Weapon Rack (2 slots)<br><br>1 Rug | 2 Chairs<br><br>1 Cupboard<br><br>1 Table<br><br>1 Weapon Plaque<br><br>4 Wall decorations<br><br>1 Rug | 2 Children's Beds<br><br>2 Chests %<br><br>1 Wall Shelf<br><br>1 Children's practice Dummy<br><br>4 Wall Decorations<br><br>1 Rug | An internal wall and double doors are added<br><br>1 Owned Single Bed<br><br>1 Dresser<br><br>1 End Table<br><br>1 Rug |
 
+
 > -   \*Child's Bedroom | Child's Bedroom only available if [Hearthfire](https://en.uesp.net/wiki/Skyrim:Hearthfire) is installed. Choosing this upgrade will replace the Alchemy Laboratory.
 
 ## RIFTEN - HONEYSIDE
@@ -40,6 +40,7 @@ VANILLA HOUSES - NO DLC'S
 |     | BEDROOM | KITCHEN | ALCHEMY LABORATORY | ENCHANTING AREA | GARDEN | PORCH | CHILD'S BEDROOM\* | HOUSECARL'S QUARTERS |
 | COST / REQUIREMENT |     |     |     |     |     |     |     | BECOME THANE OF RIFTEN |
 | DESCRIPTION/ADDITIONS |     |     |     |     |     |     |     |     |
+
 
 > -   \*Child's Bedroom | Child's Bedroom only available if [Hearthfire](https://en.uesp.net/wiki/Skyrim:Hearthfire) is installed. Choosing this upgrade will replace the enchanting laboratory. You can switch back and forth between the Enchanting Laboratory and Children's Bedroom at will.
 
@@ -51,6 +52,7 @@ VANILLA HOUSES - NO DLC'S
 | COST / REQUIREMENT |     |     |     |     |     |     | BECOME THANE OF MARKARTH |
 | DESCRIPTION/ADDITIONS |     |     |     |     |     |     |     |
 
+
 > -   \*Child's Bedroom | Child's Bedroom only available if [Hearthfire](https://en.uesp.net/wiki/Skyrim:Hearthfire) is installed. Choosing this upgrade will replace the Alchemy Lab and is repeatably reversible.
 
 ## WINDHELM - HJERIM
@@ -61,8 +63,13 @@ VANILLA HOUSES - NO DLC'S
 | COST / REQUIREMENT |     |     |     |     |     |     |     |     | BECOME THANE OF WINDHELM |
 | DESCRIPTION/ADDITIONS |     |     |     |     |     |     |     |     |     |
 
-> -   \*Child's Bedroom | Child's Bedroom only available if [Hearthfire](https://en.uesp.net/wiki/Skyrim:Hearthfire) is installed. Choosing this upgrade will create a new room in the hall outside of the hidden enchanting/alchemy room, making the entrance to the hidden room inside the children's room.
 
+> -   \*Child's Bedroom | Child's Bedroom only available if [Hearthfire](https://en.uesp.net/wiki/Skyrim:Hearthfire) is installed. Choosing this upgrade will create a new room in the hall outside of the hidden enchanting/alchemy room, making the entrance to the hidden room inside the children's room.
+<details>
+  <summary>Spoilers | *Clean Up</summary>
+*Clean Up | This reffers to the quest "Blood on the Ice", where you hunt down the murderer in Windhelm. As you find out in the quest, the house is quite a mess, and this option will remove all of the blood and bones scattered through the house.
+  </details>
+  
 ## SOLITUDE - PROUDSPIRE MANOR
 
 |     |     |     |     |     |     |     |     |     |     |     |
@@ -70,6 +77,7 @@ VANILLA HOUSES - NO DLC'S
 |     |     |     |     |     |     |     |     |     | CHILD'S BEDROOM\* | HOUSECARL'S QUARTERS |
 | COST / REQUIREMENT |     |     |     |     |     |     |     |     |     | BECOME THANE OF SOLITUDE |
 | DESCRIPTION/ADDITIONS |     |     |     |     |     |     |     |     |     |     |
+
 
 > -   \*Child's Bedroom | Child's Bedroom only available if [Hearthfire](https://en.uesp.net/wiki/Skyrim:Hearthfire) is installed. Choosing this upgrade will create a new room next to the master bedroom.
 
