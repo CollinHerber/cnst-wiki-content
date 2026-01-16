@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2025-10-26T04:59:05.655Z
+date: 2026-01-16T18:07:27.105Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -863,7 +863,7 @@ Using beneficial potions and alchemical ingredients is `15%` better.
 
 <details>
   <summary>Follower</summary>
-  Magicka and Stamina regenerate <code>60%</code> faster while a potion, food item or ingredient is active.
+  Magicka and Stamina regenerate <code>75%</code> faster while a potion, food item or ingredient is active.
   </details>
 
 <details>
