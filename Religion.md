@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2026-03-26T06:57:24.136Z
+date: 2026-03-26T07:01:30.658Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -1532,7 +1532,7 @@ Pickpocketing is `10%` easier.
   
 ### [***Ebonarm***](https://en.uesp.net/wiki/Lore:Ebonarm)
 
->*Known as the Black Knight and the protector of all warriors, the great knight Reymon Ebonarm manifests as an unstoppable force clad in impenetrable ebony, his right hand eternally fused to the hilt of a soul-shearing blade. Seekers of martial glory whisper his name in the shadows of ancient shrines, for to summon his gaze is to invite a duel with a god who grants no mercy; only the honor of a warrior’s death.*
+>*Known as the Black Knight and the protector of all warriors, the God of War named Reymon Ebonarm manifests as an unstoppable force clad in impenetrable ebony, his right hand eternally fused to the hilt of a soul-shearing blade.*
 
 <img src="https://images.uesp.net/1/1a/ON-concept-Redguard_sword.png" alt="RedguardSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
 
