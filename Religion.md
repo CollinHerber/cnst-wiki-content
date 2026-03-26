@@ -2,7 +2,7 @@
 title: Religion
 description: Learn about religion and how it plays into the Constellations Collection
 published: true
-date: 2026-01-16T18:07:27.105Z
+date: 2026-03-26T06:57:24.136Z
 tags: religion
 editor: markdown
 dateCreated: 2025-04-29T22:39:27.570Z
@@ -1528,6 +1528,37 @@ Pickpocketing is `10%` easier.
 <details>
   <summary>Devotee</summary>
   Put skooma bottles in people's inventory, then pray to Baan Dar to ignite them within 200 feet for <code>X</code> damage (based on favor with Baan Dar). Costs <code>5%</code> favor.
+</details>
+  
+### [***Ebonarm***](https://en.uesp.net/wiki/Lore:Ebonarm)
+
+>*Known as the Black Knight and the protector of all warriors, the great knight Reymon Ebonarm manifests as an unstoppable force clad in impenetrable ebony, his right hand eternally fused to the hilt of a soul-shearing blade. Seekers of martial glory whisper his name in the shadows of ancient shrines, for to summon his gaze is to invite a duel with a god who grants no mercy; only the honor of a warrior’s death.*
+
+<img src="https://images.uesp.net/1/1a/ON-concept-Redguard_sword.png" alt="RedguardSymbol" style="float: right; max-width: 120px; height: auto; margin-top: -8px; margin-right: 25px;">
+
+**Accepts**  
+
+Everyone
+Starting Deity for: None
+
+**Tenets**  
+
+Slay daedra. Defeat epic foes. Complete miscellaneous quests for the people of Skyrim. Those skilled in Block are most deserving of my favor.
+
+**Shrine Blessing**  
+
+Armor rating of heavy armor pieces is increased by `10%`.
+
+**Boons**  
+
+<details>
+  <summary>Follower</summary>
+  Attacks and critical strikes are <code>X%</code> more effective against daedra and those who summon them (based on favor with Ebonarm).
+  </details>
+
+<details>
+  <summary>Devotee</summary>
+  Reduces the armor of enemies within 40 feet by <code>X</code> points (based on favor with Ebonarm) and you gain the total amount. Doubled against daedra.
 </details>
 
 ### [***Mannimarco***](https://en.uesp.net/wiki/Lore:Mannimarco)
