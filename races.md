@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2026-07-16T22:38:58.793Z
+date: 2026-07-16T22:43:06.754Z
 tags: race
 editor: markdown
 dateCreated: 2025-07-21T13:25:49.965Z
@@ -78,7 +78,7 @@ Playable Races and their changes in Constellations.
 
 **Starting Religions:** [Arkay](https://cnst.collinthedev.com/en/Religion#arkay) ● [Auriel](https://cnst.collinthedev.com/en/Religion#auriel) ● [Hircine](https://cnst.collinthedev.com/en/Religion#hircine) ● [Jephre](https://cnst.collinthedev.com/en/Religion#jephre) ● [Magnus](https://cnst.collinthedev.com/en/Religion#magnus) ● [Mara](https://cnst.collinthedev.com/en/Religion#mara) ● [Stendarr](https://cnst.collinthedev.com/en/Religion#stendarr) ● [Xarxes](https://cnst.collinthedev.com/en/Religion#xarxes) ● [Z'en](https://cnst.collinthedev.com/en/Religion#zen)
 
-<img src="https://images.uesp.net/d/dc/LG-cardart-Blacksap_Protector_Alt.png" alt="Bosmer" style="float: right; max-width: 300px; height: auto; margin-top: 50px; margin-right: 100px;">
+<img src="https://images.uesp.net/d/dc/LG-cardart-Blacksap_Protector_Alt.png" alt="Bosmer" style="float: right; max-width: 300px; height: auto; margin-top: 20px; margin-right: 100px;">
 
 **_Base Stats_**
 
@@ -104,7 +104,7 @@ Playable Races and their changes in Constellations.
 
 **Starting Religions:** [Akatosh](https://cnst.collinthedev.com/en/Religion#akatosh) ● [Arkay](https://cnst.collinthedev.com/en/Religion#arkay) ● [Dibella](https://cnst.collinthedev.com/en/Religion#dibella) ● [Magnus](https://cnst.collinthedev.com/en/Religion#magnus) ● [Mara](https://cnst.collinthedev.com/en/Religion#mara) ● [Phynaster](https://cnst.collinthedev.com/en/Religion#phynaster) ● [Stendarr](https://cnst.collinthedev.com/en/Religion#stendarr) ● [Xarxes](https://cnst.collinthedev.com/en/Religion#xarxes) ● [Zenithar](https://cnst.collinthedev.com/en/Religion#zenithar)
 
-<img src="https://images.uesp.net/1/10/LG-cardart-Glenumbra_Sorceress.png" alt="Breton" style="float: right; max-width: 300px; height: auto; margin-top: 50px; margin-right: 100px;">
+<img src="https://images.uesp.net/1/10/LG-cardart-Glenumbra_Sorceress.png" alt="Breton" style="float: right; max-width: 300px; height: auto; margin-top: 0px; margin-right: 100px;">
 
 **_Base Stats_**
 
@@ -128,7 +128,7 @@ Playable Races and their changes in Constellations.
 
 **Starting Religions:** [Azura](https://cnst.collinthedev.com/en/Religion#azura) ● [Boethia](https://cnst.collinthedev.com/en/Religion#boethia) ● [Malacath](https://cnst.collinthedev.com/en/Religion#malacath) ● [Mehrunes Dagon](https://cnst.collinthedev.com/en/Religion#mehrunes-dagon) ● [Mephala](https://cnst.collinthedev.com/en/Religion#mephala) ● [Molag Bal](https://cnst.collinthedev.com/en/Religion#molag-bal) ● [Sheogorath](https://cnst.collinthedev.com/en/Religion#sheogorath)
 
-<img src="https://images.uesp.net/5/5a/LG-cardart-Ashlander_Punisher.png" alt="Dunmer" style="float: right; max-width: 300px; height: auto; margin-top: 50px; margin-right: 100px;">
+<img src="https://images.uesp.net/5/5a/LG-cardart-Ashlander_Punisher.png" alt="Dunmer" style="float: right; max-width: 300px; height: auto; margin-top: 20px; margin-right: 100px;">
 
 **_Base Stats_**
 
@@ -154,7 +154,7 @@ Playable Races and their changes in Constellations.
 
 **Starting Religions** [Akatosh](https://cnst.collinthedev.com/en/Religion#akatosh) ● [Arkay](https://cnst.collinthedev.com/en/Religion#arkay) ● [Dibella](https://cnst.collinthedev.com/en/Religion#dibella) ● [Julianos](https://cnst.collinthedev.com/en/Religion#julianos) ● [Kynareth](https://cnst.collinthedev.com/en/Religion#kynareth) ● [Mara](https://cnst.collinthedev.com/en/Religion#mara) ● [Stendarr](https://cnst.collinthedev.com/en/Religion#stendarr) ● [Talos](https://cnst.collinthedev.com/en/Religion#talos) ● [Zenithar](https://cnst.collinthedev.com/en/Religion#zenithar)
 
-<img src="https://images.uesp.net/b/b3/LG-cardart-Empire_Oathman.png" alt="Imperial" style="float: right; max-width: 300px; height: auto; margin-top: 50px; margin-right: 100px;">
+<img src="https://images.uesp.net/b/b3/LG-cardart-Empire_Oathman.png" alt="Imperial" style="float: right; max-width: 300px; height: auto; margin-top: 40px; margin-right: 100px;">
 
 **_Base Stats_**
 
@@ -182,7 +182,7 @@ Playable Races and their changes in Constellations.
 
 **Starting Religions:** [Akatosh](https://cnst.collinthedev.com/en/Religion#akatosh) ● [Azura](https://cnst.collinthedev.com/en/Religion#azura) ● [Kynareth](https://cnst.collinthedev.com/en/Religion#kynareth) ● [Mephala](https://cnst.collinthedev.com/en/Religion#mephala) ● [Mehrunes Dagon](https://cnst.collinthedev.com/en/Religion#mehrunes-dagon) ● [Rajhin](https://cnst.collinthedev.com/en/Religion#rajhin) ● [Riddle'Thar](https://cnst.collinthedev.com/en/Religion#riddlethar) ● [Sheogorath](https://cnst.collinthedev.com/en/Religion#sheogorath)
 
-<img src="https://images.uesp.net/3/31/LG-cardart-Caravan_Enforcer.png" alt="Khajiit" style="float: right; max-width: 300px; height: auto; margin-top: 50px; margin-right: 100px;">
+<img src="https://images.uesp.net/3/31/LG-cardart-Caravan_Enforcer.png" alt="Khajiit" style="float: right; max-width: 300px; height: auto; margin-top: 80px; margin-right: 100px;">
 
 **_Base Stats_**
 
@@ -242,7 +242,7 @@ Playable Races and their changes in Constellations.
 
 **Starting Religions:** [Malacath](https://cnst.collinthedev.com/en/Religion#malacath) ● [Trinimac](https://cnst.collinthedev.com/en/Religion#trinimac)
 
-<img src="https://images.uesp.net/0/0f/LG-cardart-Stronghold_Patrol.png" alt="Orsimer" style="float: right; max-width: 300px; height: auto; margin-top: 50px; margin-right: 100px;">
+<img src="https://images.uesp.net/0/0f/LG-cardart-Stronghold_Patrol.png" alt="Orsimer" style="float: right; max-width: 300px; height: auto; margin-top: -10px; margin-right: 100px;">
 
 **_Base Stats_**
 
