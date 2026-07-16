@@ -2,7 +2,7 @@
 title: Birthsigns
 description: Learn more about the Birthsigns available in the Constellations Collections
 published: true
-date: 2026-07-16T23:08:51.025Z
+date: 2026-07-16T23:10:08.032Z
 tags: birthsign
 editor: markdown
 dateCreated: 2025-04-29T22:22:34.196Z
@@ -12,7 +12,7 @@ Birthsigns are powerful blessings granted by the Constellations that spread acro
 
 Birthsigns are selected when you create a character and can be exchanged for another Birthsign with the same Guardian by activating Standing Stones.
 
-## <span style="color: blue;">Mage</span>
+## <span style="color: blue;">Mage Birthsigns</span>
 
 The Mage birthsign and its three charges. Once you select one of these Birthsigns, you may not select any birthsign of the other two Guardians or The Serpent.
 
@@ -51,7 +51,7 @@ Disables Usage of Summoning Spells
 Once you select one of these Birthsigns, you may swap it out for any Birthsign within this group by activating a Standing Stone.  
  
 
-## <span style="color: green;">Thief</span>
+## <span style="color: green;">Thief Birthsigns</span>
 The Thief birthsign and its three charges. Once you select one of these Birthsigns, you may not select any birthsign of the other two Guardians or The Serpent.
 
 ### <span style="color: forestgreen;">**Lover**</span>
