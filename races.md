@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2026-07-16T22:36:09.020Z
+date: 2026-07-16T22:38:58.793Z
 tags: race
 editor: markdown
 dateCreated: 2025-07-21T13:25:49.965Z
@@ -26,9 +26,9 @@ Playable Races and their changes in Constellations.
 
 ❤️Health: `140` 
 
-💧Magicka: `235` 
+💧Magicka: `240` 
 
-🔋Stamina: `115` 
+🔋Stamina: `120` 
 
 ⚖️Carry Weight: `95` 
 
@@ -54,9 +54,9 @@ Playable Races and their changes in Constellations.
 
 ❤️Health: `155` 
 
-💧Magicka: `125` 
+💧Magicka: `130` 
 
-🔋Stamina: `155` 
+🔋Stamina: `160` 
 
 ⚖️Carry Weight: `105` 
 
@@ -84,9 +84,9 @@ Playable Races and their changes in Constellations.
 
 ❤️Health: `140` 
 
-💧Magicka: `155` 
+💧Magicka: `160` 
 
-🔋Stamina: `165` 
+🔋Stamina: `170` 
 
 ⚖️Carry Weight: `95` 
 
@@ -110,9 +110,9 @@ Playable Races and their changes in Constellations.
 
 ❤️Health: `140` 
 
-💧Magicka: `155` 
+💧Magicka: `160` 
 
-🔋Stamina: `125` 
+🔋Stamina: `130` 
 
 ⚖️Carry Weight: `95`
 
@@ -134,9 +134,9 @@ Playable Races and their changes in Constellations.
 
 ❤️Health: `150` 
 
-💧Magicka: `145` 
+💧Magicka: `150` 
 
-🔋Stamina: `135` 
+🔋Stamina: `140` 
 
 ⚖️Carry Weight: `100` 
 
@@ -160,9 +160,9 @@ Playable Races and their changes in Constellations.
 
 ❤️Health: `160` 
 
-💧Magicka: `135` 
+💧Magicka: `140` 
 
-🔋Stamina: `185` 
+🔋Stamina: `190` 
 
 ⚖️Carry Weight: `110` 
 
@@ -188,9 +188,9 @@ Playable Races and their changes in Constellations.
 
 ❤️Health: `140` 
 
-💧Magicka: `125` 
+💧Magicka: `130` 
 
-🔋Stamina: `155` 
+🔋Stamina: `160` 
 
 ⚖️Carry Weight: `100` 
 
@@ -220,9 +220,9 @@ Playable Races and their changes in Constellations.
 
 ❤️Health: `170` 
 
-💧Magicka: `105` 
+💧Magicka: `110` 
 
-🔋Stamina: `160` 
+🔋Stamina: `165` 
 
 ⚖️Carry Weight: `115` 
 
@@ -248,9 +248,9 @@ Playable Races and their changes in Constellations.
 
 ❤️Health: `180` 
 
-💧Magicka: `95` 
+💧Magicka: `100` 
 
-🔋Stamina: `150` 
+🔋Stamina: `155` 
 
 ⚖️Carry Weight: `125` 
 
@@ -272,9 +272,9 @@ Playable Races and their changes in Constellations.
 
 ❤️Health: `160` 
 
-💧Magicka: `105` 
+💧Magicka: `110` 
 
-🔋Stamina: `160` 
+🔋Stamina: `165` 
 
 ⚖️Carry Weight: `105` 
 
