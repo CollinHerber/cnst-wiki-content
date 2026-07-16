@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2026-01-07T14:28:57.330Z
+date: 2026-07-16T22:36:09.020Z
 tags: race
 editor: markdown
 dateCreated: 2025-07-21T13:25:49.965Z
@@ -40,10 +40,6 @@ Playable Races and their changes in Constellations.
 
 💧High Magicka Regeneration
 
-**_Skills_**
-
-`+10` Destruction `+10` Illusion `+10` Enchanting `+5` Alteration `+5` Conjuration `+5` Restoration
-
 ---
 
 ## [Argonian](https://en.uesp.net/wiki/Lore:Argonian)
@@ -74,10 +70,6 @@ Playable Races and their changes in Constellations.
 
 🤿Waterbreathing
 
-**_Skills_**
-
-`+10` Light Armor `+10` Pickpocket `+10` Lockpicking `+5` Sneak `+5` Alteration `+5` Restoration
-
 ---
 
 ## [Bosmer](https://en.uesp.net/wiki/Lore:Bosmer)
@@ -104,10 +96,6 @@ Playable Races and their changes in Constellations.
 
 🐺Command Animals `1x Day`
 
-**_Skills_**
-
-`+15` Archery `+10` Light Armor `+5` Pickpocket `+5` Lockpicking `+5` Sneak `+5` Alchemy
-
 ---
 
 ## [Breton](https://en.uesp.net/wiki/Lore:Breton)
@@ -131,10 +119,6 @@ Playable Races and their changes in Constellations.
 **_Racial Traits:_**
 
 :gem:Magic Absorb: `+15`
-
-**_Skills_**
-
-`+15` Conjuration `+10` Alteration `+5` Illusion `+5` Restoration `+5` Speech `+5` Alchemy
 
 ---
 
@@ -161,10 +145,6 @@ Playable Races and their changes in Constellations.
 :fire:Resist Fire: `+65%` 
 
 🛡️Resist All Damage: `+7%`
-
-**_Skills_**
-
-`+15` Destruction `+10` One-Handed `+5` Light Armor `+5` Sneak `+5` Alteration `+5` Illusion
 
 ---
 
@@ -193,10 +173,6 @@ Playable Races and their changes in Constellations.
 👟Sprint Longer 
 
 🔋High Stamina Regeneration
-
-**_Skills_**
-
-`+10` Block `+10` Restoration `+10` Speech `+5` One-Handed `+5` Heavy Armor `+5` Destruction
 
 ---
 
@@ -230,10 +206,6 @@ Playable Races and their changes in Constellations.
 
 :eye:Night Vision
 
-**_Skills_**
-
-`+15` Sneak `+10` Alchemy `+5` One-Handed `+5` Archery `+5` Pickpocket `+5` Lockpicking
-
 ---
 
 ## [Nord](https://en.uesp.net/wiki/Lore:Nord)
@@ -262,10 +234,6 @@ Playable Races and their changes in Constellations.
 
 :hourglass:Shout Cooldown: `-15%`
 
-**_Skills_**
-
-`+10` One-Handed `+10` Two-Handed `+10` Smithing `+5` Block `+5` Heavy Armor `+5` Light Armor
-
 ---
 
 ## [Orsimer](https://en.uesp.net/wiki/Lore:Orc)
@@ -289,10 +257,6 @@ Playable Races and their changes in Constellations.
 **_Racial Traits:_**
 
 :rage:Damage Taken/Dealt: `-/+15%-35%` depending on missing health
-
-**_Skills_**
-
-`+10` Two-Handed `+10` Block `+10` Heavy Armor `+5` One-Handed `+5` Light Armor `+5` Smithing
 
 ---
 
@@ -321,9 +285,5 @@ Playable Races and their changes in Constellations.
 🦠Resist Disease: `+75%` 
 
 🔋Very High Stamina Regeneration
-
-_Skills_
-
-`+15` One-Handed `+10` Archery `+5` Two-Handed `+5` Block `+5` Alteration `+5` Smithing
 
 ---
