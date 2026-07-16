@@ -2,7 +2,7 @@
 title: Classes
 description: Learn more about the playable Races available in the Constellations Collections
 published: true
-date: 2025-08-11T11:48:09.048Z
+date: 2026-07-16T22:06:37.754Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-21T12:53:07.991Z
@@ -10,332 +10,202 @@ dateCreated: 2025-07-21T12:53:07.991Z
 
 # Classes of Constellations
 
-Classes are divided into 3 specializations: Combat, Magic, and Stealth. The specialization of the class determines its base skill bonuses, while each class grants further bonuses to 6 skills.
+Classes determine a character's starting skills. Each class has 1 Major Skill that starts at 25, and 4 Minor Skills that start at 15.
 
-You can also choose to create your own custom class.
 
 ---
-
-## _Custom Class_
-
-*Create your own class and choose a Specialization, an attribute, and 6 skills of your choice.* 
-
-**Specialization Bonus: Combat Specialization** or **Magic Specialization** or ***Stealth Specialization** (granting* `+5` *to skills in the appropriate categories)*
-
-❤️**Health** `+10` or 💧**Magicka** `+10` or 🔋**Stamina** `+10` 
-
-**Skills:** `+5` Skill `+5` Skill `+5` Skill `+5` Skill `+5` Skill `+5` Skill
-
-
 
 ## <span style="color: red;">_Combat Classes_</span>
 
-These classes gain a bonus to all Warrior skills.
-
-**_Combat Specialization Bonus:_**
-
-`+5` Archery `+5` Block `+5` Heavy Armor `+5` One-Handed `+5` Smithing `+5` Two-Handed
-
----
-
 ### Combat Classes Tabset {.tabset}
 #### Archer
-*A marksman, adept at combat at great distances. Able to take down most foes before they have a chance to draw their sword.* 
-
-🔋Stamina `+10`
+*A marksman who strikes from a distance, taking down foes before they even draw a weapon.* 
 
 **Skills:**
-`+5` Archery 
-`+5` Block 
-`+5` Heavy Armor 
-`+5` One-Handed 
-`+5` Smithing 
-`+5` Two-Handed
+`25` Archery 
+`15` Alchemy 
+`15` Evasion
+`15` One-Handed 
+`15` Smithing 
 
 #### Barbarian
-*Fearsome brutes who inspire fear in the hearts of their enemies. Finding little use for heavy armor, they are swift and powerful.* 
-
-🔋Stamina `+10`
+*Fearsome warriors who wield Two-handed weapons to inspire fear in the hearts of their enemies.* 
 
 **Skills:**
-`+5` Archery 
-`+5` Block 
-`+5` One-Handed 
-`+5` Smithing 
-`+5` Two-Handed 
-`+5` Light Armor
+`25` Two Handed
+`15` Archery
+`15` Evasion
+`15` Lockpicking
+`15` Smithing
 
 #### Crusader
-*A combatant who wields the power of brute strength and medicinal knowledge.* 
-
-❤️Health `+10` 
+*Heavily armored warriors who use their shields and their keen knowledge of Restoration to rid the world of evil.* 
 
 **Skills:** 
-`+5` Block 
-`+5` Heavy Armor 
-`+5` One-Handed 
-`+5` Two-Handed 
-`+5` Destruction 
-`+5` Restoration
+`25` Block 
+`15` Enchanting 
+`15` Heavy Armor
+`15` One-Handed 
+`15` Restoration 
 
 #### Knight
-*The most noble of all combatants. Strong in body and in character.* 
-
-❤️Health `+10` 
+*Knights are students of the noble arts of war. In addition to their schooling in letters and speechcraft, knights also learn to care for their arms and armor on the battlefield.* 
 
 **Skills:** 
-`+5` Block 
-`+5` Heavy Armor 
-`+5` One-Handed 
-`+5` Two-Handed 
-`+5` Illusion 
-`+5` Speech
+`25` Smithing 
+`15` Block
+`15` Heavy Armor
+`15` Two-Handed 
+`15` Speech
 
-#### Rogue
-*They use speed in combat rather than brute force. Persuasive in conversation, their tongues are as sharp as blades.* 
-
-🔋Stamina `+10` 
+#### Spellsword
+*Warriors trained in the art of magic, spellswords wield both blade and spell. Their skill with One-handed weapons makes them deadly at close range.* 
 
 **Skills:** 
-`+5` Block 
-`+5` One-Handed 
-`+5` Illusion 
-`+5` Alchemy 
-`+5` Light Armor 
-`+5` Speech
-
-#### Scout
-*Preferring the countryside to cities, they are gifted with the ability to evade, guard and protect themselves with great proficiency.* 
-
-🔋Stamina `+10` 
-
-**Skills:** 
-`+5` Archery 
-`+5` Block 
-`+5` One-Handed 
-`+5` Smithing 
-`+5` Alchemy 
-`+5` Light Armor
+`25` One-Handed
+`15` Destruction
+`15` Enchanting
+`15` Evasion
+`15` Restoration
 
 #### Warrior
-*Unafraid of light weaponry, they plow into battle with little regard for injury. Masters of all melee tools, they put little faith in magic.* 
-
-❤️Health `+10` 
+*Warriors are professional fighters who plow into the fray with little regard for danger. Adept with all weapons, warriors rely on heavy armor to protect them in battle.* 
 
 **Skills:** 
-`+5` Archery 
-`+5` Block 
-`+5` Heavy Armor 
-`+5` One-Handed 
-`+5` Smithing 
-`+5` Two-Handed
+`25` Heavy Armor
+`15` Archery 
+`15` Block 
+`15` One-Handed 
+`15` Two-Handed
 
 ---
 
 ## <span style="color: blue;">_Magic Classes_</span>
 
-These classes gain a bonus to all Mage skills.
-
-**_Magic Specialization Bonus:_**
-
-`+5` Alteration `+5` Conjuration `+5` Destruction `+5` Enchanting `+5` Illusion `+5` Restoration
-
----
-
 ### Magic Classes Tabset {.tabset}
 
 #### Battlemage
-*Able to resolve conflicts with spell or sword, they are a deadly mix of scholar and soldier.* 
-
-💧Magicka `+10` 
+*Protected by heavy armor and armed with Destruction magic, battlemages are a deadly mix of scholar and soldier.* 
 
 **Skills:** 
-`+5` One-Handed 
-`+5` Alteration 
-`+5` Conjuration 
-`+5` Destruction 
-`+5` Enchanting 
-`+5` Alchemy
+`25` Destruction
+`15` Alteration
+`15` Heavy Armor
+`15` One-Handed 
+`15` Restoration
 
 #### Healer
-*Fighters of poison and illness. The ancient art of restoration is their ally, and the deadly art of destruction is their weapon.* 
-
-💧Magicka `+10` 
+*Healers do battle against injury, poison, and disease. The ancient art of Restoration is their ally, and also their weapon.* 
 
 **Skills:** 
-`+5` Alteration 
-`+5` Destruction 
-`+5` Illusion 
-`+5` Restoration 
-`+5` Alchemy 
-`+5` Speech
+`25` Restoration
+`15` Alteration
+`15` Enchanting
+`15` Illusion
+`15` Speech
 
 #### Mage
-*Prefering to use their extensive knowledge of all things magical, they wield powerful might.* 
-
-💧Magicka `+10` 
+*Relying on their extensive knowledge of Alteration magic for protection, mages wield a power more deadly than even the sharpest blade.* 
 
 **Skills:** 
-`+5` Alteration 
-`+5` Conjuration 
-`+5` Destruction 
-`+5` Enchanting 
-`+5` Illusion 
-`+5` Restoration
+`25` Alteration
+`15` Conjuration
+`15` Destruction
+`15` Illusion
+`15` Restoration
 
 #### Nightblade
-*Spell and shadow are their friends. By darkness they move with haste, casting magic to benefit their circumstances.* 
-
-💧Magicka `+10` 
+*Spell and shadow are the nightblade’s friend. Their affinity for Illusion magic gives them a sinister reputation.* 
 
 **Skills:** 
-`+5` One-Handed 
-`+5` Alteration 
-`+5` Destruction 
-`+5` Illusion 
-`+5` Light Armor 
-`+5` Sneak
+`25` Illusion
+`15` Conjuration
+`15` Destruction
+`15` One-Handed 
+`15` Sneak
 
 #### Sorcerer
-*These mages rely on spells of the mystic arts and bodily stamina to don the thickest armor.* 
-
-💧Magicka `+10` 
+*Spellcasters who rely on enchantments and summoned servants for protection. Their desire for power often leads where others refuse to go.* 
 
 **Skills:** 
-`+5` Heavy Armor 
-`+5` Alteration 
-`+5` Conjuration 
-`+5` Destruction 
-`+5` Enchanting 
-`+5` Restoration
-
-#### Spellsword
-*Students of combat and magic. More nimble and athletic than the sorcerer, and better suited for spell-casting than the knight.* 
-
-❤️Health `+10` 
-
-**Skills:** 
-`+5` Heavy Armor 
-`+5` One-Handed 
-`+5` Alteration 
-`+5` Destruction 
-`+5` Illusion 
-`+5` Restoration 
+`25` Enchanting
+`15` Alteration
+`15` Conjuration
+`15` Heavy Armor
+`15` Two-Handed
 
 #### Witchhunter
-*Swift on foot, and clever with spells and bows, they use distance as their ally.* 
-
-🔋Stamina `+10` 
+*Witchhunters are dedicated to rooting out and destroying the evil practices of dark cults and profane sorcery. They do battle with Conjuration magic and potent elixirs.*
 
 **Skills:** 
-`+5` Archery 
-`+5` Conjuration 
-`+5` Destruction 
-`+5` Enchanting 
-`+5` Alchemy 
-`+5` Lockpicking
+`25` Conjuration
+`15` Alchemy
+`15` Archery
+`15` Evasion
+`15` Restoration
 
 ## <span style="color: green;">_Stealth Classes_</span>
 
-These classes gain a bonus to all Thief skills.
-
-**_Stealth Specialization Bonus:_**
-
-`+5` Alchemy `+5` Light Armor `+5` Lockpicking `+5` Pickpocket `+5` Sneak `+5` Speech 
-
----
-
 ### Stealth Classes Tabset {.tabset}
 
-#### Acrobat
-*The kind of person that uses agility and endurance to their advantage. Unafraid of jumping long distances.* 
-
-🔋Stamina `+10` 
-
-**Skills:** 
-`+5` Archery 
-`+5` Block 
-`+5` One-Handed 
-`+5` Lockpicking 
-`+5` Sneak 
-`+5` Speech
-
 #### Agent
-*Charming when they can be seen, and nearly invisible when in shadow.* 
-
-🔋Stamina `+10` 
+*Charming when they wish to be seen, and nearly invisible when they do not, agents are skilled in the arts of subterfuge and deception. When threatened, agents strike from afar with arrows coated in deadly poison.* 
 
 **Skills:** 
-`+5` Archery 
-`+5` Illusion 
-`+5` Lockpicking 
-`+5` Pickpocketing 
-`+5` Sneak 
-`+5` Speech
+`25` Alchemy
+`15` Archery
+`15` Illusion
+`15` Speech
+`15` Sneak
 
 #### Assassin
-*Nimble and quiet, they move in darkness to strike at the unsuspecting. Locks hold no doors shut for them.* 
-
-🔋Stamina `+10` 
+*Swift and deadly, assassins move through shadows to strike at unsuspecting foes. Their short blades are whetted with the blood of previous kills.* 
 
 **Skills:** 
-`+5` Archery 
-`+5` One-Handed 
-`+5` Alchemy 
-`+5` Light Armor 
-`+5` Lockpicking 
-`+5` Sneak
-
-#### Bard
-*Intelligent and personable, they prefer to accomplish tasks with their words first, and sword second.* 
-
-🔋Stamina `+10` 
-
-**Skills:** 
-`+5` Block 
-`+5` One-Handed 
-`+5` Illusion 
-`+5` Alchemy 
-`+5` Light Armor 
-`+5` Speech
+`25` Sneak
+`15` Alchemy
+`15` Evasion
+`15` One-Handed
+`15` Pickpocket
 
 #### Monk
-*Quick and cunning with the empty hand, they are strong in spirit. They prefer to solve conflict by arrow or by fist.* 
-
-🔋Stamina `+10` 
+*Monks combine the martial and mystic arts, protecting themselves with spells while engaging foes in hand-to-hand combat.* 
 
 **Skills:** 
-`+5` Archery 
-`+5` Block 
-`+5` Alteration 
-`+5` Restoration 
-`+5` Lockpicking 
-`+5` Sneak
+`25` Lockpicking
+`15` Alteration
+`15` Restoration
+`15` Pickpocket
+`15` Speech
 
-#### Pilgrim
-*Hearty folk, well-versed in the tomes of old. They profit in life by bartering in the market, or by persuading the weak-minded.* 
-
-❤️Health `+10` 
+#### Rogue
+*Rogues are adventurers and opportunists with tongues as sharp as their blades.* 
 
 **Skills:** 
-`+5` Block 
-`+5` Smithing 
-`+5` Two-Handed 
-`+5` Light Armor 
-`+5` Lockpicking 
-`+5` Speech
+`25` Speech
+`15` Alchemy
+`15` Evasion
+`15` One-Handed
+`15` Pickpocket
+
+#### Scout
+*Cautious warriors who rely on speed and cunning, scouts use bows to fight from range, and shields to protect themselves when the fight comes to them.* 
+
+**Skills:** 
+`25` Evasion
+`15` Archery
+`15` Block
+`15` One-Handed
+`15` Smithing
 
 #### Thief
-*Profiting from the losses of others is their love. Able to be swift in shadow, and crafty in bartering. Lock-picks are their swords.* 
-
-🔋Stamina `+10` 
+*Thieves are pickpockets and pilferers who profit from the loss of others. Unlike common bandits, thieves prefer subterfuge over violence.* 
 
 **Skills:** 
-`+5` Archery 
-`+5` Light Armor 
-`+5` Lockpicking 
-`+5` Pickpocketing 
-`+5` Sneak 
-`+5` Speech
+`25` Pickpocket
+`15` Lockpicking
+`15` Evasion
+`15` Sneak
+`15` Speech
 
 
