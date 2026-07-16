@@ -2,13 +2,17 @@
 title: Traits
 description: 
 published: true
-date: 2026-07-16T22:32:41.855Z
+date: 2026-07-16T22:56:46.501Z
 tags: traits
 editor: markdown
 dateCreated: 2026-07-16T22:13:47.648Z
 ---
 
 # Traits
+
+Traits can be chosen during character creation in the Race Menu. Only 1 Trait can be active. It cannot be changed after character creation.
+
+---
 
 ### Acrobatic
 You jump 50% higher and take 50% less damage from falling.
