@@ -2,8 +2,8 @@
 title: Traits
 description: 
 published: true
-date: 2026-07-16T22:23:14.395Z
-tags: 
+date: 2026-07-16T22:32:41.855Z
+tags: traits
 editor: markdown
 dateCreated: 2026-07-16T22:13:47.648Z
 ---
