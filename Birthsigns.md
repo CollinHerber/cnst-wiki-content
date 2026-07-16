@@ -2,7 +2,7 @@
 title: Birthsigns
 description: Learn more about the Birthsigns available in the Constellations Collections
 published: true
-date: 2025-08-10T07:32:51.501Z
+date: 2026-07-16T23:02:55.706Z
 tags: birthsign
 editor: markdown
 dateCreated: 2025-04-29T22:22:34.196Z
@@ -12,7 +12,7 @@ Birthsigns are powerful blessings granted by the Constellations that spread acro
 
 Birthsigns are selected when you create a character and can be exchanged for another Birthsign with the same Guardian by activating Standing Stones.
 
-## Mage
+## <span style="color: blue;">Mage</span>
 
 The Mage birthsign and its three charges. Once you select one of these Birthsigns, you may not select any birthsign of the other two Guardians or The Serpent.
 
@@ -51,8 +51,7 @@ Disables Usage of Summoning Spells
 Once you select one of these Birthsigns, you may swap it out for any Birthsign within this group by activating a Standing Stone.  
  
 
-## Thief
-
+## <span style="color: green;">Thief</span>
 The Thief birthsign and its three charges. Once you select one of these Birthsigns, you may not select any birthsign of the other two Guardians or The Serpent.
 
 ### **Lover**
@@ -89,7 +88,7 @@ Create Wax Key of any effortless lock
 
 Once you select one of these Birthsigns, you may swap it out for any Birthsign within this group by activating a Standing Stone.
 
-## **_Warrior Birthsigns_**
+## <span style="color: red;">**_Warrior Birthsigns_**</span>
 
 The Warrior birthsign and its three charges. Once you select one of these Birthsigns, you may not select any birthsign of the other two Guardians or The Serpent.
 
@@ -123,7 +122,7 @@ Armor Penetration: `+10`
 
 Once you select one of these Birthsigns, you may swap it out for any Birthsign within this group by activating a Standing Stone.
 
-## **The Serpent Birthsign**
+## <span style="color: darkgreen;">**The Serpent Birthsign**</span>
 
 The Serpent Birthsign has no Guardian. Once you select The Serpent, you may not select another Birthsign.
 
