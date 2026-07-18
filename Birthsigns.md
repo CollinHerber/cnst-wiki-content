@@ -2,7 +2,7 @@
 title: Birthsigns
 description: Learn more about the Birthsigns available in the Constellations Collections
 published: true
-date: 2026-07-16T23:10:08.032Z
+date: 2026-07-18T00:18:45.465Z
 tags: birthsign
 editor: markdown
 dateCreated: 2025-04-29T22:22:34.196Z
@@ -130,4 +130,4 @@ The Serpent Birthsign has no Guardian. Once you select The Serpent, you may not 
 
 Poison Resistance: `+50%` 
 
-Damage against poisoned targets: `+15%`
+Damage against poisoned targets: `+20%`
