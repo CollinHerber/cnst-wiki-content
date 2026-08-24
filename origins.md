@@ -2,14 +2,14 @@
 title: Origins
 description: 
 published: true
-date: 2026-08-24T05:41:44.172Z
+date: 2026-08-24T05:42:02.853Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-24T05:41:44.172Z
 ---
 
 # Origins
-Origins are selectable once you've created your character. They provide an initial goal for you to strive for and act as a jumping off point for roleplay. There is a small debuff to experience gain until you complete your origin quest. Completing your origin quest grants you a small buff.
+Origins are selectable once you've created your character. They provide an initial goal for you to strive for and act as a jumping off point for roleplay. There is a small debuff to experience gain until you complete your origin quest. Completing your origin quest grants you a small buff or item.
 
 ---
 
